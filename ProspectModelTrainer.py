@@ -73,7 +73,7 @@ def model_training(X,y):
 
     print(prediction)
 
-    model_obj_path = confObj.modePath()
+    model_obj_path = confObj.modelPath()
 
     # pickle our model that we can use if for predictions 
     pickle.dump(Gbost,open(model_obj_path,'wb+'))

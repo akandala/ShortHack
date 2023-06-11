@@ -18,7 +18,7 @@ class Config:
         except Exception as ex:
             traceback.print_exc();
     
-    def modePath(self):
+    def modelPath(self):
         return self.model_path + self.model_file
 
     def dataSourcePath(self):
