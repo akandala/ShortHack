@@ -1,0 +1,1517 @@
+gcardId,relCode,phoneType1,phoneType2,city,state,zip,countryCode,jobTypeID,rentOwnFlag,DOB,Gender,CriminalQuestion,BrokenLease,Evicted,SuedForDamage,SuedForRent,MaritalStatus,ResidentDesignation,IsInternationalApplicant,PrefCommunicationType,County,status,trfsrcName,gcardPreferedFloorplanGroupId,gcardOccupantCount
+137525325,H,M,,Seabrook,TX,77586-3247,,T0000016,R,10/21/1996,F,,0,1,0,0,,,0,,,0,Property Website,Z000000001,1
+137359377,H,M,,Houston,TX,77025-2329,,T0000002,R,11/5/1990,M,,1,0,0,0,,,0,,,0,Online Business Listing,Z000000001,0
+137068116,H,,,Fairburn,GA,30213-5121,,Techno,R,6/19/1992,M,,0,1,1,1,,,0,,,0,Off-Site Signage,Z000000095,1
+133711549,H,M,,NULL,,,,,R,4/24/1988,F,,0,1,0,0,,,0,,,0,Property Website,Z000000004,0
+130251138,H,M,,Portland,OR,97205-1718,,Rstrnt,R,12/17/1993,M,,1,0,0,0,,,0,,,0,Craigslist.org,Z000000012,1
+129912484,H,M,H,Pearland,TX,77584-8420,,SlfEmpyd,R,7/17/1989,M,,0,1,0,0,,,0,,,0,In-House Transfer,Z000000001,1
+127327831,H,M,,Nashville,TN,37203-4564,,T0000017,R,12/28/1990,M,,1,1,1,1,,,0,,,0,Greystar Property Referral,Z000000001,2
+126722080,H,H,W,Concord,NC,28027-7345,,,R,12/16/1973,F,,0,0,0,1,,,0,,,0,ApartmentFinder.com,Z000000001,1
+126307451,H,H,,Arlington,TX,0,US,T0000015,R,2/17/1987,M,0,1,0,0,0,,,0,,,0,Property Website,Z000000001,1
+126198713,H,H,,Fresno,TX,0,US,,N,5/20/1989,M,0,1,0,0,0,,,0,,,0,Live/Work in Area,Z000000001,4
+126059652,H,M,,Arlington,TX,76016-4500,,T0000013,R,5/4/1989,F,,1,0,0,0,,,0,,,0,Online Display,Z000000005,1
+125992709,H,M,,Boxborough,MA,01719-1540,,Mdcl,R,1/1/1985,,,0,1,0,0,,,0,,,0,Local Business,Z000000007,1
+125963193,H,M,,San Antonio,TX,78229,US,,F,6/10/1992,,0,1,0,0,0,,,0,,,0,Apartments.com,Z000000001,1
+125927531,H,H,,Conroe,TX,0,US,T0000006,O,7/10/1990,M,0,1,0,0,0,,,0,,,0,Apartments.com,Z000000001,1
+125835084,H,M,,Buckeye,AZ,85396,,,F,10/17/1986,F,,1,0,0,0,,,0,,,0,Rent.com,Z000000007,0
+125544873,H,M,,Houston,TX,77003,,,F,12/8/1990,,,1,0,0,0,,,0,,,0,Live/Work in Area,Z000000001,0
+125281166,H,M,,Cleveland,TX,77327,US,,F,1/23/1992,,0,1,0,0,0,,,0,,,0,Apartment Locator,Z000000001,1
+124771782,H,M,,Westminster,CO,80234-5644,,,F,5/3/1991,,,1,0,0,0,,,0,,,0,Apartments.com,Z000000001,0
+124718237,H,H,M,Arlington,TX,76013,US,,F,3/1/1990,M,0,1,1,1,1,,,0,,,0,Zillow Rental Network,Z000000005,1
+124188361,H,H,,San Rafael,CA,94901,,Techno,N,3/17/1957,M,,0,1,0,0,,,0,,,0,Greystar Property Referral,Z000000001,1
+123844894,H,M,,Houston,TX,77090,US,,F,9/1/1985,,0,1,0,0,0,,,0,,,0,Rent.com,Z000000003,1
+123066253,H,W,W,Woodbridge,VA,22191-4298,,,R,3/7/1957,F,,0,0,0,1,,,0,,,0,Live/Work in Area,Z000000001,1
+121524692,H,H,W,Palatine,IL,60074,,T0000007,O,11/10/1953,M,,0,0,0,1,,,0,,,0,Live/Work in Area,Z000000005,1
+121370445,H,H,M,Houston,TX,77077-5042,,T0000014,R,1/14/1970,M,,0,1,0,0,,,0,,,0,Friend/Family Referral,Z000000001,2
+121362463,H,H,M,Rosemount,MN,55068-1797,,Techno,F,2/13/1980,F,,0,1,0,0,,,0,,,0,Google.com,Z000000001,1
+121109947,H,M,,Nashville,TN,37221,,,F,3/12/1982,,0,1,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000001,1
+121104555,H,H,,Phoenix,AZ,85014,,,F,8/27/1968,,0,1,0,0,0,,,0,,,0,Non Greystar Prop Referral,Z000000005,1
+121096678,H,M,,Los Angeles,CA,90008,,,F,3/18/1992,,0,1,0,0,0,,,0,,,0,ProMove,Z000000001,2
+121089106,H,M,,San Ramon,CA,94583,,,F,7/7/1986,M,,1,0,0,0,,,0,,,0,Google.com,Z000000001,2
+121069511,H,M,,Dallas,TX,75074,,,F,6/9/1969,,1,1,1,1,1,,,0,,,0,Bandit/Bootleg Sign,Z000000006,1
+121058746,H,H,M,Corpus Christi,TX,78414,,T0000017,O,8/15/1977,M,,1,0,0,0,,,0,,,0,Resident Referral,Z000000001,1
+121048468,H,H,W,Charlotte,NC,28273,,,F,8/5/1988,,,1,0,0,0,,,0,,,0,Banner/A-Frame/Other Sign,Z000000005,2
+121045786,H,M,,Montgomery,TX,77356,,,F,2/21/1983,,0,1,0,0,0,,,0,,,0,Friend/Family Referral,Z000000005,1
+121044006,H,M,W,Suitland,MD,20746,,,F,10/11/1982,,,0,0,0,1,,,0,,,0,ApartmentRatings.com,Z000000001,1
+121021033,H,H,W,Charlotte,NC,28226-4736,,,F,5/2/1989,,,1,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000001,2
+121016830,H,M,,Cedar Hill,TX,75104,,,F,4/24/1989,,0,1,0,0,0,,,0,,,0,Apartment Locators,Z000000001,1
+121002669,H,H,M,Richmond,VA,23230,,,F,8/17/1987,,0,0,1,1,0,,,0,,,0,Craigslist.org,Z000000001,1
+101775741,H,M,,Phoenix,AZ,85020,,,F,11/26/1980,,0,1,0,0,0,,,0,,,0,Apartments.com,Z000000003,1
+101770148,H,H,M,Cornelius,NC,28031,,,F,10/7/1963,,0,1,0,0,0,,,0,,,0,Property Website-Desktop,Z000000008,2
+101761691,H,M,M,Plantation,FL,33324,US,,F,2/28/1977,F,0,1,0,0,0,,,0,,,0,Property Web Site,Z000000001,2
+101753326,H,,,Charlotte,NC,28215-3783,,,F,11/1/1986,,,1,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000005,2
+101735193,H,H,M,Mesa,AZ,85211-0343,,,N,3/25/1968,F,,1,0,0,0,,,0,,,0,Other,Z000000001,1
+101722342,H,M,,Frederick,CO,80530,,,F,12/16/1992,,0,1,0,0,0,,,0,,,0,Apartment Finder,Z000000001,2
+101711244,H,H,M,Saint Petersburg,FL,33702,,,F,11/15/1986,,0,1,0,0,0,,,0,,,0,Friend/Family Referral,Z000000005,2
+101707383,H,H,W,McKinney,TX,75070,,,F,8/26/1987,F,,1,0,0,0,,,0,,,0,Apartments.com,Z000000005,2
+101641503,H,M,,Houston,TX,77004,,,F,12/21/1966,,0,1,0,0,0,,,0,,,0,Apartment Finder,Z000000001,1
+101639855,H,,,San Antonio,TX,78261,,,F,6/11/1990,,0,1,0,0,0,,,0,,,0,Rent.com,Z000000001,1
+101633504,H,M,,Phoenix,AZ,85023,,,F,5/1/1991,,0,1,1,0,0,,,0,,,0,Craigslist.org,Z000000005,1
+101617425,H,M,,Houston,TX,77030,US,,F,3/17/1987,,0,1,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000005,3
+101617425,H,M,,Houston,TX,77030,US,,F,3/17/1987,,0,1,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000005,3
+101615074,H,M,,Phoenix,AZ,85043,,,F,12/6/1981,,0,0,1,0,0,,,0,,,0,Property Web Site,Z000000001,1
+101609405,H,H,,Charlotte,NC,28208-4660,,,F,2/18/1973,,,1,0,0,0,,,0,,,0,Property Web Site,Z000000005,3
+101598863,H,M,,Savannah,GA,31401,,,F,6/20/1989,,0,1,0,0,0,,,0,,,0,Property Web Site,Z000000012,1
+101584372,H,M,,District Heights,MD,20746,,,F,10/10/1949,,0,1,0,0,0,,,0,,,0,Property Web Site,Z000000003,2
+101576051,H,M,,Bensalem,PA,19020,,,F,11/26/1974,,0,0,0,0,1,,,0,,,0,Property Web Site,Z000000001,1
+101546570,H,H,W,Austin,TX,78741,,,F,8/14/1974,,,1,0,0,0,,,0,,,0,Aukum Other,Z000000001,1
+101546570,H,H,W,Austin,TX,78741,,,F,8/14/1974,,,1,0,0,0,,,0,,,0,Aukum Other,Z000000001,1
+101536850,H,M,,Jacksonville,FL,32208,,,F,1/11/1979,,0,1,0,0,0,,,0,,,0,Pro Move,Z000000005,1
+101532313,H,M,,National City,CA,91950,,,F,4/21/1967,,0,0,1,0,0,,,0,,,0,Other,Z000000005,2
+101463929,H,H,M,Baltimore,MD,21229,,,F,9/7/1964,,0,1,0,0,0,,,0,,,0,Other,Z000000001,1
+101445453,H,H,W,Pflugerville,TX,78660-2116,,,R,2/18/1986,F,,1,0,0,0,,,0,,,0,Drive-by,Z000000005,3
+101411515,H,M,,Marietta,GA,30066,,,F,10/12/1956,,0,0,1,0,0,,,0,,,0,Resident Referral,Z000000001,1
+101311835,H,M,,Gaithersburg,MD,20879,,,F,4/4/1987,,0,0,1,0,0,,,0,,,0,Property Web Site,Z000000003,1
+101309489,H,M,,Be,OH,43718,,,F,1/1/1980,,1,1,0,0,0,,,0,,,0,Para Rentar,Z000000001,1
+101307201,H,H,,N/A,NA,0,,,F,4/9/1961,,0,1,0,0,0,,,0,,,0,Property Web Site,Z000000001,2
+137775863,H,H,M,Bryan,TX,77803-0604,,,R,12/20/1991,F,,0,1,0,0,,,0,,,1,Resident Referral,Z000000005,4
+137129749,H,,,Albuquerque,NM,87109,,,R,9/23/1963,F,,1,0,0,0,,,0,,,1,Rent.com,Z000000012,2
+136441529,H,M,,Seattle,WA,98126,,T0000014,N,8/8/1983,,0,0,0,0,1,,,0,,,1,Property Website,Z000000001,3
+136316323,H,M,,Milwaukie,OR,97267,,,R,4/17/1983,,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000005,3
+135975884,H,H,,Los Angeles,CA,90012,,T0000021,R,6/8/1991,F,,0,0,1,0,,,0,,,1,Property Website,Z000000012,0
+135768615,H,M,,Raleigh,NC,27615,,T0000015,O,4/19/1965,F,0,1,0,0,0,,,0,,,1,Property Website,Z000000005,0
+135693377,H,M,W,Milwaukie,OR,97267,,,N,10/1/1981,F,,0,1,0,0,,,0,,,1,Property Website,Z000000003,2
+135682093,H,M,,Cheney,WA,99004,,,R,3/8/1996,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000005,0
+135659554,H,M,,Baytown,TX,77521,,emp,N,6/18/2002,F,,1,1,1,1,,,0,,,1,Apartment List,Z000000003,2
+135550347,H,H,,Phoenix,AZ,85022,,,R,4/20/1977,M,,1,0,0,0,,,0,,,1,Apartment Locator,Z000000005,2
+135510754,H,H,,Eugene,OR,97401,,Unemploy,R,10/14/1979,F,,0,1,0,0,,,0,,,1,Affordable Housing Agency,Z000000005,2
+135285486,H,M,H,Shakopee,MN,55379,,,N,6/28/1988,F,,0,1,0,0,,,0,,,1,Employee Referral,Z000000001,1
+135259771,H,M,,Milwaukie,OR,97267,,,R,2/10/1992,F,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000003,0
+135249375,H,M,,Pflugerville,TX,78660,,T0000023,R,10/20/2000,F,,0,1,0,0,,,0,,,1,Greystar.com,Z000000001,1
+135194811,H,M,,Milwaukie,OR,97267,,,R,6/19/1997,M,,1,0,0,0,,,0,,,1,Online Business Listing,Z000000003,0
+135139875,H,M,,El Mirage,AZ,85335-5373,,Mdcl,R,2/16/1995,F,,1,0,0,0,,,0,,,1,Non-Paid Referral,Z000000005,4
+135028557,H,H,M,Washington,DC,20002,,emp,R,1/25/1994,M,,0,1,0,0,,,0,,,1,Event Marketing,Z000000001,0
+134939320,H,H,W,Columbia,MD,21044,,,R,8/2/1995,M,,1,0,0,0,,,0,,,1,Apartment List,Z000000005,2
+134892534,H,H,,Milwaukie,OR,97267,,,N,3/7/1979,M,,0,1,0,0,,,0,,,1,Property Website,Z000000012,0
+134409518,H,M,M,Hillsboro,OR,97124,,T0000023,O,2/9/1998,F,0,1,0,0,0,,,0,,,1,Greystar.com,Z000000005,0
+134239070,H,M,,AUSTIN,TX,78758,,Mdcl,R,10/23/1963,M,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000001,0
+134136893,H,M,,Mary Esther,FL,32569,,,R,1/17/1986,M,,0,1,0,0,,,0,,,1,Zillow Rental Network,Z000000005,0
+133955340,H,M,,Mt. Pleasant ,SC,29464,,emp,R,4/27/1996,F,,0,1,0,0,,,0,,,1,Property Website,Z000000007,0
+133574907,H,H,W,Seattle ,WA,98121,,,R,5/5/1992,,,1,1,1,1,,,0,,,1,Property Website,Z000000012,0
+133570786,H,M,,Corvallis,OR,97333,,,R,10/31/1962,F,,0,1,0,0,,,0,,,1,Property Website,Z000000001,0
+133533435,H,H,W,Baltimore,MD,21230,,,R,10/16/2000,F,,1,1,1,1,,,0,,,1,Property Website,Z000000001,0
+133531383,H,M,,Denver,CO,80231,,,R,3/8/1965,F,,0,0,0,1,,,0,,,1,Zillow Rental Network,Z000000005,0
+133425799,H,M,H,Louisville,CO,80027-1428,,,R,8/14/1989,M,,0,1,0,0,,,0,,,1,Zillow Rental Network,Z000000001,0
+133420251,H,M,,Milwaukie,OR,97267,,,N,9/23/1988,F,,0,1,0,0,,,0,,,1,Affordable Housing Agency,Z000000012,0
+133248811,H,M,,Lakewood,CO,80232,,,R,5/17/1998,F,,0,1,0,0,,,0,,,1,Property Website,Z000000005,0
+133070042,H,M,,Austin,TX,78759,,,N,6/28/1954,M,,0,0,0,1,,,0,,,1,Resident Referral,Z000000005,1
+132977455,H,H,,Chattanooga,TN,37416-1010,,,R,4/17/1942,M,,1,0,0,0,,,0,,,1,Off-Site Signage,Z000000001,1
+132914346,H,M,,Charlotte,NC,28270-5867,,Rstrnt,R,1/22/1981,F,,0,0,0,1,,,0,,,1,Property Website,Z000000008,0
+132548836,H,H,M,Mukilteo,WA,98275,,T0000015,R,2/9/1964,F,,0,1,1,0,,,0,,,1,Zillow Rental Network,Z000000005,2
+132395583,H,H,,Denver,CO,80260-5050,,,N,5/10/1987,F,,0,1,0,0,,,0,,,1,Craigslist.org,Z000000005,0
+132226257,H,H,,Eugene,OR,97402,,,R,5/16/1967,F,,0,1,0,0,,,0,,,1,ApartmentRatings.com,Z000000001,1
+132079237,H,H,,Charleston,SC,29492,,,R,10/3/1995,F,,0,1,1,1,,,0,,,1,In-House Transfer,Z000000001,1
+132046070,H,H,,Denver,CO,80260,,,R,9/28/1959,F,,0,1,0,0,,,0,,,1,Affordable Housing Agency,Z000000001,0
+131827976,H,H,,Albuquerque,NM,87114,,,R,9/30/1960,M,,1,0,0,0,,,0,,,1,Friend/Family Referral,Z000000005,1
+131819655,H,H,,West Valley City,UT,84128,,,R,11/28/1993,M,,1,0,0,0,,,0,,,1,Resident Referral,Z000000005,4
+131741026,H,H,,Altamonte Springs,FL,32714,,,R,2/20/1994,M,,0,1,0,0,,,0,,,1,Property Signage,Z000000005,1
+131702291,H,H,,Herriman,UT,84096,,,R,9/24/1990,F,,0,1,0,0,,,0,,,1,Local Internet Source,Z000000003,4
+131552322,H,H,,Clute,TX,77531,,Rstrnt,R,12/24/1997,F,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+131515689,H,H,M,Eugene,OR,97408,,emp,R,9/9/1987,,,0,1,0,0,,,0,,,1,Property Website,Z000000012,0
+131470723,H,H,,Vancouver,WA,98683,,,O,2/22/1977,,,1,0,0,0,,,0,,,1,Live/Work in Area,Z000000005,2
+131467696,H,H,,Eugene,OR,97402,,,R,8/11/1945,F,,0,1,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+131125051,H,M,W,Alexandria,VA,22304,,U0000035,R,12/3/1958,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000001,0
+130912185,H,H,,Charlotte,NC,28202,,Mdcl,R,9/10/1991,F,,0,0,0,1,,,0,,,1,Property Website,Z000000001,2
+130862355,H,H,,Baltimore,MD,21230,,,R,3/1/1983,F,,1,0,0,0,,,0,,,1,Property Website,Z000000001,0
+130815228,H,H,,New Hope,MN,55428,,T0000001,R,12/14/1988,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000001,0
+130685689,H,H,,Fort Worth,TX,76104,,,R,6/19/1993,M,,1,0,0,0,,,0,,,1,In-House Transfer,Z000000005,2
+130634659,H,H,,Spokane,WA,99217,,,N,2/28/1995,F,,0,1,0,0,,,0,,,1,Property Website,Z000000005,0
+130612380,H,H,,Baytown,TX,77521,,,R,11/18/1993,F,,0,1,0,0,,,0,,,1,Online Display,Z000000001,0
+130320234,H,H,,Spokane,WA,99217,,,N,6/22/1994,M,,1,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+130137185,H,H,,Baytown,TX,77521,,,R,12/27/1991,F,,1,0,0,0,,,0,,,1,Property Signage,Z000000005,2
+129993263,H,H,,Baytown,TX,77521,,,R,8/25/1978,F,,1,0,0,0,,,0,,,1,Property Website,Z000000005,3
+129872971,H,H,,Durham,NC,27701,,U0000035,R,11/11/1960,M,,0,1,0,0,,,0,,,1,Apartments.com,Z000000001,0
+129766307,H,H,H,Arvada ,CO,80003,,,R,1/30/1983,M,,0,1,0,0,,,0,,,1,Apartment List,Z000000003,1
+129208797,H,H,M,Tempe,AZ,85281,,,R,11/23/1993,M,,0,1,0,0,,,0,,,1,Property Website,Z000000005,1
+129160384,H,H,,Charlotte,NC,28270-5884,,T0000020,R,7/18/1990,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000004,1
+129068079,H,M,,Olathe,KS,66061,,,R,5/25/1965,M,,1,0,0,0,,,0,,,1,Property Signage,Z000000005,2
+129019668,H,H,W,Philadelphia,PA,19118,,,R,7/8/1991,,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+128884198,H,W,W,Saint Louis,MO,63122-6303,,T0000016,R,9/27/1952,M,,1,0,0,1,,,0,,,1,Property Signage,Z000000001,1
+128882418,H,H,,Seattle,WA,98115-7367,,T0000020,R,10/23/1991,F,,0,0,0,1,,,0,EMAIL,,1,Property Website,Z000000001,0
+128712661,H,,,Phoenix,AZ,85034,,,R,12/6/1989,M,,0,1,0,0,,,0,,,1,Apartment List,Z000000012,2
+128698446,H,H,,Indianapolis,IN,46220,,T0000015,R,8/19/1965,F,,0,1,0,0,,,0,,,1,Zillow Rental Network,Z000000057,0
+128561954,H,H,M,Thornton,CO,80229,,,R,12/19/1994,M,,0,1,0,0,,,0,,,1,Property Website,Z000000005,2
+128488986,H,H,,Durham,NC,27705,,Student,R,2/24/1993,M,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+128455270,H,H,,Charlotte,NC,28204,,,F,12/29/1991,M,,1,0,0,0,,,0,,,1,Greystar Property Referral,Z000000001,2
+128448504,H,H,,Spokane,WA,99217,,,R,9/27/1945,M,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+128367669,H,H,W,Los Angeles,CA,90012,,,R,7/12/1994,M,,1,0,0,1,,,0,,,1,Property Signage,Z000000001,1
+128147179,H,H,,Hilton Head,SC,29928,,,F,1/9/1971,F,,1,0,0,0,,,0,,,1,Zillow Rental Network,Z000000005,0
+128058147,H,H,M,Pflugerville,TX,78660,,,R,11/25/1980,F,,1,0,0,0,,,0,,,1,Property Website,Z000000007,4
+127960820,H,H,,Atlanta,GA,30324,,,R,8/16/1994,M,,1,0,0,0,,,0,,,1,Resident Referral,Z000000005,2
+127952712,H,H,,Fort Worth,TX,76107,,Student,N,4/22/1991,F,,0,0,1,0,,,0,,,1,Apartments.com,Z000000012,1
+127950673,H,H,,San Antonio,TX,78257,,,F,1/18/1990,M,,1,1,1,1,,,0,,,1,Live/Work in Area,Z000000005,1
+127914656,H,H,,Pasadena ,CA,91103,,,R,9/22/1951,F,,1,1,0,0,,,0,,,1,Property Website,Z000000001,1
+127773289,H,H,,Lombard,IL,60148,,,F,10/16/1994,M,,1,0,0,0,,,0,,,1,Online Display,Z000000001,2
+127744449,H,H,W,Chandler,AZ,85226,,T0000015,N,9/13/1962,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000005,1
+127504217,H,H,,Houston,TX,77084-4289,,,F,3/1/1979,F,,1,0,0,0,,,0,,,1,Property Website,Z000000003,2
+127459673,H,H,,Spokane,WA,99204,,U0000035,R,10/3/1952,F,,1,0,0,0,,,0,,,1,Property Signage,Z000000001,1
+127349798,H,H,,Oceanside,CA,92054,,Techno,R,12/24/1971,M,,1,0,0,0,,,0,,,1,Local Internet Source,Z000000001,1
+127235872,H,H,,Nashville,TN,37221,,SlfEmpyd,R,3/19/1966,F,,1,0,0,0,,,0,,,1,Property Website,Z000000001,0
+127192765,H,H,W,Greenville ,SC,29607,,T0000019,R,2/4/1992,M,,0,0,1,0,,,0,,,1,Apartment Locator,Z000000012,1
+127188599,H,H,,Hillsboro,OR,97124,,,F,2/25/1994,F,,1,0,0,0,,,0,,,1,Apartment List,Z000000002,2
+127131429,H,M,,Dallas,TX,75219,,Techno,N,2/12/1988,M,,0,1,0,0,,,0,,,1,Property Signage,Z000000001,1
+127107512,H,H,M,Minneapolis,MN,55415,,,R,10/21/1991,M,,1,1,1,1,,,0,,,1,Friend/Family Referral,Z000000001,2
+127080915,H,M,,Raleigh,NC,27612,,,R,8/30/1953,M,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+127060013,H,H,,Williston,ND,58801,,,R,10/26/1975,M,,0,1,0,0,,,0,,,1,Property Signage,Z000000001,1
+127049430,H,H,,Grand Prairie,TX,75050,,,R,10/18/1979,M,,1,1,1,1,,,0,,,1,Aukum Other,Z000000003,2
+127043703,H,H,,Scottsdale,AZ,85258,,,F,11/12/1976,F,,0,1,0,0,,,0,,,1,Greystar.com,Z000000003,1
+127019706,H,H,,San Jose,CA,95128,,,R,5/6/1966,F,,0,1,0,0,,,0,,,1,Greystar Property Referral,Z000000005,2
+127013120,H,H,,Fort Worth,TX,76131-2383,,,R,4/23/1991,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000005,1
+127004435,H,H,,Denver,CO,80222,,T0000014,R,4/5/1994,M,,0,0,0,1,,,0,,,1,Property Website,Z000000001,0
+126833425,H,H,,Grand Prairie,TX,75050,,T0000001,R,8/17/1974,M,,1,0,0,0,,,0,,,1,Apartment List,Z000000003,1
+126832030,H,H,,Charlotte,NC,28273,,T0000014,R,2/7/1976,M,,0,1,0,0,,,0,EMAIL,,1,Apartments.com,Z000000005,1
+126818902,H,H,,Charlotte,NC,28273-4789,,,R,10/3/1990,F,,0,1,0,0,,,0,,,1,Zillow Rental Network,Z000000005,1
+126815388,H,H,,Phoenix,AZ,85034,,T0000009,R,7/19/1987,,,0,1,0,0,,,0,,,1,Apartments.com,Z000000005,2
+126809587,H,H,W,Houston,TX,77084-4289,,Gvrnmnt,R,8/4/1982,F,,1,0,0,0,,,0,,,1,Rent.,Z000000001,1
+126769685,H,H,,Corpus Christi,TX,78414,,,R,12/16/1966,M,,0,1,0,0,,,0,,,1,Apartment List,Z000000005,2
+126741684,H,M,,Clermont,FL,34711,,U0000008,R,5/27/1962,F,,1,0,0,0,,,0,,,1,Property Signage,Z000000005,1
+126669097,H,H,,Fort Lauderdale,FL,33315,,T0000002,R,2/2/1987,M,,0,0,0,1,,,0,,,1,Zillow Rental Network,Z000000036,0
+126665129,H,H,,Johns Creek,GA,30022,,,R,10/29/1968,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000005,1
+126419738,H,H,,North Hollywood,CA,91601,,,F,6/9/1990,F,,0,1,0,0,,,0,,,1,Apartments.com,Z000000001,2
+126409749,H,W,W,Lynnwood,WA,98087,,,F,10/5/1990,M,,0,1,0,0,,,0,,,1,Property Website,Z000000003,1
+126313361,H,H,,Dallas,TX,75244,,,F,2/27/1988,F,,0,1,0,0,,,0,,,1,Employee Referral,Z000000001,1
+126182564,H,H,,Kansas City,MO,64114,,,F,6/13/1972,F,,0,1,0,1,,,0,,,1,Craigslist.org,Z000000001,1
+126182031,H,H,,La Grange,IL,60525,,,R,2/18/1969,F,,0,0,1,0,,,0,,,1,Live/Work in Area,Z000000001,1
+126023407,H,H,M,Kansas City,MO,64131,,,F,1/4/1993,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,2
+126011139,H,H,W,San Antonio,TX,78233,,,F,4/1/1965,,,0,0,0,1,,,0,,,1,Apartment Locator,Z000000005,0
+125942172,H,H,,San Marcos ,CA,92069,,U0000035,R,1/25/1939,F,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000005,1
+125940194,H,H,M,Dallas,TX,0,,,F,2/13/1987,M,,0,1,0,0,,,0,,,1,Friend/Family Referral,Z000000001,2
+125836255,H,H,W,Kirkland,WA,98033,,,F,1/9/1976,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+125774893,H,H,,Thornton,CO,80229-3503,,,F,3/22/1987,M,,1,0,0,0,,,0,,,1,Zillow Rental Network,Z000000001,0
+125734393,H,H,,Dallas ,TX,75287,,,R,1/4/1989,M,,0,1,0,0,,,0,,,1,Property Signage,Z000000005,1
+125706992,H,H,,Baton Rouge,LA,70808-4824,,,F,11/28/1972,F,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,1
+125704080,H,H,,Katy,TX,77494,,T0000016,R,6/28/1973,F,,0,1,0,0,,,0,,,1,Property Website,Z000000001,1
+125648981,H,H,,Charlotte,NC,28270-5890,,,R,5/27/1969,F,,1,0,0,0,,,0,,,1,For Rent,Z000000004,1
+125630637,H,H,,St. Louis,MO,63146,,,F,5/24/1985,,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000007,0
+125625393,H,H,,Kirkland,WA,98033,,,F,10/5/1988,F,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+125610300,H,H,W,Kirkland,WA,98033,,,F,7/29/1977,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000007,1
+125588412,H,H,M,Dallas ,TX,75287,,ArtsEnvi,N,12/6/1990,F,,0,1,0,0,,,0,,,1,Apartment Locator,Z000000001,1
+125553125,H,H,,Williamsburg,VA,23188,,,F,9/23/1984,M,,1,0,0,0,,,0,,,1,Search Engine Marketing,Z000000001,0
+125470639,H,H,,Kirkland,WA,98033,,,F,10/26/1993,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+125458885,H,H,W,Universal City,TX,78148,,,R,9/28/1979,F,,1,0,0,0,,,0,,,1,Apartment Locator,Z000000003,0
+125426641,H,H,,Washington,DC,20009,,,F,9/15/1981,M,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,1
+125411395,H,H,W,Katy,TX,77494,,T0000004,N,7/23/1992,F,,1,0,0,0,,,0,,,1,Apartment List,Z000000012,1
+125210093,H,M,,Hyattsville,MD,20784,,,F,5/15/1959,,0,0,0,0,1,,,0,,,1,ApartmentGuide.com,Z000000063,0
+125207458,H,H,M,League City,TX,77573-2037,,,R,2/16/1971,M,,1,0,0,0,,,0,,,1,Property Signage,Z000000005,1
+125165906,H,M,,Houston,TX,77079,,,F,4/13/1990,F,,1,0,0,0,,,0,,,1,Realtor Referral,Z000000001,0
+125027693,H,H,,Savannah,GA,31404-1024,,SlfEmpyd,R,4/1/1982,M,,1,0,0,0,,,0,,,1,Property Website,Z000000005,1
+124892501,H,H,,Dallas,TX,75244,,,F,11/18/1991,M,,1,0,0,0,,,0,,,1,Property Website,Z000000001,2
+124718237,H,H,M,Arlington,TX,76013,US,,F,3/1/1990,M,0,1,1,1,1,,,0,,,1,Zillow Rental Network,Z000000005,1
+124629823,H,H,W,Houston,TX,77079,,,F,1/19/1989,F,,1,0,0,0,,,0,,,1,Realtor Referral,Z000000005,0
+124503270,H,H,W,Kirkland,WA,98033,,,F,1/13/1988,F,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+124464508,H,H,W,Windsor Mill,MD,21244,,,F,12/16/1975,F,,0,0,0,1,,,0,,,1,ApartmentGuide.com,Z000000003,1
+124426438,H,H,W,Lakewood,CO,80215,,,F,4/14/1988,M,,1,0,0,0,,,0,,,1,Apartment List,Z000000001,0
+124404739,H,H,M,McKinney,TX,75070,,T0000017,R,4/3/1987,F,,0,1,0,0,,,0,,,1,Apartment List,Z000000005,3
+124390217,H,H,M,Old Orchard Beach,ME,04064-1661,US,,F,4/29/1993,,0,1,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+124341001,H,H,M,Houston,TX,77064,,U0000008,N,4/14/1969,M,,1,0,0,0,,,0,,,1,Transit,Z000000063,2
+124322628,H,H,W,Dallas         ,TX,75204,,Techno,R,2/10/1989,M,,0,1,0,0,,,0,,,1,Apartment Locator,Z000000063,2
+124293037,H,M,,Washington,DC,20020,,,F,4/16/1991,,0,1,0,0,0,,,0,,,1,Twitter.com,Z000000001,0
+124274294,H,H,W,Houston,TX,77077,,T0000015,R,4/6/1987,M,,1,0,0,1,,,0,,,1,Property Signage,Z000000005,1
+124238718,H,H,W,Greensboro,NC,27407,,,F,7/21/1983,,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000007,0
+124204157,H,H,W,Palatine,IL,60074,,T0000012,O,7/15/1958,F,,0,1,0,0,,,0,,,1,Property Website,Z000000005,1
+124188361,H,H,,San Rafael,CA,94901,,Techno,N,3/17/1957,M,,0,1,0,0,,,0,,,1,Greystar Property Referral,Z000000001,1
+124106126,H,H,W,Houston,TX,77079,,,F,1/12/1989,F,,1,0,0,0,,,0,,,1,Realtor Referral,Z000000005,0
+124094457,H,H,M,Spring,TX,77388,,T0000003,R,3/6/1958,F,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000007,3
+124019364,H,H,W,Tallahassee,FL,32311,,,R,9/14/1978,M,,0,1,0,0,,,0,,,1,Property Website,Z000000001,1
+123990494,H,H,M,Midland,TX,79706,,,R,7/25/1992,M,,0,1,0,1,,,0,,,1,Apartment List,Z000000005,1
+123989940,H,H,W,Landover Hills,MD,20784,,,F,4/13/1982,,,0,0,0,1,,,0,,,1,ForRent.com,Z000000003,0
+123845307,H,H,,Orlando,Fl,32803,,,R,5/8/1982,M,,1,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+123845307,H,H,,Orlando,Fl,32803,,,R,5/8/1982,M,,1,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+123838073,H,M,,Houston,TX,77066,,,F,2/19/1984,F,0,1,0,0,0,,,0,,,1,Apartment Finder,Z000000005,0
+123772228,H,H,W,Spring,TX,77379,,,R,2/12/1955,F,,1,0,0,0,,,0,,,1,Property Signage,Z000000005,3
+123750625,H,M,,Spring,TX,77386,,,F,12/7/1984,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+123729158,H,H,W,Houston,TX,77079,,,F,1/17/1972,M,,1,0,0,0,,,0,,,1,Apartment Finder,Z000000001,0
+123712837,H,H,W,Pflugerville,TX,78660,,,N,6/25/1971,M,,0,1,0,0,,,0,,,1,Apartment Locator,Z000000005,4
+123612842,H,H,W,Herndon,VA,20170,,,F,2/7/1961,F,,0,0,0,1,,,0,,,1,Property Signage,Z000000005,0
+123536192,H,H,M,Mukilteo,WA,98275,,Techno,R,1/16/1968,M,,0,1,0,0,,,0,,,1,Live/Work in Area,Z000000005,1
+123535389,H,H,W,Herndon,VA,20170,,,R,7/9/1969,F,,0,1,0,0,,,0,,,1,Property Website,Z000000005,1
+123531130,H,H,M,Anaheim,CA,92805,,,R,9/16/1994,M,,0,1,0,0,,,0,,,1,Zillow Rental Network,Z000000040,0
+123529347,H,H,W,Lakewood,CO,80215,,,F,8/6/1992,F,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000001,0
+123514838,H,H,W,San Antonio ,TX,78214,,,R,8/18/1983,F,,1,0,0,0,,,0,EMAIL,,1,Apartment Locator,Z000000001,2
+123501736,H,M,,Landover,MD,20785-5912,,,F,7/17/1986,,0,0,0,0,1,,,0,,,1,ForRent.com,Z000000057,0
+123374181,H,H,,Humble,TX,77338,,,F,1/10/1980,F,,1,0,0,0,,,0,,,1,Zillow Rental Network,Z000000003,0
+123335459,H,H,M,Universal City,TX,78148,,T0000015,N,7/25/1980,M,,1,0,0,0,,,0,,,1,Realtor Referral,Z000000003,1
+123272837,H,H,W,Austin,TX,78735,,,R,5/22/1966,F,,0,1,0,0,,,0,,,1,Apartment Locators,Z000000001,0
+123272817,H,M,,New Carrollton,MD,20784,,,F,8/25/1989,,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000001,0
+123269509,H,M,,Oxon Hill,MD,20745,,,F,5/1/1988,F,,1,0,0,0,,,0,,,1,ApartmentShowcase.com,Z000000003,0
+123258044,H,H,M,Ft Worth,TX,76131-7531,,T0000014,R,5/18/1989,M,,1,0,0,0,,,0,,,1,Resident Referral,Z000000005,1
+123187536,H,H,W,The Woodlands,TX,77380,,T0000001,R,6/9/1983,F,,1,0,0,0,,,0,,,1,Google.com,Z000000005,1
+123169448,H,H,W,Flower Mound,TX,75022,,T0000004,R,2/18/1991,M,,0,1,0,0,,,0,,,1,Apartment Locators,Z000000001,2
+123147845,H,H,M,Fairfax,VA,22033,,U0000008,R,2/5/1953,F,,0,0,0,1,,,0,,,1,Property Website-Desktop,Z000000007,2
+123105725,H,H,W,North Richland Hills,TX,76180-6094,,T0000023,R,8/7/1969,F,,1,0,0,0,,,0,,,1,Drive By,Z000000005,3
+123073025,H,H,W,Austin,TX,78758,,,R,3/11/1985,M,,0,0,0,1,,,0,,,1,Apartment Hunters,Z000000005,2
+123057797,H,H,W,Spring,TX,77386-0919,,T0000015,R,8/29/1986,M,,1,0,0,0,,,0,,,1,Bandit/Bootleg Sign,Z000000001,1
+123036771,H,H,M,Flower Mound,TX,75022,,Hsptlty,R,3/10/1993,M,,0,1,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000001,2
+123001392,H,H,W,Rockville,MD,20850,,,F,10/5/1978,F,,0,0,0,1,,,0,,,1,Drive By,Z000000005,2
+121966092,H,H,W,Spring,TX,77386-0925,,T0000013,R,7/2/1996,M,,1,0,0,0,,,0,,,1,Google.com,Z000000001,1
+121952946,H,H,W,Grand Prairie,TX,75050,,T0000015,N,8/8/1987,F,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+121950554,H,H,W,Spring,TX,77386,,T0000014,N,12/30/1977,M,,1,0,0,0,,,0,,,1,ProMove,Z000000005,2
+121928228,H,H,W,Grand Prairie,TX,75050,,T0000015,N,4/30/1991,M,,1,0,0,0,,,0,,,1,UMoveForFree.com,Z000000001,1
+121927985,H,H,W,Rockville,MD,20850,,,F,4/1/1979,M,,0,0,1,0,,,0,,,1,Property Website-Desktop,Z000000007,2
+121904021,H,H,M,Spring,TX,77386,,T0000020,N,9/20/1994,F,,1,0,0,0,,,0,,,1,Google.com,Z000000001,1
+121903666,H,H,W,San Antonio,TX,78233,,,F,7/27/1965,F,,1,0,0,0,,,0,,,1,ApartmentRatings.com,Z000000005,2
+121858210,H,H,W,Austin,TX,78750,,,R,12/27/1973,F,,1,0,0,0,,,0,,,1,Live/Work in Area,Z000000005,2
+121821878,H,W,W,Houston,TX,77089,,T0000012,N,4/17/1986,F,,0,1,0,0,,,0,,,1,Google.com,Z000000005,2
+121796698,H,H,W,Charlotte,NC,28216,,T0000001,R,4/4/1968,F,,0,0,0,1,,,0,EMAIL,,1,Live/Work in Area,Z000000005,1
+121759403,H,H,W,Lewisville,TX,75067,,T0000001,R,7/3/1970,F,,0,0,0,1,,,0,,,1,Banner/A-Frame/Other Sign,Z000000001,1
+121735271,H,H,W,San Antonio,TX,78233,,,R,1/22/1989,M,,0,0,1,0,,,0,,,1,Employee Referral,Z000000001,1
+121681820,H,H,M,Austin,TX,78741-4902,,,R,11/18/1987,M,,0,0,0,1,,,0,,,1,Human Directional,Z000000001,1
+121674577,H,H,M,Denver,CO,80241,,,R,10/24/1984,M,,1,0,0,0,,,0,,,1,Drive By,Z000000001,1
+121673752,H,H,,Trinity,FL,34655,,,F,9/2/1984,F,,0,0,1,0,,,0,,,1,Live/Work in Area,Z000000001,2
+121626151,H,W,W,Ft. Worth,Tx,76137,,T0000015,R,9/4/1991,F,,1,1,0,1,,,0,,,1,Drive By,Z000000005,1
+121572449,H,H,W,Grapevine,TX,76051-0989,,,R,5/28/1967,M,,0,0,0,1,,,0,,,1,Friend/Family Referral,Z000000001,1
+121572203,H,H,W,Scottsdale,AZ,85258,,Mdcl,R,8/22/1985,M,,1,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+121571469,H,W,W,Houston,TX,77064,,,R,4/1/1990,M,,1,0,0,0,,,0,,,1,ApartmentFinder.com,Z000000003,1
+121565694,H,H,W,Dallas ,TX,75287,,Rstrnt,R,10/13/1988,F,,0,1,0,0,,,0,,,1,Rent.com,Z000000003,1
+121540283,H,H,M,San Marcos,TX,78666,,T0000009,R,1/5/1979,M,,0,0,0,1,,,0,,,1,Bandit/Bootleg Sign,Z000000005,1
+121524692,H,H,W,Palatine,IL,60074,,T0000007,O,11/10/1953,M,,0,0,0,1,,,0,,,1,Live/Work in Area,Z000000005,1
+121523067,H,H,W,Phoenix,AZ,85048,,,N,10/8/1974,M,,1,0,0,0,,,0,,,1,Previous Resident,Z000000005,3
+121491981,H,H,W,Scottsdale,AZ,85258-5920,,,F,7/25/1987,F,,1,0,0,0,,,0,,,1,ApartmentRatings.com,Z000000001,1
+121491981,H,H,W,Scottsdale,AZ,85258-5920,,,F,7/25/1987,F,,1,0,0,0,,,0,,,1,ApartmentRatings.com,Z000000001,1
+121468247,H,H,M,Savannah,GA,31401,,,R,11/26/1965,M,,0,0,0,1,,,0,,,1,Craigslist.org,Z000000005,1
+121436024,H,H,M,Dallas,TX,75254,,Mdcl,R,9/15/1978,F,,0,1,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,2
+121363471,H,H,W,St Louis Park,MN,55426-4148,,T0000022,R,3/5/1965,M,,1,0,0,0,,,0,,,1,Rent.com,Z000000001,1
+121337962,H,H,W,The Woodlands,TX,77380,,,O,6/12/1970,F,,1,0,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000063,1
+121331211,H,H,W,Houston,TX,77077,,T0000023,R,1/22/1981,F,,1,0,0,0,,,0,,,1,Google.com,Z000000001,1
+121324164,H,W,W,Portland,TX,78374,,,R,5/13/1973,M,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,2
+121304804,H,H,W,Clarksville,TN,37040,,,R,1/10/1961,F,,0,1,0,0,,,0,,,1,Google.com,Z000000005,1
+121244988,H,H,W,Universal City,TX,78148,,,R,7/18/1992,F,,1,0,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000003,3
+121242794,H,H,W,San Antonio,TX,78229-2705,,,R,5/3/1972,F,,0,1,0,0,,,0,,,1,Google.com,Z000000005,4
+121177814,H,H,,Collingswood,NJ,08107-1669,,T0000012,N,12/26/1985,F,,0,1,0,1,,,0,,,1,Google.com,Z000000003,3
+121159959,H,H,M,Dupont,WA,98327-6821,,,R,10/5/1956,M,,0,0,0,1,,,0,,,1,For Rent,Z000000005,2
+121158637,H,H,W,Phoenix,AZ,85044,,T0000012,N,7/29/1987,F,,0,1,0,0,,,0,,,1,Drive By,Z000000005,1
+121143344,H,H,W,Lancaster,TX,75134-2200,,,R,8/26/1974,F,,1,0,0,0,,,0,,,1,Drive By,Z000000005,1
+121123830,H,H,W,Glenn Heights,TX,75154-8769,,,R,1/8/1955,M,,1,0,0,0,,,0,,,1,Drive By,Z000000005,2
+121119622,H,H,,Vancouver,WA,98661,,,F,1/7/1970,,0,1,0,0,0,,,0,,,1,ForRent.com,Z000000001,1
+121110639,H,H,W,Austin,TX,78745-6604,,,F,11/21/1959,,,1,0,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000001,1
+121107793,H,M,M,Acworth,GA,30101-5080,,,F,6/6/1979,,0,1,0,0,0,,,0,,,1,Google.com,Z000000005,4
+121107384,H,H,W,Durham,NC,27703-8498,,,F,6/13/1972,,,1,0,0,0,,,0,,,1,Yahoo.com,Z000000005,3
+121105221,H,H,M,Broomfield,CO,80021,,,F,3/25/1983,M,,1,0,0,0,,,0,,,1,Google.com,Z000000001,1
+121104758,H,H,W,Lakewood,CO,80235-1181,,,F,12/15/1977,,,0,1,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000005,1
+121100757,H,H,W,Minneapolis,MN,55408,,,F,10/23/1963,,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000001,2
+121097793,H,H,W,Lancaster,TX,75134-4635,,,R,10/10/1973,F,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000005,2
+121093039,H,H,,Dallas,TX,75206,,,F,5/5/1980,F,,1,0,0,0,,,0,,,1,Employee Referral,Z000000005,1
+121093003,H,H,W,Phoenix,AZ,85048,,,F,6/18/1991,,,1,0,0,0,,,0,,,1,Greystar.com-Desktop,Z000000001,1
+121092075,H,H,,Altamonte Springs,FL,32714,,,F,7/20/1968,,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000004,2
+121090901,H,H,W,Walnut Creek,CA,94596,,,F,4/7/1984,,,1,0,0,0,,,0,,,1,For Rent,Z000000005,2
+121089798,H,H,W,Plano,TX,75075,,,F,7/17/1987,F,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+121086173,H,H,W,Austin,TX,78745-6604,,,F,1/19/1987,,,1,0,0,0,,,0,,,1,Greystar.com-Desktop,Z000000001,1
+121083671,H,M,,Keller,TX,76248,,,F,5/26/1979,,,1,0,0,0,,,0,,,1,ApartmentFinder.com,Z000000005,1
+121082609,H,H,W,Houston,TX,77003,,,F,8/19/1948,,,1,1,1,1,,,0,,,1,Realtor Referral,Z000000005,2
+121076999,H,M,,Orlando,FL,32835-7025,,,F,1/12/1976,,,0,1,0,0,,,0,,,1,ApartmentRatings.com,Z000000005,4
+121076091,H,H,,The Colony,TX,75056,,,F,5/24/1984,F,,1,0,0,0,,,0,,,1,Drive By,Z000000001,2
+121076024,H,M,,Albany,GA,31705,,,F,5/30/1968,,0,0,1,0,1,,,0,,,1,Preferred Employer Program,Z000000005,2
+121074395,H,H,W,Alpharetta,GA,30043,,,F,10/7/1978,,,1,0,0,0,,,0,,,1,Friend/Family Referral,Z000000001,1
+121074296,H,H,M,Denver,CO,80216,,,F,3/28/1985,F,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000001,1
+121073906,H,H,W,Chicago,IL,60642,,,F,2/14/1985,,,1,0,0,0,,,0,,,1,Apartment Locators,Z000000005,2
+121072794,H,H,W,Davie,FL,33314,,,F,3/23/1982,M,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000001,2
+121072609,H,H,W,Jersey City,NJ,07304-6100,,,F,2/16/1989,,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000001,2
+121071594,H,H,W,Pensacola,FL,32514,,,F,1/30/1977,M,,1,0,0,0,,,0,,,1,Google.com,Z000000005,2
+121070707,H,M,,Valley,AL,36854,,,F,6/15/1966,,0,1,0,0,0,,,0,,,1,Realtor Referral,Z000000001,1
+121070101,H,H,W,Charlotte,NC,28202,,,F,1/29/1984,,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+121066933,H,M,,Mansfield,MA,2048,,,F,2/10/1957,,0,1,0,0,0,,,0,,,1,Non Greystar Prop Referral,Z000000005,1
+121065277,H,H,W,Austin,TX,78741,,,F,11/25/1975,,,1,0,0,0,,,0,,,1,Drive By,Z000000001,1
+121063902,H,M,,Chandler,AZ,85225,,,F,3/16/1990,F,0,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+121063645,H,H,M,Phoenix,AZ,85020,,,F,10/30/1980,M,,1,0,0,0,,,0,,,1,Drive By,Z000000007,1
+121058746,H,H,M,Corpus Christi,TX,78414,,T0000017,O,8/15/1977,M,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+121057181,H,H,M,Fairfax,VA,22030,,,N,4/27/1980,F,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,1
+121048468,H,H,W,Charlotte,NC,28273,,,F,8/5/1988,,,1,0,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000005,2
+121047128,H,H,,Silver Spring,MD,20904,,T0000003,R,12/20/1980,F,,1,0,0,0,,,0,,,1,Apartment Guide,Z000000005,1
+121046198,H,H,W,Lakewood,CO,80235-1177,,,F,2/16/1974,,,1,0,0,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000005,3
+121040874,H,M,M,Austell,GA,30106,,,F,9/11/1976,,0,0,1,0,0,,,0,,,1,Apartment Locators,Z000000001,1
+121037845,H,W,W,Houston,TX,77064,,,R,3/25/1984,F,,0,1,0,0,,,0,,,1,Drive By,Z000000005,3
+121036799,H,H,W,Dallas,TX,75206,,,F,5/2/1979,F,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+121033488,H,H,W,Bothell,WA,98011-9326,,,F,7/30/1974,,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000001,1
+121031969,H,H,,Denver,CO,80216,,,F,11/7/1986,F,,1,0,0,0,,,0,EMAIL,,1,ApartmentGuide.com,Z000000001,1
+121030694,H,H,,Dunwoody,GA,30338,,,F,6/29/1987,F,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000001,1
+121025167,H,M,,Ridgeland,MS,39157,,,F,9/18/1978,,0,1,0,0,0,,,0,,,1,Apartment Finder,Z000000005,1
+121024976,H,H,M,Lakewood,CO,80227-4644,,,R,6/6/1962,F,,0,0,0,1,,,0,,,1,Resident Referral,Z000000001,3
+121023291,H,M,,Landover,MD,20785,,,F,6/17/1977,,0,0,1,0,1,,,0,,,1,Craigslist.org,Z000000003,4
+121022800,H,H,W,Orange Park,FL,32073,,,F,11/18/1964,F,,1,1,1,1,,,0,,,1,Previous Resident,Z000000005,1
+121020985,H,H,,Lakewood,CO,80235-1171,,,F,5/27/1987,,,1,0,0,0,,,0,,,1,Other,Z000000001,2
+121019591,H,M,,Louisville ,KY,40207,,,F,7/12/1977,,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,1
+121017573,H,M,,Scottsdale,AZ,85258,,,F,4/8/1986,,,1,0,0,0,,,0,,,1,Drive-by,Z000000005,2
+121013941,H,H,W,Plano,TX,75075,,,F,1/31/1984,F,,1,0,0,0,,,0,,,1,Google.com,Z000000001,1
+121012206,H,M,W,SMYRNA,GA,30080,,,F,10/19/1988,,,1,0,0,0,,,0,,,1,Pmove,Z000000001,1
+121011697,H,H,W,Charlotte,NC,28273,,,F,7/12/1980,,,1,0,0,0,,,0,,,1,For Rent,Z000000001,1
+121006720,H,H,W,McKinney,TX,75070,,,F,8/12/1981,F,,1,0,0,0,,,0,,,1,Realtor Referral,Z000000001,1
+121006002,H,M,M,Mill Creek,WA,98012,,,F,7/31/1965,,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000001,1
+121005771,H,,,Tampa,FL,33613,,,F,1/24/1981,M,,1,0,0,0,,,0,,,1,ForRent.com,Z000000001,2
+121004095,H,H,W,Hackensack,NJ,7601,,T0000015,R,7/5/1957,F,,1,0,0,0,,,0,,,1,Other,Z000000005,1
+101781156,H,H,W,Austin,TX,78729,,,F,11/18/1977,,,0,1,0,0,,,0,,,1,Google.com,Z000000001,1
+101779873,H,M,,Broomfield,CO,80021-4164,,,F,5/23/1984,F,,0,1,0,1,,,0,,,1,Realtor Referral,Z000000005,2
+101778906,H,M,M,Westminster,CO,80234-2595,,,F,8/6/1983,M,,1,0,0,0,,,0,,,1,Rent.com,Z000000005,2
+101778642,H,H,,Atlanta,GA,30324,,,F,2/22/1991,,0,1,0,0,0,,,0,,,1,Friend/Family Referral,Z000000005,2
+101778562,H,M,,Savannah,GA,31401,,,F,5/9/1972,,,1,0,0,0,,,0,,,1,Drive By,Z000000005,1
+101777592,H,H,W,Atlanta,GA,30324,,,F,11/14/1977,,,1,0,0,0,,,0,,,1,Non Greystar Properrty Referral,Z000000005,1
+101775892,H,H,,Austin,TX,78728,,,F,3/29/1985,M,0,1,0,0,0,,,0,,,1,Drive By,Z000000001,2
+101775225,H,,,Austin,TX,78758,,,F,5/16/1985,F,0,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101769552,H,H,W,McKinney,TX,75070,,,F,3/15/1994,,,1,0,0,0,,,0,,,1,Google.com,Z000000001,1
+101761859,H,,W,Durham,NC,27703-8012,,,F,3/24/1985,,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000005,2
+101761691,H,M,M,Plantation,FL,33324,US,,F,2/28/1977,F,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,2
+101755426,H,H,,Washington,DC,20011,,,F,3/15/1972,M,,1,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+101754739,H,H,W,Austin,TX,78741,,,F,9/23/1982,,,1,0,0,0,,,0,,,1,Apartment Locators,Z000000001,1
+101749704,H,H,W,Dallas,TX,75235,,,F,1/31/1989,,,0,1,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101748364,H,M,,Marietta,GA,30067,,,F,11/22/1980,,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+101744838,H,H,W,SMYRNA,GA,30080,,,F,10/5/1989,,,1,0,0,0,,,0,,,1,Resident Referral,Z000000003,2
+101743119,H,M,,Westminster,CO,80234-4636,,,F,11/29/1983,M,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000005,2
+101743119,H,M,,Westminster,CO,80234-4636,,,F,11/29/1983,M,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000005,2
+101742633,H,H,W,Austin,TX,78729,,T0000020,R,6/13/1966,F,,1,0,0,0,,,0,,,1,Apartment Locators,Z000000005,4
+101739276,H,H,,Charlotte,NC,28273,,,F,9/13/1972,,,0,0,1,0,,,0,,,1,Banner/A-Frame/Other Sign,Z000000001,1
+101738322,H,H,W,Mukilteo,WA,98275,,,F,3/18/1961,,,1,0,0,0,,,0,,,1,Google.com,Z000000003,1
+101734938,H,H,W,Charlotte,NC,28273,,,F,3/2/1987,,,1,0,0,0,,,0,,,1,Friend/Family Referral,Z000000001,1
+101728728,H,H,,Denver,CO,80216,,,F,7/28/1989,F,,1,0,0,0,,,0,EMAIL,,1,Google.com,Z000000001,2
+101718934,H,M,,Westminster,CO,80234-2571,,,F,10/20/1983,F,,1,0,0,0,,,0,,,1,Google.com,Z000000005,2
+101718117,H,H,W,Fairfax,VA,22030,,T0000009,R,3/2/1985,M,,0,1,0,0,,,0,,,1,Monument Sign,Z000000005,1
+101717499,H,M,M,Geneseo,IL,61254,,,F,1/24/1981,,0,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000003,1
+101711641,H,H,,Dallas,TX,75216,,,F,8/12/1977,,0,0,1,0,0,,,0,,,1,Preferred Employer Program,Z000000005,1
+101707383,H,H,W,McKinney,TX,75070,,,F,8/26/1987,F,,1,0,0,0,,,0,,,1,Apartments.com,Z000000005,2
+101706057,H,H,W,SMYRNA,GA,30080,,,F,2/27/1978,,,0,1,0,0,,,0,,,1,Google.com,Z000000001,1
+101703332,H,M,,Grayson,GA,30017,,,F,6/15/1986,,0,1,0,0,0,,,0,,,1,Realtor Referral,Z000000001,1
+101700341,H,M,,Westminster,CO,80021,,,F,2/4/1965,,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101700248,H,M,,Dallas,TX,75214,,,F,8/29/1985,,,1,0,0,0,,,0,,,1,Drive By,Z000000001,1
+101699815,H,H,,SMYRNA,GA,30080,,,F,7/7/1982,,,1,0,0,0,,,0,,,1,Friend/Family Referral,Z000000001,2
+101699734,H,M,W,Thornton,CO,80233-3748,,,F,9/4/1988,,,1,0,0,0,,,0,,,1,Property Website-Desktop,Z000000005,2
+101699395,H,M,,Duncan,OK,73533,,,F,12/6/1969,,0,1,0,0,0,,,0,,,1,Property Website-Mobile,Z000000005,1
+101696709,H,M,,Broomfield,CO,80021,,,F,5/20/1971,M,,1,0,0,0,,,0,,,1,Craigslist.org,Z000000005,1
+101690824,H,M,,Blackshear,GA,31516,,,F,6/21/1972,,0,1,0,0,0,,,0,,,1,Drive-by,Z000000012,2
+101690074,H,H,W,SMYRNA,GA,30080,,,F,9/12/1988,,,0,1,0,0,,,0,,,1,Friend/Family Referral,Z000000001,1
+101685042,H,H,W,SMYRNA,GA,30080,,,F,8/24/1985,,,0,1,0,0,,,0,,,1,Realtor Referral,Z000000001,1
+101679688,H,M,,Austin,TX,78741,,,F,8/11/1979,M,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+101677661,H,H,W,SMYRNA,GA,30080,,,F,8/2/1984,,,0,1,0,0,,,0,,,1,Apartment Locators,Z000000001,1
+101675768,H,H,,Houston,TX,77056,,,F,5/31/1983,M,,1,0,0,0,,,0,EMAIL,,1,Other,Z000000001,1
+101669952,H,H,W,SMYRNA,GA,30080,,,F,8/6/1991,,,1,0,0,0,,,0,,,1,Apartment Locators,Z000000001,1
+101666950,H,H,W,McKinney,TX,75070,,,F,12/4/1974,F,,1,0,0,0,,,0,,,1,Apartment Locators,Z000000005,1
+101664646,H,H,,Marietta,GA,30062-4608,,,F,3/12/1982,,,1,0,0,0,,,0,,,1,Resident Referral,Z000000005,2
+101660231,H,M,,Elizabeth,CO,80107,,,F,6/8/1977,F,0,1,0,0,0,,,0,,,1,Rent.com,Z000000001,2
+101658676,H,M,,Pasadena,MD,21122,,,F,2/18/1982,,0,1,0,0,0,,,0,,,1,Drive-by,Z000000001,1
+101656126,H,H,W,Houston,TX,77054,,,N,7/8/1982,M,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,4
+101656007,H,M,M,Austin,TX,78741,,,F,8/11/1985,M,,1,0,0,0,,,0,PHONE,,1,Property Web Site,Z000000001,1
+101655717,H,H,,Dunwoody,GA,30338,,,F,2/28/1974,,,1,0,0,0,,,0,,,1,Resident Referral,Z000000005,3
+101649362,H,H,W,Charlotte,NC,28273,,,F,3/13/1965,,,1,0,0,0,,,0,,,1,Rent.com,Z000000005,1
+101647849,H,H,,Dallas,TX,75214,,,F,6/3/1982,,,1,0,0,0,,,0,,,1,Other,Z000000001,1
+101647341,H,H,W,Austin,TX,78717,,,R,12/29/1964,M,,1,0,0,0,,,0,,,1,Property Website-Mobile,Z000000001,1
+101643989,H,H,W,Saint Petersburg,FL,33713,,Mdcl,O,9/9/1963,F,,0,0,0,1,,,0,,,1,Realtor Referral,Z000000001,1
+101642955,H,H,W,McKinney,TX,75070,,,F,11/22/1987,F,,0,1,0,0,,,0,,,1,Google.com,Z000000005,2
+101642760,H,H,,North Kingstown,RI,2852,,,F,7/22/1986,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101636505,H,M,,Raleigh,NC,27613-3865,,,F,10/14/1974,F,,0,0,0,1,,,0,,,1,Apartment Finder,Z000000009,3
+101635623,H,M,,Austin,TX,78741,,,F,8/8/1991,,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,2
+101634945,H,W,W,Richmond ,VA,23224,,T0000020,R,2/8/1993,F,,0,1,0,1,,,0,,,1,Craigslist.org,Z000000003,2
+101634491,H,H,W,McKinney,TX,75070,,,F,1/18/1967,M,,1,0,0,0,,,0,,,1,Drive-by,Z000000003,1
+101631669,H,H,M,San Francisco,CA,94107-2475,,T0000021,R,10/22/1963,M,0,1,1,1,1,,,0,,,1,Other,Z000000001,1
+101631182,H,M,,Newport Beach,CA,92663,,,F,7/17/1979,,0,1,0,0,0,,,0,,,1,Apartment Finder,Z000000001,1
+101619108,H,M,W,Austin,TX,78745-6604,,,F,6/30/1983,,,1,0,0,0,,,0,,,1,Relorent,Z000000001,1
+101618423,H,H,M,Austin,TX,78750,,,R,10/31/1974,M,,0,1,0,0,,,0,,,1,Rent.com-Locator,Z000000001,2
+101615739,H,H,W,Atlanta,GA,30324,,,F,3/19/1983,,,1,0,0,0,,,0,,,1,Pro Move,Z000000005,2
+101615704,H,H,W,Austin,TX,78745-6604,,,F,9/25/1972,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101613988,H,M,M,Phoenix,AZ,85022,,,F,1/12/1988,,0,1,0,0,0,,,0,,,1,Greystar Property Referral,Z000000001,1
+101611911,H,H,M,Denver,CO,80205,,,F,10/8/1980,M,0,1,0,0,0,,,0,,,1,Other,Z000000001,1
+101610191,H,H,W,Durham,NC,27703,,,F,9/8/1965,,,1,0,0,0,,,0,,,1,Billboard(s),Z000000005,2
+101608812,H,H,W,Washington,DC,20011,,T0000008,R,4/5/1980,F,,1,0,0,1,,,0,,,1,Property Web Site,Z000000012,1
+101596657,H,H,W,Dallas,TX,75235,,,F,5/18/1984,F,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101595733,H,H,,Raleigh,NC,27617,,,F,5/1/1988,,0,1,0,0,0,,,0,,,1,Monument Sign,Z000000005,1
+101595505,H,H,,Austin,TX,78750,,,F,12/2/1976,,0,1,0,0,0,,,0,,,1,ForRent.com,Z000000005,2
+101594590,H,M,M,Hudson,FL,34669,,,F,6/14/1979,,0,1,0,0,0,,,0,,,1,Drive-by,Z000000001,1
+101594081,H,M,W,Austin,TX,78723,,,F,11/29/1988,,,1,0,0,0,,,0,,,1,Friend,Z000000001,1
+101593872,H,H,,Smyrna,GA,30080,,,F,3/30/1985,F,,1,0,0,0,,,0,,,1,Property Web Site,Z000000005,1
+101593482,H,M,,Charlotte,NC,28273,,,F,10/22/1983,,,1,0,0,0,,,0,,,1,Rent.com,Z000000005,2
+101593188,H,H,M,SMYRNA,GA,30080,,,F,7/1/1986,,,1,0,0,0,,,0,,,1,Pro Move,Z000000012,1
+101582585,H,H,W,Austin,TX,78745-6604,,,F,3/26/1976,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000005,2
+101577541,H,M,M,Pensacola,FL,32514,,,F,3/30/1955,,0,1,0,0,0,,,0,,,1,Non Greystar Properrty Referral,Z000000005,1
+101575992,H,M,,Naples,FL,34112,,,F,7/18/1978,,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101573690,H,H,W,Saint Petersburg,FL,33713,,T0000006,R,1/10/1988,F,,1,0,0,0,,,0,,,1,Google,Z000000001,1
+101573230,H,M,,Manassas,VA,20112,,,F,8/26/1988,,0,1,0,0,0,,,0,,,1,Other,Z000000001,1
+101563692,H,M,,Westminster,CO,80234-4640,,,F,1/31/1980,M,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,1
+101561112,H,H,,Marietta,GA,30008,,,F,10/21/1984,,,1,0,0,0,,,0,PHONE,,1,Pro Move,Z000000003,1
+101560998,H,M,M,Statesville,NC,28687,,,F,8/10/1985,,0,0,1,0,0,,,0,,,1,Monument Sign,Z000000001,1
+101557510,H,H,W,Austin,TX,78741,,,F,12/27/1978,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000003,2
+101555683,H,H,W,SMYRNA,GA,30080,,,F,6/24/1975,,,1,0,0,0,,,0,,,1,Previous Resident,Z000000005,1
+101554454,H,H,W,Mukilteo,WA,98275,,,F,11/8/1973,,,1,0,0,0,,,0,,,1,Apartment Finders,Z000000003,3
+101552804,H,H,,Marietta,GA,30060,,,F,6/12/1980,F,0,1,0,0,0,,,0,,,1,Resident1,Z000000001,1
+101552286,H,M,M,Wentzville,MO,63385,,,F,9/3/1961,F,0,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101551970,H,M,,Raleigh,NC,27615-1979,,,F,2/20/1990,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,2
+101545240,H,H,M,Parker,CO,80134,,,R,9/18/1949,M,,0,1,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,2
+101544980,H,M,,Broomfield,CO,80021-4164,,,F,5/24/1969,,,1,0,0,0,,,0,,,1,Rent.com-Locator,Z000000001,1
+101544579,H,M,,Austin,TX,78741,,,F,6/1/1985,,,1,0,0,0,,,0,,,1,Flyer,Z000000001,1
+101542921,H,H,,Westminster,CO,80234-2520,,,F,7/22/1983,M,,1,0,0,0,,,0,,,1,ForRent.com,Z000000005,2
+101542493,H,H,,Murray,KY,42071,,,F,8/29/1982,,0,1,0,0,0,,,0,,,1,ApartmentFinder.com,Z000000007,2
+101536747,H,H,W,SMYRNA,GA,30080,,,F,6/4/1965,F,,0,0,0,1,,,0,,,1,Previous Resident,Z000000001,1
+101529452,H,H,W,Durham,NC,27703-8010,,,F,12/18/1964,,,1,0,0,0,,,0,,,1,Google,Z000000001,1
+101528186,H,H,W,Durham,NC,27704-1223,,,F,4/20/1970,F,0,1,0,0,0,,,0,,,1,Apartments.com,Z000000007,1
+101525868,H,H,W,Tulsa ,OK,74133,,,F,1/26/1981,,,0,1,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101504865,H,M,,Baton Rouge,LA,70807,,,F,3/18/1980,,0,1,0,0,0,,,0,,,1,Other,Z000000003,2
+101489216,H,M,,Chicago,IL,60642,,,F,12/19/1978,F,,1,0,0,0,,,0,,,1,Google,Z000000002,1
+101488432,H,M,,Marietta,GA,30060,,,F,11/16/1982,,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000003,2
+101487987,H,H,,Riverdale,GA,30296,,,F,9/9/1977,M,,1,0,0,0,,,0,,,1,Pro Move,Z000000001,1
+101485096,H,M,M,Durham,NC,27703,,,F,5/2/1985,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101481369,H,M,M,Richmond,VA,23221,,,F,1/25/1985,,0,1,0,0,0,,,0,,,1,Craigs List,Z000000005,2
+101480133,H,H,W,SMYRNA,GA,30080,,,F,6/20/1990,,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+101470593,H,H,W,Mukilteo,WA,98275,,,F,8/12/1982,F,,1,0,0,0,,,0,,,1,Rent.com-Locator,Z000000049,1
+101466447,H,H,W,SMYRNA,GA,30080,,,F,7/5/1984,,,1,1,0,0,,,0,,,1,Craigs List,Z000000001,1
+101465798,H,M,M,Mesquite,TX,75150,,,F,2/6/1987,F,0,1,0,0,0,,,0,,,1,ApartmentFinder.com,Z000000001,1
+101464316,H,M,M,Westminster,CO,80021,,,F,4/11/1985,F,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000012,1
+101464283,H,M,M,Austin,TX,78723,,,F,6/7/1960,,,1,0,0,0,,,0,,,1,ForRent.com,Z000000001,1
+101463058,H,M,,Austin,TX,78741-4751,,,F,2/17/1982,,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101462673,H,H,W,Broomfield,CO,80021-4164,,,F,7/28/1984,M,,1,0,0,0,,,0,,,1,Property Web Site,Z000000005,2
+101447591,H,H,W,Raleigh,NC,27613-3870,,,F,6/10/1965,F,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101441804,H,M,,Durham,NC,27703,,,F,10/12/1964,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101441376,H,M,M,Bothell,WA,98012,,,F,1/16/1987,,0,0,1,0,0,,,0,,,1,ApartmentGuide.com,Z000000001,1
+101436101,H,M,,Raleigh,NC,27613,,,F,1/16/1983,,,0,1,0,0,,,0,,,1,Friend,Z000000001,1
+101434608,H,H,W,Loveland,CO,80538,,T0000015,R,1/2/1982,F,,1,0,0,0,,,0,,,1,Craigs List,Z000000007,3
+101431643,H,M,,Everett,WA,98208,,,F,7/7/1985,,0,1,0,0,0,,,0,,,1,Friend,Z000000001,1
+101430274,H,M,W,Sacramento,CA,95833,,,F,1/10/1989,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101429861,H,M,M,Austin,TX,78750,,,F,12/9/1985,,,1,0,0,0,,,0,,,1,Rent.com-Locator,Z000000001,1
+101429253,H,M,M,Austin,TX,78717,,,F,9/7/1988,,0,1,0,0,0,,,0,,,1,ApartmentFinder.com,Z000000001,1
+101429182,H,H,W,Loveland,CO,80538,,U0000008,R,12/28/1966,F,,0,1,0,0,,,0,,,1,Craigs List,Z000000007,4
+101422165,H,M,,Austin,TX,78723,,,F,2/14/1985,,0,1,0,0,0,,,0,,,1,Apartment Hunters,Z000000001,1
+101421419,H,H,W,Carrboro,NC,27510,,,F,8/11/1986,,,1,0,0,0,,,0,,,1,Apartment Finder,Z000000004,2
+101416706,H,H,W,Austin,TX,78723,,,R,2/17/1992,F,,1,0,0,0,,,0,,,1,Other,Z000000001,2
+101413395,H,H,W,Austin,TX,78723,,T0000015,R,4/21/1988,F,,1,0,0,0,,,0,,,1,Rent.com-Locator,Z000000001,1
+101410819,H,H,W,Austin,TX,78729,,,F,8/11/1986,,,0,1,0,0,,,0,,,1,Austin Specialists,Z000000003,2
+101403664,H,H,M,Austin,TX,78723,,,N,3/29/1985,F,,1,1,0,0,,,0,,,1,Friend,Z000000005,4
+101401020,H,M,M,Cypress,TX,77429,,,F,2/21/1964,,,1,0,0,0,,,0,,,1,Other,Z000000005,1
+101395811,H,M,M,Smyrna,GA,30080,,,F,4/4/1981,,,1,0,0,0,,,0,,,1,ApartmentGuide.com,Z000000005,1
+101391514,H,M,M,Austin,TX,78741,,,F,3/11/1983,,,1,0,0,0,,,0,,,1,Other,Z000000001,2
+101388987,H,M,,South Padre Island,TX,78597,,,F,7/15/1963,,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+101387830,H,M,,Mill Creek,WA,98012,,,F,2/25/1984,,,1,0,0,0,,,0,,,1,Drive-by,Z000000003,1
+101387803,H,H,M,Austin,TX,78723,,T0000023,R,9/8/1974,F,,1,0,0,0,,,0,,,1,Greystar Property Referral,Z000000005,2
+101386995,H,H,W,Austin,TX,78729,,,F,12/8/1934,,,1,0,0,0,,,0,,,1,Apartment Agents,Z000000001,1
+101381095,H,M,,Raleigh,NC,27615,,,F,2/24/1970,,,1,0,0,0,,,0,,,1,Property Web Site,Z000000005,1
+101379635,H,M,M,Smyrna,GA,30082,,,F,6/14/1967,,0,1,0,0,0,,,0,,,1,ForRent.com,Z000000001,1
+101369005,H,M,M,San Diego,CA,92122,,,F,12/4/1984,,,1,0,0,0,,,0,,,1,Craigs List,Z000000001,2
+101351058,H,M,,Westminster,CO,80234,,,F,3/18/1986,,,1,0,0,0,,,0,,,1,Rent.com-Locator,Z000000001,2
+101350509,H,H,W,Austin,TX,78729,,,R,2/22/1983,F,,1,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+101343393,H,H,W,Austin,TX,78723,,,F,1/24/1981,,,0,1,0,0,,,0,,,1,ApartmentRatings.com-Banner,Z000000005,2
+101341556,H,H,W,Austin,TX,78723,,,R,9/3/1980,M,,1,0,0,0,,,0,,,1,Drive-by,Z000000005,2
+101341251,H,H,W,Woodland Hills,CA,91367,,T0000015,R,2/16/1979,F,,1,1,1,1,,,0,,,1,Other,Z000000001,1
+101340356,H,H,W,New Braunfels,TX,78130,,T0000019,R,6/24/1974,F,,0,0,1,0,,,0,,,1,Google,Z000000005,1
+101338626,H,M,M,Houston,TX,77030,,,F,8/17/1985,,,1,0,0,0,,,0,,,1,Other,Z000000036,1
+101337083,H,M,W,Carrboro,NC,27510,,,F,7/1/1984,,,1,0,0,0,,,0,,,1,ForRent.com,Z000000001,1
+101511880,H,H,M,The Colony,TX,75056,,,N,8/28/1983,M,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101325329,H,M,,Raleigh,NC,27615,,,R,5/21/1990,F,,1,0,0,0,,,0,,,1,Monument Sign,Z000000001,1
+101314935,H,M,,Atlanta,GA,30350-3428,,,F,8/13/1985,,0,1,0,0,0,,,0,,,1,Property Web Site,Z000000005,1
+101308301,H,H,,Santa Clara,CA,95050,,,F,3/20/1964,M,,1,0,0,0,,,0,,,1,Other,Z000000001,2
+101302588,H,H,,Orange Park,FL,32073,,,F,4/13/1988,F,,1,1,1,1,,,0,,,1,Referral Companies,Z000000001,1
+101296413,H,M,,Orange Park,FL,32073,,,F,7/21/1969,,0,1,0,0,0,,,0,,,1,Friend,Z000000005,2
+101290259,H,H,M,Austin,TX,78723,,,N,2/8/1991,F,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,2
+101279042,H,H,W,Austin,TX,78729,,,N,9/16/1970,M,,1,0,0,0,,,0,,,1,Other,Z000000001,1
+101275820,H,H,,Atlanta,GA,30324,,,F,9/4/1988,,,1,0,0,0,,,0,,,1,Relorent,Z000000005,2
+101266894,H,H,W,SMYRNA,GA,30080,,,F,12/28/1975,F,,1,0,0,0,,,0,,,1,Friend,Z000000003,2
+101263537,H,H,,Mooresville,NC,28117,,,F,11/13/1965,,,1,0,0,0,,,0,,,1,ApartmentFinder.com,Z000000001,1
+101258340,H,H,W,Walnut Creek,CA,94596,,,F,1/22/1973,,,1,1,1,1,,,0,,,1,Property Web Site,Z000000001,2
+101254109,H,H,,SMYRNA,GA,30080,,,F,6/6/1977,F,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,1
+101253686,H,H,,SMYRNA,GA,30080,,,F,9/23/1990,F,,1,0,0,0,,,0,,,1,Pro Move,Z000000001,1
+101249119,H,H,W,Oxon Hill,MD,20745,,,R,6/1/1976,F,,0,1,0,0,,,0,PHONE,,1,Banner(s),Z000000003,2
+101244576,H,H,,Raleigh,NC,27612,,,F,12/13/1985,,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,1
+101232661,H,H,M,HOUSTON        ,TX,77061,,T0000009,R,12/1/1988,F,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,1
+101228177,H,M,,Decatur,GA,30034-6245,,,F,1/13/1967,F,0,0,1,0,0,,,0,,,1,Monument Sign,Z000000001,1
+101225662,H,M,,Santa Clara,CA,95050,,,F,7/3/1982,M,,1,0,0,0,,,0,,,1,Property Web Site,Z000000003,1
+101222627,H,H,W,The Woodlands,TX,77380,,,R,3/26/1980,M,,0,1,0,0,,,0,,,1,Monument Sign,Z000000005,2
+101209938,H,H,,Lancaster,TX,75146-1042,,Prof,N,4/3/1987,F,,1,0,0,0,,,0,,,1,Drive-by,Z000000005,3
+101209629,H,H,,Santa Clara,CA,95050,,,F,4/6/1987,M,,1,0,0,0,,,0,,,1,Property Web Site,Z000000005,2
+101197491,H,H,,Austin,TX,78750,,,R,4/4/1956,M,,0,0,0,1,,,0,,,1,Google,Z000000005,2
+101182524,H,H,,Austin,TX,78723,,,R,7/22/1966,F,,1,0,0,0,,,0,,,1,Drive-by,Z000000001,2
+101168857,H,M,,Atlanta,GA,30312,,,F,5/24/1978,M,0,1,0,0,0,,,0,,,1,Monument Sign,Z000000001,1
+101145691,H,H,W,Philadelphia,PA,19152,,T0000015,R,2/24/1975,M,,0,1,0,0,,,0,,,1,Banner(s),Z000000001,2
+101096421,H,H,W,Charlotte,NC,28204,,,F,2/8/1984,,,1,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+101069265,H,H,,Desoto,TX,75115-4217,,,R,7/22/1976,,,1,0,0,0,,,0,,,1,Chamber of Commerce,Z000000005,1
+137893446,H,M,,Houston,TX,77055-4260,US,,R,10/3/2001,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137893436,H,M,,Littleton,CO,80120-1571,US,,R,11/10/1963,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137893083,H,H,,Fort Worth,TX,76108-3426,US,,R,9/1/1978,F,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137892452,H,,,Port Jefferson,NY,11777,US,,R,1/1/2000,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137882109,H,,,New York,NY,10001-0074,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137882089,H,,,New York,NY,10001-0074,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137882057,H,,,New York,NY,10001-0074,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137882035,H,M,,West Jordan,UT,84081-4330,US,,R,3/10/1968,,0,0,0,0,0,,,0,,,1,Property Website,Z000000007,0
+137881829,H,M,,Eugene,OR,97402-3136,US,U0000035,R,9/28/1954,F,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+137881629,H,M,,herriman,UT,84096,US,emp,R,9/10/1984,,0,0,0,0,0,,,1,PHONE,,1,Resident Referral,Z000000005,0
+137880805,H,H,,Cheney,WA,99004-5099,US,Hsptlty,R,11/21/2002,F,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,2
+137880766,H,M,,Post Falls,ID,83854-0149,US,emp,R,8/22/2001,,0,0,0,0,0,,,0,EMAIL,,1,Zillow Rental Network,Z000000005,0
+137880746,H,M,,Avondale,AZ,85323-8274,US,,R,11/17/1990,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,3
+137880731,H,H,M,Fort Worth,TX,76134-2705,US,T0000023,R,9/10/1993,M,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,2
+137880439,H,M,,Burnsville,MN,55337-3713,US,,R,11/14/2002,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137880220,H,M,,Bedias,TX,77831-5011,US,,R,4/16/1997,,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000005,0
+137879824,H,M,,Lafayette,LA,70501-1892,US,,R,7/26/1968,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137879704,H,M,,Ackworth,GA,30102,US,,R,2/29/1992,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137878571,H,M,,Everett,MA,02149-5679,US,emp,R,1/25/1960,,0,0,0,0,0,,,0,PHONE,,1,Apartments.com,Z000000005,0
+137878394,H,M,,Laguna Niguel,CA,92677,US,emp,R,1/24/1959,,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000007,0
+137878182,H,M,,Shoreline,WA,98177-3124,US,,R,12/17/1973,F,0,0,0,0,0,,,0,,,1,Online Business Listing,Z000000001,3
+137878165,H,M,,Westminster,CO,80030-5621,US,,R,4/20/1990,M,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,4
+137878101,H,M,,Buckeye,AZ,85326-7365,US,T0000002,R,8/28/1998,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,1
+137878090,H,,,Rio Rancho,NM,87144-6552,US,,R,2/22/1983,,0,0,0,0,0,,,0,,,1,Greystar Property Referral,Z000000005,2
+137878040,H,M,,Des Moines,WA,98198-8309,US,,R,6/2/1994,F,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000003,3
+137877992,H,M,H,Los Angeles,CA,90012-3077,US,,R,10/23/1996,M,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000012,1
+137877968,H,H,,Everett,WA,98208-5776,,,R,10/15/1994,M,,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000003,2
+137877930,H,M,,Long Beach,CA,90802,US,,R,1/4/1967,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,1
+137877915,H,M,,San Antonio,TX,78245-1601,US,,N,3/17/1997,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137877854,H,W,W,Houston,TX,77008-4189,US,,R,3/17/1994,M,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+137877689,H,M,,Waco,TX,76712-4303,US,emp,R,6/24/1991,N,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000001,0
+137877681,H,,,Houston,TX,77070-4647,US,,R,1/1/1990,,0,0,0,0,0,,,0,,,1,Non-Paid Referral,Z000000001,1
+137877662,H,,,plantation,FL,33324,US,,R,1/1/1974,F,0,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000007,2
+137877660,H,H,,Anaheim,CA,92805-6211,US,,R,1/10/1999,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137877638,H,M,,San Antonio,TX,78252-2122,,T0000015,N,7/17/1981,M,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137877541,H,H,,Puyallup,WA,98375-8701,US,,N,4/20/2001,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137877385,H,H,M,Philadelphia,PA,19104-5510,US,,R,10/30/1998,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137877356,H,M,,Los Angeles,CA,90026-1720,US,,R,3/27/1977,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000012,1
+137877348,H,H,,Aldie,VA,20105-2696,US,,O,5/26/1991,,0,0,0,0,0,,,0,,,1,Apartment Locator,Z000000003,1
+137877084,H,H,,Malden,MA,02148-2077,US,,R,2/4/1987,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,4
+137877033,H,H,,Houston,TX,77004-7788,,,R,1/1/2000,,,0,0,0,0,,,0,,,1,Non-Source,Z000000005,1
+137877010,H,M,,Denver,CO,80260-4732,US,T0000002,R,7/29/1985,M,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000005,4
+137876898,H,W,W,Alexandria,VA,22304,US,,R,7/16/1997,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137876777,H,M,,Chicago,IL,60611-4446,,emp,R,11/16/1992,M,,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137876683,H,,,Cottage Grove,OR,97424-2856,US,T0000006,N,10/2/1971,M,0,0,0,0,0,,,0,EMAIL,,1,Craigslist.org,Z000000003,2
+137876680,H,M,,Riverview,FL,33578-0019,US,,R,6/11/1994,F,0,0,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+137876499,H,,,Houston,TX,77024-1639,US,,R,7/28/1992,,0,0,0,0,0,,,0,,,1,Corporate Housing Agency,Z000000008,1
+137876388,H,H,,Spokane,WA,99202-1706,US,,R,5/10/2002,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000012,1
+137876274,H,M,,San antonoi,TX,78245,US,emp,R,3/24/1995,M,0,0,0,0,0,,,0,,,1,Non-Paid Referral,Z000000001,0
+137876003,H,W,,Tampa,FL,33629-8171,US,,N,1/1/1961,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000005,1
+137875989,H,,,Corona,CA,92883-7386,,,R,2/21/1977,,,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+137875890,H,M,,Chicago,IL,60607,US,emp,R,5/15/1988,N,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,1
+137875860,H,,,Phoenix,AZ,85022-2600,,,R,5/11/1995,F,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,3
+137875842,H,H,,Spokane,WA,99202-1985,US,,R,5/20/1994,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000003,2
+137875840,H,,,Pflugerville,TX,78660-7923,US,,R,9/6/1990,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000097,0
+137875728,H,W,M,Euless,TX,76040-2535,US,T0000015,R,1/12/1999,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000002,2
+137875639,H,M,,Raleigh,NC,27606-2354,US,T0000004,R,4/27/1995,F,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000001,0
+137875616,H,H,M,New Smyrna Beach,FL,32168-9235,US,emp,R,2/21/1959,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,1
+137875612,H,H,,Scottsdale,AZ,85257-4603,,,R,1/1/1993,,,0,0,0,0,,,0,,,1,Corporate Housing Agency,Z000000005,2
+137875551,H,H,,Phoenix,AZ,85022-2600,US,,R,7/23/2000,M,0,0,0,0,0,,,0,PHONE,,1,Apartment List,Z000000005,4
+137875524,H,H,,Spokane,WA,99202-1985,US,,R,8/20/2002,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137875476,H,H,,Houston,TX,77009-1589,US,,R,6/14/1995,M,0,0,0,0,0,,,0,,,1,Non-Paid Referral,Z000000001,1
+137875365,H,M,,Austin,TX,78741-6911,US,SlfEmpyd,R,4/27/1991,M,0,0,0,0,0,,,0,EMAIL,,1,Transit,Z000000001,0
+137875287,H,H,,Spokane,WA,99202-1986,US,,R,12/30/1999,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137874727,H,H,,Melissa,TX,75454-9701,US,,R,11/21/1993,F,0,0,0,0,0,,,0,EMAIL,,1,Local Internet Source,Z000000001,1
+137873922,H,M,,Kent,WA,98031-3289,US,T0000015,R,12/26/1986,F,0,0,0,0,0,,,0,PHONE,,1,Live/Work in Area,Z000000005,0
+137873579,H,M,,Denver,CO,80205-2126,,,R,4/29/1989,F,,0,0,0,0,,,0,,,1,Non-Source,Z000000005,4
+137873558,H,M,,West Jordan,UT,84081-4209,US,,R,12/5/2003,,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000005,1
+137873500,H,,,Grapevine,TX,76051-4211,,,R,9/18/1999,F,,0,0,0,0,,,0,,,1,Online Display,Z000000001,1
+137873331,H,M,,Albuquerque,NM,87107-4495,US,,R,12/13/1959,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000095,1
+137873292,H,M,,Sugar Land,TX,77498-1802,US,T0000017,R,2/7/1985,F,0,0,0,0,0,,,0,PHONE,,1,In-House Transfer,Z000000005,2
+137873217,H,H,,Austin,TX,78702-1542,,T0000003,R,6/17/1998,F,,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137872722,H,M,,Chicago,IL,60622-2878,US,emp,R,5/23/1997,N,0,0,0,0,0,,,0,EMAIL,,1,Apartment Locator,Z000000001,0
+137872456,H,M,,"Ilford, England",GB,00000-0000,GB,Mdcl,R,1/8/1994,,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000001,0
+137872325,H,M,,Oakland,CA,94609-3633,US,,R,3/23/1977,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000012,1
+137872057,H,M,,Denver,CO,80230-6839,US,,R,7/6/1992,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137871963,H,M,,Houston,TX,77024-5962,US,SlfEmpyd,R,8/24/1973,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137871895,H,H,,Albuquerque,NM,87102-1661,US,T0000020,R,5/2/1989,F,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000096,2
+137871584,H,M,,East Point,GA,30344-5537,US,emp,R,11/7/1999,,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000005,0
+137871487,H,M,,Winter Garden,FL,34787,,emp,R,9/19/1998,,,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000005,0
+137871294,H,M,,Matthews,NC,28104-8784,US,T0000002,R,5/17/1989,,0,0,0,0,0,,,0,EMAIL,,1,Zillow Rental Network,Z000000007,0
+137871104,H,M,,Fort Worth,TX,76106-8440,US,T0000019,R,10/28/1999,M,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+137871099,H,,,Durham,NC,27704-5140,US,,R,1/1/2000,,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137871076,H,M,H,Berkeley,CA,94704-1530,US,,R,11/19/1992,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137870822,H,M,,Fort Lauderdale,FL,33311-3421,,,R,8/27/1975,,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137870766,H,H,H,Wichita,KS,67214-4022,,T0000023,R,1/1/1990,F,,0,0,0,0,,,0,,,1,Apartment Locator,Z000000006,1
+137870720,H,M,,Spokane,WA,99217-7140,US,,R,8/7/1997,F,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,0
+137870666,H,H,,Arvada,CO,80002-4538,US,,R,5/27/1961,,0,0,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+137870638,H,M,,Raleigh,NC,27607-7009,US,Unemploy,R,1/10/1998,,0,0,0,0,0,,,0,PHONE,,1,Affordable Housing Agency,Z000000001,1
+137870636,H,H,W,Kingwood,TX,77345-5512,US,,N,12/9/1995,F,0,0,0,0,0,,,0,,,1,Non-Paid Social,NULL,0
+137870311,H,H,,Phoenix,AZ,85016-3815,US,,R,1/30/1995,M,0,0,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+137870297,H,M,,Gaithersburg,MD,20877,US,,R,11/10/1992,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000003,2
+137869980,H,,,Tampa,FL,33610-4004,,,R,1/1/2000,,,0,0,0,0,,,0,,,1,Corporate Housing Agency,Z000000002,1
+137869640,H,H,W,Fort Worth,TX,76137,US,T0000020,R,9/27/1967,M,0,0,0,0,0,,,0,EMAIL,,1,In-House Transfer,Z000000001,2
+137869263,H,M,,Raleigh,NC,27609-7405,,T0000004,R,7/25/1991,F,,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137868907,H,H,W,Fort Worth,TX,76137,US,Techno,R,7/23/1992,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,3
+137868701,H,M,,Waco,TX,76704-8430,US,emp,R,11/22/1990,N,0,0,0,0,0,,,0,PHONE,,1,Preferred Employer,Z000000007,0
+137868700,H,M,,Westminster,CO,80031-4308,US,,R,6/19/1990,M,0,0,0,0,0,,,0,EMAIL,,1,Non-Source,Z000000005,3
+137868673,H,M,,Rathdrum,ID,83858-8561,US,SlfEmpyd,R,2/6/1995,,0,0,0,0,0,,,1,,,1,Online Business Listing,Z000000005,0
+137868642,H,H,,Canyon Country,CA,91351-2705,,,R,2/16/1985,,,0,0,0,0,,,0,,,1,Property Website,Z000000001,3
+137868367,H,M,,Houston,TX,77029-4517,US,emp,O,3/6/1977,,0,0,0,0,0,,,0,PHONE,,1,Online Business Listing,Z000000007,4
+137868090,H,,,Marietta,GA,30067-4418,US,,R,1/10/1999,M,0,0,0,0,0,,,0,,,1,Apartment List,Z000000008,1
+137868081,H,M,M,Houston,TX,77075,US,Mdcl,R,10/23/1964,F,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,1
+137867897,H,,,Arden,NC,28704-5532,US,,R,3/20/1992,F,0,0,0,0,0,,,0,,,1,Greystar Property Referral,Z000000001,1
+137867714,H,H,,Fort Worth,TX,76107-1205,US,,R,6/5/1955,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137867575,H,M,,Albuquerque,NM,87121-3564,US,,O,5/5/1975,F,0,0,0,0,0,,,0,,,1,Apartment List,Z000000003,2
+137867442,H,M,,Chandler,AZ,85226-2986,US,emp,R,1/22/1997,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,2
+137867383,H,,,Phoenix,AZ,85003-2429,US,,R,8/28/1965,M,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+137867192,H,M,,Chicago,IL,60611,US,,R,6/24/1993,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137867179,H,M,,Clinton,UT,84015-8280,US,emp,R,8/18/1984,,0,0,0,0,0,,,0,PHONE,,1,Apartments.com,Z000000007,0
+137867164,H,H,,Trinity,FL,34655-5069,,,N,1/1/1950,,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,2
+137866830,H,M,,Spokane Valley,WA,99216-3565,US,,R,10/5/1996,F,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,3
+137866770,H,M,H,peach tree city,GA,30269,,,R,11/19/1958,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,1
+137866448,H,M,,Conroe,TX,77303-4629,,,O,5/29/1997,M,,0,0,0,0,,,0,,,1,Property Website,Z000000059,2
+137866444,H,M,,Eugene,OR,97405-1743,US,U0000035,R,6/27/1961,M,0,0,0,0,0,,,0,PHONE,,1,Craigslist.org,Z000000001,1
+137866389,H,M,,Williston,ND,58801-5344,US,,R,9/12/1981,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137866232,H,H,,San Antonio,TX,78230,US,,N,1/1/2005,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137866011,H,M,,Nashville,TN,37203-4383,,emp,R,1/6/1983,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137865663,H,M,,Dania Beach,FL,33004-2253,US,emp,O,12/14/1993,M,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,0
+137865661,H,M,,Falls Church,VA,22042-2355,US,,R,8/28/1994,,0,0,0,0,0,,,0,,,1,Property Web Site,Z000000001,3
+137865605,H,M,,Monroe,NC,28110-9350,US,,R,1/1/1999,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,2
+137865164,H,M,,Palm Bay,FL,32909-7243,US,,R,8/25/1963,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137865008,H,,,Fort Myers,FL,33916-7703,,,R,11/18/1996,,,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137864824,H,M,,Aurora,CO,80011-7069,US,Unemploy,R,6/19/2000,,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000005,0
+137864195,H,M,,Seattle,WA,98121-4050,,emp,R,3/4/1989,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137864045,H,H,M,Boulder,CO,80303-2336,US,,R,9/14/2000,M,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137863868,H,M,,Des Moines,IA,50309-2075,US,emp,R,7/7/1998,F,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137863865,H,H,M,Fremont,CA,94555-2451,,,R,9/8/1996,F,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137863771,H,H,,Dallas,TX,75220-5153,US,Hsptlty,R,10/6/1975,F,0,0,0,0,0,,,0,PHONE,,1,In-House Transfer,Z000000005,1
+137863770,H,H,W,Stevenson Ranch ,CA,91381,,,R,3/7/2023,,,0,0,0,0,,,0,,,1,Greystar.com,Z000000005,1
+137863737,H,M,,Eugene,OR,97401-1522,US,T0000016,R,11/20/1998,F,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+137863735,H,M,,Thornton,CO,80260-4330,US,emp,R,7/26/1984,,0,0,0,0,0,,,0,PHONE,,1,Greystar.com,Z000000001,0
+137863732,H,M,,Phoenix,AZ,85040,US,,R,9/18/1968,,0,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000001,3
+137863698,H,H,,Avondale,AZ,85392-3843,,,R,3/1/2002,M,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000007,3
+137863570,H,W,,Hamburg,NJ,07419-2220,US,T0000014,O,11/4/1986,M,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137863389,H,M,,Syracuse,UT,84075-8639,US,emp,R,7/15/1983,,0,0,0,0,0,,,0,EMAIL,,1,Live/Work in Area,Z000000005,0
+137863183,H,M,,Allston,MA,02134-1773,US,SlfEmpyd,R,5/30/1992,,0,0,0,0,0,,,0,PHONE,,1,Affordable Housing Agency,Z000000001,1
+137863079,H,M,,Cleveland,OH,44115-2111,US,emp,R,7/17/2004,,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000001,0
+137863050,H,W,,Austin,TX,78754-4543,US,,R,1/1/2000,,0,0,0,0,0,,,0,,,1,Property Website,Z000000007,3
+137863022,H,M,,Thornton,TX,76787,,emp,R,8/15/2003,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137862983,H,M,,Eugene,OR,97404-2850,,T0000006,R,10/27/1998,F,,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,3
+137862927,H,M,,Corpus Christi,TX,78412-5506,,Unemploy,R,2/19/2001,M,,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+137862856,H,,,Albuquerque,NM,87106-4578,US,,R,7/4/1955,,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+137862804,H,H,,Houston,TX,77004-7788,,,R,1/1/1960,M,,0,0,0,0,,,0,,,1,Non-Source,Z000000005,4
+137862775,H,,,Albuquerque,NM,87112-1506,US,,R,10/30/1976,,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000005,2
+137862657,H,M,,Glendale,AZ,85307-4357,US,emp,R,2/20/2004,M,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000005,1
+137862640,H,H,M,Orlando,FL,32832-2800,,T0000004,R,10/17/1981,M,,0,0,0,0,,,0,,,1,Property Website,Z000000003,2
+137862505,H,H,M,Houston,TX,77002-1321,US,T0000015,R,12/30/1986,M,0,0,0,0,0,,,0,EMAIL,,1,Affordable Housing Agency,Z000000003,1
+137862470,H,M,,Katy,TX,77449-1999,,T0000015,R,5/10/1971,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137862228,H,M,,Houston,TX,77064-4625,US,emp,R,2/28/1994,M,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,1
+137862220,H,M,,Downingtown,PA,19335-2138,US,,R,1/1/1990,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137862195,H,M,,St. Michaels,AZ,86511,US,U0000008,O,3/12/2004,,0,0,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+137862142,H,H,,Fort Myers,FL,33967-5210,,,R,12/19/1993,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,4
+137862085,H,M,,Atlanta,GA,30339-1300,US,emp,R,3/26/1994,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137862053,H,M,,Fort Worth,TX,76109-2348,US,T0000004,R,5/31/2000,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137861990,H,M,H,Indian Trail,NC,28079-3870,,,R,6/1/1991,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137861855,H,M,,Portland,OR,97222-2129,US,,R,3/24/2004,,0,0,0,0,0,,,0,EMAIL,,1,Non-Source,Z000000005,1
+137861764,H,,,Hilton Head,SC,29926,,,N,1/1/1960,M,,0,0,0,0,,,0,,,1,Greystar.com,Z000000007,3
+137861711,H,M,,Katy,TX,77449-5143,US,emp,R,8/20/1997,,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+137861586,H,M,W,Fayetteville,GA,30214,US,emp,R,9/25/1997,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,2
+137861533,H,H,,Sullivans Island,SC,29482-9749,,,R,4/18/2004,M,,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000005,2
+137861467,H,,,Queen Creek,AZ,85142-8022,US,,R,1/1/1900,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137861252,H,,,Queen Creek,AZ,85142-8022,,,R,1/1/1900,,,0,0,0,0,,,0,,,1,Property Website,Z000000001,2
+137861222,H,,,Boston,MA,02125-2767,US,,R,1/1/1985,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000005,2
+137861121,H,H,H,Magnolia,TX,77354-2823,,,O,2/13/2004,M,,0,0,0,0,,,0,,,1,Apartment List,Z000000005,2
+137861078,H,H,M,Houston,TX,77095-3983,,T0000012,R,1/24/2001,F,,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137861075,H,H,,Roslindale,MA,02131-3636,US,,R,6/12/1985,F,0,0,0,0,0,,,0,EMAIL,,1,Affordable Housing Agency,Z000000012,1
+137861003,H,M,,San Antonio,TX,78207-1647,,emp,R,9/19/1997,F,,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000012,0
+137860998,H,H,,Cheney,WA,99004-1426,US,T0000003,R,7/13/2000,M,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+137860837,H,H,M,Albuquerque,NM,87111-6123,,U0000035,R,5/11/1961,M,,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+137860835,H,M,,Williston,ND,58801-8943,,,O,3/18/1993,F,,0,0,0,0,,,0,,,1,Property Website,Z000000007,0
+137860767,H,M,,Houston,TX,77077-6227,,emp,R,11/21/1959,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137860725,H,M,,Phoenix,AZ,85020-1547,US,emp,R,11/17/1959,,0,0,0,0,0,,,0,PHONE,,1,Zillow Rental Network,Z000000005,0
+137860725,H,M,,Phoenix,AZ,85020-1547,US,emp,R,11/17/1959,,0,0,0,0,0,,,0,PHONE,,1,Zillow Rental Network,Z000000005,0
+137860688,H,H,,Derwood,MD,20855-1500,US,,O,4/27/1974,M,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000007,1
+137860603,H,H,,Columbia,MD,21044-1614,,,R,6/28/1980,,,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000007,3
+137860395,H,H,,Atlanta,GA,30305-1578,US,,R,1/1/1960,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137860364,H,M,,Albuquerque,NM,87108-2072,US,,R,2/6/2001,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000007,0
+137860228,H,,,Albuquerque,NM,87106-1059,,,R,1/20/1989,,,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,1
+137860047,H,M,,Charlotte,NC,28277-4470,US,U0000008,R,1/5/1935,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,1
+137859969,H,M,,Newark,NJ,07103-3123,US,,R,1/2/1946,M,0,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000005,4
+137859927,H,M,,Chelsea,MA,02150-1976,,emp,R,5/14/2000,F,,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000029,2
+137859890,H,M,,Nashville,TN,37209-4822,US,emp,R,10/17/1998,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,0
+137859592,H,M,H,Laurel,MD,20708-2601,,,R,7/4/1966,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137859456,H,,,Chandler,AZ,85226-1354,,,R,10/21/1975,F,,0,0,0,0,,,0,,,1,Non-Source,Z000000005,2
+137859369,H,,,Gardner,MA,01440-2817,US,,R,1/1/1994,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000095,0
+137859012,H,M,,Winter Garden,FL,34787-8879,,emp,R,3/14/1981,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,4
+137858876,H,H,M,Oklahoma City,OK,73102,US,,R,1/1/1999,,0,0,0,0,0,,,0,,,1,Corporate Housing Agency,Z000000005,1
+137858756,H,M,,Phoenix,AZ,85037-3820,US,emp,N,12/18/1987,M,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000005,0
+137858743,H,M,,Pawleys Island,SC,29585-7655,,emp,R,6/3/1998,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137858738,H,M,,Jersey City,NJ,07306-5194,US,emp,R,1/25/1997,M,0,0,0,0,0,,,0,EMAIL,,1,Apartment Locator,Z000000003,0
+137858643,H,M,H,San Jose,CA,95128-3678,US,,R,7/3/1991,M,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000001,0
+137858474,H,M,,Denver,CO,80237-3044,US,emp,R,1/14/1993,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137858457,H,M,,Ellensburg,WA,98926-7610,US,Student,R,2/4/2004,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000007,0
+137858409,H,M,,Alexandria,VA,22304-4141,US,emp,R,12/29/1977,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,0
+137858402,H,M,,Jacksonville,FL,32218-2797,,emp,R,2/23/1996,N,,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137858398,H,,,Cedar Park,TX,78613-7979,,,R,1/1/2001,F,,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+137858393,H,M,,Westerville,OH,43081-8259,US,emp,O,7/13/1990,,0,0,0,0,0,,,0,TEXT,,1,Friend/Family Referral,Z000000029,0
+137858319,H,M,,Seattle,WA,98103-6711,US,Retired,O,1/22/1951,M,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,0
+137858296,H,H,,Riverside,CA,92508-5013,,T0000019,R,8/18/1993,M,,0,0,0,0,,,0,,,1,Non-Paid Social,Z000000005,2
+137858245,H,H,,Houston,TX,77056-7402,,,R,1/1/2001,,,0,0,0,0,,,0,,,1,Greystar.com,Z000000007,4
+137858227,H,,,Espanola,NM,87532-2911,US,,R,2/2/1958,,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,2
+137858117,H,H,,Lakewood,CO,80214,,,R,4/12/1964,M,,0,0,0,0,,,0,,,1,Employee Referral,Z000000005,2
+137858045,H,,,Albuquerque,NM,87102-4771,US,,R,10/16/2003,,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000001,2
+137858020,H,H,,Charlotte,NC,28202-3240,US,,R,2/1/2000,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137857886,H,M,,Redmond,WA,98052-4346,US,emp,R,6/30/1987,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000007,0
+137857829,H,M,,Yakima,WA,98901-9799,US,Student,R,1/1/2004,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000045,0
+137857733,H,M,,Florence,SC,29501-5600,US,T0000004,R,1/1/1983,M,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,0
+137857599,H,H,,Albuquerque,NM,87108-4238,US,,R,9/17/1971,M,0,0,0,0,0,,,0,EMAIL,,1,Employee Referral,Z000000001,1
+137857469,H,M,,Falls Church,VA,22042,,,R,1/1/2000,,,0,0,0,0,,,0,,,1,Property Web Site,Z000000001,1
+137857457,H,M,H,Los Angeles,CA,90015-1392,US,,R,1/12/1979,N,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,2
+137857381,H,M,,Goodyear,AZ,85338-7551,US,,O,9/12/1992,F,0,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000005,2
+137857345,H,H,,Albuquerque,NM,87108-4011,US,T0000004,R,2/2/1997,F,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000007,3
+137857333,H,M,,Wilmington,NC,28412-7666,,,O,10/29/1956,F,,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137857149,H,H,,Salt Lake Cty,UT,84116-3199,US,,R,6/8/1957,M,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000005,3
+137856991,H,M,,Jefferson,GA,30549-5544,,emp,R,7/18/2001,F,,0,0,0,0,,,0,,,1,Apartment List,Z000000001,0
+137856907,H,M,,Dorchester,MA,02121-3399,US,T0000007,R,5/28/1992,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137856891,H,H,M,Asheville,NC,28801-4076,US,Unemploy,R,10/16/1975,F,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000001,1
+137856710,H,M,,Royse City,TX,75189-0290,US,emp,R,7/3/1989,,0,0,0,0,0,,,0,PHONE,,1,Apartment Locator,Z000000001,1
+137856656,H,M,,Vancouver,WA,98684-5506,US,,R,1/18/2005,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137856380,H,,,Miami,FL,33127-4324,,,R,1/1/1999,,,0,0,0,0,,,0,,,1,Airbnb,Z000000005,1
+137856292,H,,,Chicago,IL,60605-2998,US,T0000003,R,9/18/1992,F,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000012,1
+137856216,H,H,M,Conroe,TX,77303-2024,US,T0000006,O,10/7/1995,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137856193,H,H,W,Greenville,SC,29601,US,Unemploy,R,8/3/1992,F,0,0,0,0,0,,,0,PHONE,,1,Employee Referral,Z000000001,1
+137856177,H,M,,San Francisco,CA,94103-5816,US,emp,R,11/25/1986,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137855842,H,M,,St Petersburg,FL,33713-8314,US,Retired,R,8/5/1964,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,1
+137855584,H,M,,Belvidere,IL,61008-1481,US,,R,1/21/1964,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,1
+137855449,H,,,Phoenix,AZ,85022-6679,US,,R,1/1/1995,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,3
+137855367,H,M,,Wheeling,IL,60090-2640,US,emp,R,4/28/1996,N,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000012,1
+137855120,H,M,,Charlotte,NC,28216-9069,,emp,R,5/30/1992,,,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137855102,H,M,,Allen,TX,75013-2846,US,,R,4/30/1991,,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137855007,H,M,,Phoenix,AZ,85022-2600,US,,R,2/26/1993,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,4
+137854917,H,M,,Pleasant Grove,UT,84062-5538,US,emp,R,10/22/1990,,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000005,2
+137854746,H,M,,Fridley,MN,55432-3554,US,emp,R,5/1/2002,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,0
+137853697,H,,,Orlando,FL,32803-1862,,,R,1/1/1989,,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137853164,H,M,,Austin,TX,78703-4829,US,emp,R,2/1/1972,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137853082,H,M,,Denver,CO,80204-2215,US,emp,R,10/2/1998,,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000005,0
+137852037,H,M,,Schertz,TX,78154-1172,US,emp,R,7/1/1960,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,0
+137851889,H,M,,Buffalo,NY,14221-7236,US,Techno,R,7/8/1990,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137851167,H,M,,Augusta,GA,30909,,Unemploy,R,12/28/1997,,,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,0
+137851127,H,H,,North Hollywood,CA,91601-3645,US,,R,4/23/1994,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137851046,H,M,,Edmonds,WA,98026-4811,US,,R,4/1/1996,,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+137850978,H,M,,Sunnyvale,CA,94086-4950,US,,R,10/9/1999,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,2
+137850904,H,M,,Canoga Park,CA,91304-5548,US,emp,R,10/26/1994,N,0,0,0,0,0,,,0,PHONE,,1,Apartments.com,Z000000005,0
+137850711,H,,,Northglenn,CO,80233-3076,US,,R,4/12/1985,F,0,0,0,0,0,,,0,,,1,Property Signage,Z000000001,2
+137850705,H,M,H,Coeur D Alene,ID,83814-5008,,SlfEmpyd,O,7/31/1975,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137850687,H,M,,Phoenix,AZ,85053-1921,US,,R,11/25/1996,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+137850420,H,M,,Aurora,CO,80015-1031,US,emp,R,4/30/2001,,0,0,0,0,0,,,0,EMAIL,,1,Local Internet Source,Z000000005,0
+137850419,H,M,,Chicago,IL,60614-0051,US,T0000014,R,8/6/1990,M,0,0,0,0,0,,,0,EMAIL,,1,Affordable Housing Agency,Z000000001,0
+137850209,H,M,,Plant City,FL,33563-5317,,emp,R,10/10/1990,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,1
+137849884,H,M,,Arlington,TX,76011-4482,,,R,3/7/1945,F,,0,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+137849731,H,M,,Braselton,GA,30517-3401,,,R,3/8/1987,,,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137849724,H,M,,Hingham,MA,02043-1567,US,,R,3/9/1965,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137849557,H,M,,Atlanta,GA,30315-2361,,emp,R,2/12/1999,M,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,2
+137849469,H,H,M,Charlotte,NC,28206-2283,US,Rstrnt,R,12/14/2000,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137849410,H,M,,Alpharetta,GA,30004-5027,US,emp,R,4/9/1988,,0,0,0,0,0,,,0,PHONE,,1,Apartment List,Z000000001,0
+137849356,H,M,,Williston,ND,58801-2216,US,,R,12/12/1975,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137849261,H,M,,Amesbury,MA,01913-2548,US,,R,1/1/2000,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000095,0
+137849072,H,,,Santa Clarita,CA,91321-3141,,,R,2/6/1982,F,,0,0,0,0,,,0,,,1,Local ILS,Z000000001,2
+137849070,H,M,,Orlando,FL,32812-5990,US,,R,5/26/2002,F,0,0,0,0,0,,,0,,,1,Non-Paid Referral,Z000000001,1
+137849067,H,M,,Litchfield Park,AZ,85340-4185,US,SlfEmpyd,R,1/11/1990,,0,0,0,0,0,,,0,PHONE,,1,Live/Work in Area,Z000000005,0
+137848472,H,H,,Carrollton,TX,75006-4957,US,T0000001,R,8/7/1982,F,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,2
+137848325,H,M,,El Paso,TX,79936,US,emp,O,5/11/1998,N,0,0,0,0,0,,,0,TEXT,,1,Apartment Locator,Z000000012,0
+137848178,H,M,,Rochester,NY,14609-5611,US,emp,R,12/9/2001,,0,0,0,0,0,,,0,PHONE,,1,Apartment List,Z000000001,0
+137848036,H,M,,Orlando,FL,32812-8341,US,emp,R,5/30/1976,N,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,0
+137847853,H,H,M,Doraville,GA,30340-2131,US,,R,3/1/1975,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,2
+137847272,H,M,,Rio Rancho,NM,87124-2375,,emp,R,3/7/1965,F,,0,0,0,0,,,0,,,1,Employee Referral,Z000000005,0
+137847181,H,,,Westminster,CO,80234-2510,US,,R,2/20/1990,F,0,0,0,0,0,,,0,,,1,Event Marketing,Z000000005,0
+137847129,H,M,,Seattle,WA,98104-4800,US,,R,8/7/1994,F,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,0
+137847004,H,M,,Lakewood,CO,80226-4433,US,Unemploy,R,11/15/2000,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,2
+137846901,H,M,,East Wenatchee,WA,98802-8550,US,Student,R,8/19/2003,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000007,0
+137846801,H,M,,Parma,OH,44134,US,,R,9/13/1994,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,1
+137846729,H,M,,Austin,TX,78717-6059,US,,R,6/29/1995,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000012,1
+137846724,H,,,Houston,TX,77095-5610,,,R,1/1/1995,F,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137846641,H,,,Houston,TX,77024-1639,,,R,1/1/1998,,,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,1
+137846538,H,M,H,Spokane Valley,WA,99216-1279,,T0000012,N,10/29/1979,F,0,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000005,3
+137846399,H,,,Woodstock,GA,30189-7001,US,,R,3/31/1980,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000005,4
+137846376,H,M,,Stockbridge,GA,30281-5938,US,,R,7/16/1992,M,0,0,0,0,0,,,0,,,1,Apartment List,Z000000001,1
+137846366,H,,,Pflugerville,TX,78660-4825,,,R,12/17/1991,F,,0,0,0,0,,,0,,,1,Greystar Property Referral,Z000000005,2
+137846364,H,M,,Edina,MN,55435-1607,,emp,R,10/1/1982,,,0,0,0,0,,,0,,,1,Corporate Housing Agency,Z000000029,0
+137846358,H,M,,Moscow,ID,83843-4221,US,emp,R,12/9/2000,M,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000005,0
+137846220,H,M,,Everett,WA,98204-3897,US,,R,5/27/1994,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137845715,H,H,,Pflugerville,TX,78660,,,R,7/30/1975,,,0,0,0,0,,,0,,,1,Non-Source,Z000000005,3
+137845633,H,H,,Albuquerque,NM,87108-4260,US,,R,1/13/1967,,0,0,0,0,0,,,0,,,1,Military Housing,Z000000095,1
+137845585,H,M,,34787,FL,34787,US,emp,R,5/7/1992,M,0,0,0,0,0,,,0,PHONE,,1,Realtor.com,Z000000005,2
+137845570,H,H,,Spokane,WA,99207-2443,US,,R,10/9/2000,F,0,0,0,0,0,,,0,,,1,Non-Source,Z000000003,1
+137845445,H,,,Boca Raton,FL,33487-8218,,Mdcl,R,1/1/1999,,,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+137845198,H,M,,North Bend,WA,98045-8983,US,,R,7/27/2001,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000003,0
+137844972,H,H,M,Albuquerque,NM,87114-2111,,emp,O,11/4/1976,M,,0,0,0,0,,,0,,,1,ApartmentRatings.com,Z000000038,0
+137844933,H,H,M,Shoreline,WA,98177-3243,US,T0000003,O,7/11/1978,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000003,0
+137844829,H,M,,Sanford,FL,32773-5741,US,,R,10/9/1979,M,0,0,0,0,0,,,0,TEXT,,1,Zillow Rental Network,Z000000005,0
+137844727,H,H,,Spokane,WA,99258-0001,US,,R,9/4/2003,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,2
+137844665,H,M,,San Francisco,CA,94108-1316,US,T0000002,R,4/29/1970,M,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000005,0
+137844662,H,H,,Nashville,TN,37208-3612,US,SlfEmpyd,R,2/22/1994,M,0,0,0,0,0,,,0,PHONE,,1,Off-Site Signage,Z000000012,1
+137844615,H,M,,Bothell,WA,98011-7039,US,Hsptlty,R,11/24/1983,F,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000009,0
+137844605,H,H,M,Oklahoma City,OK,73120-7517,,T0000009,R,1/20/1997,M,,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137844602,H,,,Columbia,MD,21046-3374,US,,R,1/1/1983,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000095,1
+137844485,H,M,,Palatine,IL,60074-1204,,emp,O,11/22/1998,M,0,0,0,0,0,,,0,EMAIL,,1,Apartment Locator,Z000000012,1
+137844433,H,M,,Alamogordo,NM,88310,,emp,R,5/28/1978,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137844430,H,H,,Spokane,WA,99207-2456,US,,R,3/25/2001,F,0,0,0,0,0,,,0,,,1,Non-Source,Z000000003,2
+137844356,H,H,,Burnsville,MN,55337-2632,US,,R,8/8/1995,,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,2
+137844205,H,M,,Dunwoody,GA,30338-6323,,T0000023,R,4/10/1993,F,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000029,0
+137844028,H,M,,Revere,MA,02151-2507,US,,O,2/27/1945,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137844003,H,H,,Boston,MA,02111-2526,US,,R,7/21/1959,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137843962,H,M,,Northbrook,IL,60062,US,emp,R,2/19/1997,,0,0,0,0,0,,,1,PHONE,,1,Property Website,Z000000005,0
+137843410,H,M,,Charlotte,NC,28206-6013,US,,R,6/30/1998,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000012,1
+137843341,H,M,,Junction City,KS,66441-5246,US,emp,R,9/1/2000,F,0,0,0,0,0,,,0,EMAIL,,1,Zillow Rental Network,Z000000005,0
+137843240,H,,,Lauderhill,FL,33313,US,,R,2/27/1972,,0,0,0,0,0,,,0,,,1,Apartment List,Z000000005,1
+137843200,H,M,,Mt Pleasant,SC,29464-6002,US,,R,1/1/2000,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137843166,H,M,H,Witchita,KS,67214,US,,R,1/1/1999,N,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137843143,H,H,,Witchita,KS,67214,US,,R,1/1/1999,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137843109,H,M,H,Wichita,KS,67214-4022,US,,R,1/1/1999,N,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137842784,H,W,W,Gibsonton,FL,33534-4310,US,SlfEmpyd,R,10/12/1981,M,0,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000005,1
+137842732,H,M,,Clermont,FL,34711-7907,,emp,R,11/29/1951,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137842674,H,H,W,Avondale,AZ,85392,US,Mdcl,R,5/7/1993,F,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,4
+137842531,H,H,,San Diego,CA,92122-1384,,,R,6/13/2000,M,,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137842500,H,M,,Cep 80000,BR,00000-0000,,SlfEmpyd,R,3/2/1982,F,,0,0,0,0,,,0,EMAIL,,1,Non-Paid Referral,Z000000005,0
+137842476,H,,,Spokane,WA,99208-6443,US,,R,9/2/1967,F,0,0,0,0,0,,,0,,,1,Local Publication,Z000000001,0
+137842351,H,M,,Denver,CO,80220-3300,US,,R,11/19/1979,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,1
+137841916,H,M,,Scottsdale,AZ,85258-2625,,emp,R,8/22/1996,,,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137841730,H,M,,Austin,TX,78741-5002,US,emp,R,7/6/1999,,0,0,0,0,0,,,0,PHONE,,1,Employee Referral,Z000000005,0
+137841678,H,M,,Williston,ND,58801-3088,,,R,1/15/1972,,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137841612,H,M,,Fort Worth,TX,76111-1387,US,Mdcl,R,5/26/1995,F,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137841553,H,,W,Los Angeles,CA,90013-2657,,,R,3/13/1970,,,0,0,0,0,,,0,,,1,Employee Referral,Z000000001,1
+137841508,H,H,,Lakeville,MN,55044,US,,R,8/14/1995,,0,0,0,0,0,,,0,,,1,Rent.,Z000000001,1
+137841457,H,M,H,Ann Arbor,MI,48104-3962,US,,R,1/28/1996,N,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137841352,H,,,Roswell,GA,30075-3744,US,,R,1/1/2001,,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000005,1
+137841215,H,,,Jacksonville,FL,32246-6702,,,R,3/17/1974,,,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,1
+137841195,H,H,H,Wichita,KS,67214-4022,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137841163,H,M,,Denver,CO,80220-3300,US,Mdcl,R,4/28/1997,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000003,2
+137841099,H,H,H,Wichita,KS,67214-4022,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137841048,H,H,,Dallas,TX,75201-4925,,,R,10/22/1992,,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137841025,H,M,,Conroe,TX,77304-5048,US,,R,11/4/1981,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137840957,H,H,H,Wichita,KS,67214-4022,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137840904,H,H,H,Wichita,KS,67214-4022,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137840895,H,M,,Washington,DC,20024-3300,,,R,8/30/1983,M,,0,0,0,0,,,0,,,1,Property Website,Z000000012,1
+137840810,H,H,,Wichita,KS,67214-4022,US,,R,1/1/2023,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137840794,H,H,W,NULL,,,,emp,O,4/9/1963,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137840752,H,M,,Salem,OR,97301-2427,US,Mdcl,R,7/22/1966,,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000004,0
+137840689,H,,,Bloomington,MN,55431-3198,,,R,11/3/1980,M,,0,0,0,0,,,0,,,1,Non-Source,Z000000005,1
+137840680,H,,,Houston,TX,77056-7402,US,,R,1/1/2004,,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000001,1
+137840650,H,M,,Austin,TX,78756-3106,US,,R,10/17/1973,M,0,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000097,0
+137840636,H,M,,Woodbridge,NJ,07095-1723,US,,R,1/19/1989,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000097,1
+137840618,H,H,W,Nashville,TN,37228-1674,US,,R,10/20/1982,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000012,1
+137840589,H,H,,Albuquerque,NM,87123-4106,,,R,4/17/1994,F,,0,0,0,0,,,0,VISIT,,1,Apartments.com,Z000000005,3
+137840588,H,H,,Tustin,CA,92782-3716,US,,R,1/23/1998,,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000096,1
+137840587,H,M,,BN11 2DG,GB,0,GB,emp,R,6/25/1993,N,0,0,0,0,0,,,1,EMAIL,,1,Property Website,Z000000001,2
+137840429,H,M,,Spokane,WA,99205-6806,US,,R,8/27/1998,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137840374,H,M,,Virginia Beach,VA,23453-8613,US,T0000006,R,5/26/1992,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000003,3
+137840365,H,M,,Dallas,TX,75206-4339,US,Unemploy,R,10/30/2001,,0,0,0,0,0,,,0,EMAIL,,1,Resident Referral,Z000000005,0
+137840329,H,M,,Waukegan,IL,60085-8356,US,Unemploy,R,9/4/1996,N,0,0,0,0,0,,,0,EMAIL,,1,Live/Work in Area,Z000000012,0
+137840278,H,H,H,Witchita,KS,67214,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137840238,H,,,Raleigh,NC,27606-3578,US,,R,1/1/1990,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137840196,H,,,Raleigh,NC,27606-3578,US,,R,1/1/1980,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000009,4
+137840073,H,H,H,Wichita,KS,67214,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137839965,H,M,,Phoenix,AZ,85027-4547,US,,R,9/12/1990,M,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,2
+137839891,H,H,W,Avondale,AZ,85392,,Sprts,R,9/28/1989,M,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,3
+137839618,H,M,,Smyrna,GA,30080-1275,US,emp,R,3/14/1966,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137839556,H,M,,Highlands,TX,77562-2677,US,,R,12/12/1996,M,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,1
+137839496,H,M,,College Station,TX,77840-6248,US,emp,R,4/20/1998,M,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137839185,H,M,H,Chattanooga,TN,37405-4482,,,R,10/12/1998,M,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000012,1
+137839090,H,H,H,Wichita,KS,67214-4022,,,R,1/1/1999,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137839023,H,,,Bedford,TX,76021,US,,N,1/1/1960,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137838953,H,H,,Savannah,TX,76227-7924,US,,O,8/19/1981,M,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,1
+137838695,H,M,H,Santa Rosa Beach,FL,32459-6177,,emp,R,7/18/1987,M,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000008,0
+137838606,H,M,,Corpus Christi,TX,78418,US,emp,R,4/3/1995,N,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000001,0
+137838150,H,M,,Conyers,GA,30012-3889,,,R,3/17/1990,F,,0,0,0,0,,,0,,,1,Property Website,Z000000007,0
+137838101,H,M,,Tampa,FL,33607-5971,US,,R,2/23/2003,,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,2
+137838045,H,M,,Peachtree city,GA,30269,,emp,R,4/7/1994,M,,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+137837484,H,M,,Anaheim,CA,92804-2159,US,emp,R,2/27/1991,,0,0,0,0,0,,,0,EMAIL,,1,Zillow Rental Network,Z000000005,0
+137837473,H,M,,Cantonment,FL,32533-8670,US,emp,R,2/1/2001,,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000001,0
+137837470,H,H,,N/A,CA,92614,US,,R,7/23/1943,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000096,1
+137837444,H,M,,Tarzana,CA,91356-4334,US,emp,R,7/27/1982,,0,0,0,0,0,,,0,EMAIL,,1,Apartment List,Z000000001,0
+137837329,H,H,,Irvine,CA,92618-3418,,,R,1/30/1976,,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,1
+137837322,H,M,,Seattle,WA,98168,US,,N,3/8/2002,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000003,2
+137837117,H,M,,Waco,TX,76710-1925,,emp,R,1/2/1998,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137837097,H,M,,Pittsburgh,PA,15222-5721,US,emp,R,2/1/1994,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137836983,H,M,,New Brunswick,NJ,08901-1693,US,,R,1/13/1993,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137836933,H,M,,Houston,TX,77034-4903,US,T0000017,R,5/19/1970,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137836915,H,M,,Elizabeth,NJ,07201-1220,US,,R,3/20/1992,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137836795,H,M,,Piscataway,NJ,08854-5992,US,,R,2/15/2002,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000096,2
+137836765,H,H,,Auburn,WA,98092,,,R,11/15/1965,M,,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137836698,H,M,,Jonesboro,GA,30238-5746,US,emp,R,12/23/1981,,0,0,0,0,0,,,0,,,1,Apartment List,Z000000001,0
+137836600,H,H,,Canoga Park,CA,91303-3873,,,R,6/19/1984,,,0,0,0,0,,,0,,,1,Employee Referral,Z000000001,1
+137836532,H,M,H,Van Buren Twp,MI,48111-1585,US,,R,5/14/1996,N,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137836332,H,M,,Jessup,MD,20794-9543,US,emp,R,3/12/1981,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137836304,H,M,,Phoenix,AZ,85006-3067,US,,R,12/30/1990,M,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137836295,H,M,,Portland,OR,97227-2052,US,emp,R,2/27/2002,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,0
+137836256,H,H,,Thornton,CO,80260-4384,US,,R,4/19/1993,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,2
+137836079,H,,,Los Angeles,CA,90013,US,,R,4/1/1960,M,0,0,0,0,0,,,0,,,1,Apartment Locator,Z000000001,1
+137836077,H,W,W,Thornton,CO,80229-4550,US,Rstrnt,R,9/6/1992,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137836025,H,M,,San Antonio,TX,78245-3848,,Military,R,11/28/1990,M,,0,0,0,0,,,0,,,1,Non-Source,Z000000007,0
+137836004,H,,,Los Angeles,CA,90013,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137835914,H,,,Los Angeles,CA,90013,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,1,ApartmentSearch.com by CORT,Z000000012,1
+137835762,H,M,,Ellensburg,WA,98926-7790,US,Student,R,2/25/2000,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137835697,H,M,,Windermere,FL,34786-5865,US,emp,R,9/19/1995,M,0,0,0,0,0,,,0,PHONE,,1,Apartments.com,Z000000005,0
+137835631,H,,,N/A,CA,92614,,,R,1/1/1999,,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,3
+137835596,H,H,,College Station,TX,77845-2823,US,,R,12/19/2000,M,0,0,0,0,0,,,0,,,1,Apartment List,Z000000005,2
+137835533,H,,,N/A,CA,92614,US,,R,1/1/1999,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137835369,H,M,,Marietta,GA,30067-6367,US,emp,R,4/22/1977,,0,0,0,0,0,,,0,PHONE,,1,Preferred Employer,Z000000005,3
+137835355,H,M,,Austin,TX,78744-0065,US,,R,3/20/1998,,0,0,0,0,0,,,0,,,1,Apartment Locator,Z000000097,0
+137835350,H,H,,Durham,NC,27703-7618,US,T0000019,R,6/6/1992,M,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137835272,H,,,Los Angeles,CA,90013-1010,,,R,1/1/1960,,,0,0,0,0,,,0,,,1,Non-Source,Z000000001,2
+137835249,H,M,,Monroe,NC,28110-7829,US,T0000013,R,11/13/1992,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,2
+137835213,H,M,,Covington,WA,98042-6100,US,Student,R,1/22/2004,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137835211,H,,,Lawrenceville,GA,30043,,,R,1/1/1980,,,0,0,0,0,,,0,,,1,Property Website,Z000000005,3
+137835075,H,H,,Salt Lake City,UT,84111-4029,US,T0000011,R,9/8/1976,,0,0,0,0,0,,,0,PHONE,,1,Non-Source,Z000000005,3
+137835068,H,M,,Seguin,TX,78155-7130,US,,R,12/19/1958,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137835060,H,,,Tampa,FL,33619-6746,,,R,1/1/1984,,,0,0,0,0,,,0,,,1,Paid Search,Z000000001,1
+137835017,H,H,,Avondale,AZ,85392-3870,,,R,4/14/1999,F,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,4
+137834961,H,M,,Boca Raton,FL,33487-1401,,,R,7/16/1973,,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,0
+137834914,H,H,,Philadelphia,PA,19144-2016,,,R,2/21/1988,,,0,0,0,0,,,0,,,1,Paid Search,Z000000008,2
+137834877,H,M,,Ellensburg,WA,98926,US,,R,5/6/1998,M,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000007,0
+137834856,H,M,,Conroe,TX,77384-6000,,,R,7/6/1999,F,,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137834758,H,M,,McKinney,TX,75070,US,Mdcl,R,5/20/1990,F,0,0,0,0,0,,,0,EMAIL,,1,Apartments.com,Z000000001,1
+137834745,H,M,,Greenwood,IN,46143-9782,US,,R,7/29/1988,,0,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000005,0
+137834722,H,,,Los Angeles,CA,90013,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137834672,H,H,,Glendale,AZ,85309,US,,R,10/28/2001,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137834662,H,M,,Onalaska,WI,54650-2115,US,U0000035,O,4/2/1951,M,0,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000005,0
+137834659,H,,,NULL,,,,,R,12/26/1980,F,,0,0,0,0,,,0,,,1,Property Website,Z000000007,1
+137834642,H,H,M,Garner,NC,27529-6867,US,SlfEmpyd,O,2/8/1991,F,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000007,2
+137834462,H,H,M,Woodbridge,VA,22191,US,,R,12/3/1992,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137834329,H,M,,Corona,CA,92879-5963,US,,R,2/11/1997,M,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000001,0
+137834317,H,M,,Lexington,KY,40517-5929,US,emp,R,8/13/1993,,0,0,0,0,0,,,0,TEXT,,1,Apartments.com,Z000000001,0
+137833933,H,,,Savage,MD,20763-9506,US,,R,3/1/2000,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000005,2
+137833921,H,H,,Clearwater,FL,33755-2532,US,Hsptlty,N,3/26/1990,F,0,0,0,0,0,,,0,EMAIL,,1,Off-Site Signage,Z000000037,4
+137833873,H,M,,Austin,TX,78753-4035,US,,R,8/13/1993,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137833673,H,M,,Port Charlotte,FL,33954-1860,,emp,R,10/30/1969,M,,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,0
+137833539,H,,,Port Orange,FL,32129,,,R,11/27/1955,F,,0,0,0,0,,,0,,,1,Resident Referral,Z000000005,1
+137833276,H,,,Port Orange,FL,32129-6009,,,R,4/27/2000,M,,0,0,0,0,,,0,,,1,Resident Referral,Z000000007,2
+137833053,H,M,,Sherwood,OR,97140-6910,US,emp,R,5/17/1973,,0,0,0,0,0,,,0,TEXT,,1,Apartments.com,Z000000003,0
+137832669,H,M,,Pittsburgh,PA,15212-5985,US,emp,R,6/23/1995,,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000012,0
+137832595,H,,,Moriarty,NM,87035,US,,R,7/3/1976,,0,0,0,0,0,,,0,,,1,Craigslist.org,Z000000005,4
+137832560,H,M,,Lynwood,CA,90262,US,emp,R,3/3/2000,F,0,0,0,0,0,,,0,PHONE,,1,Employee Referral,Z000000012,0
+137832313,H,,,Longmont,CO,80503-7544,US,,N,6/15/1955,,0,0,0,0,0,,,0,,,1,Apartments.com,Z000000095,2
+137832264,H,M,,Albuquerque,NM,87112-3642,US,,R,11/15/2002,F,0,0,0,0,0,,,0,,,1,Off-Site Signage,Z000000001,1
+137832198,H,H,,Albuquerque,NM,87112-1765,US,,R,11/14/1984,,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000095,2
+137832066,H,M,,Atlanta,GA,30349-2818,US,emp,R,2/6/1989,,0,0,0,0,0,,,0,EMAIL,,1,Apartment Locator,Z000000001,0
+137831865,H,M,,Cold Spring Harbor,NY,11724-1614,US,emp,R,12/8/1970,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,0
+137831786,H,M,,Smryna,GA,30080,,emp,R,5/22/1992,,,0,0,0,0,,,0,,,1,Apartments.com,Z000000005,0
+137831765,H,M,,New Braunfels,TX,78132-3598,US,Lgl,R,12/9/1976,F,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000005,0
+137831740,H,,,Charlotte,NC,28211-5239,US,T0000004,R,8/20/2023,M,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000001,1
+137831675,H,H,,San Antonio,TX,78245-4061,US,T0000004,R,7/13/1998,F,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000001,1
+137831499,H,M,,Phoenix,AZ,85024-1242,,Mdcl,R,7/30/1966,F,,0,0,0,0,,,0,,,1,Apartments.com,Z000000001,0
+137831412,H,M,,Houston,TX,77098,US,Hsptlty,O,3/30/1962,M,0,0,0,0,0,,,0,PHONE,,1,Zillow Rental Network,Z000000001,1
+137831087,H,M,,Phoenix,AZ,85032-1573,US,,R,6/23/1990,,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000001,2
+137830479,H,M,,Littleton,CO,80120,US,,R,5/22/1983,M,0,0,0,0,0,,,0,PHONE,,1,Affordable Housing Agency,Z000000007,0
+137830336,H,M,,Waldorf,MD,20602-2641,US,,R,9/11/1981,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137830302,H,M,,Corpus Christi,TX,78412-2756,US,,R,2/23/1951,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000005,0
+137830203,H,M,,Austin,TX,78759-7187,US,,R,2/5/2002,F,0,0,0,0,0,,,0,,,1,Live/Work in Area,Z000000012,1
+137830085,H,M,,Savannah,GA,31401-2408,US,emp,R,7/6/2001,,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,0
+137830045,H,M,,Denver,CO,80247-2845,US,,R,10/1/1990,,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,2
+137829896,H,H,H,Atlanta,GA,30324-3381,,,R,10/23/1995,M,,0,0,0,0,,,0,,,1,Greystar.com,Z000000005,2
+137829894,H,M,,Pflugerville,TX,78660-6467,US,,R,2/14/2003,M,0,0,0,0,0,,,0,,,1,Apartment Locator,Z000000097,1
+137829893,H,M,,Olathe,KS,66061-7715,US,T0000002,R,3/30/1998,M,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000001,1
+137829850,H,M,H,W 111 TH place,FL,33018,US,,R,12/18/2001,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,2
+137829571,H,M,,Chicago,IL,60657-5808,,emp,R,2/18/1998,M,,0,0,0,0,,,0,,,1,Property Website,Z000000012,1
+137829555,H,M,,Belen,NM,87002-8506,US,,R,3/15/1977,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137829514,H,W,W,Mckinney,TX,75069,,,R,4/22/1969,F,,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000007,0
+137829182,H,,,Santa Rosa Beach,FL,32459-0833,US,,R,1/1/1960,,0,0,0,0,0,,,0,,,1,Local Publication,Z000000008,3
+137829115,H,M,,Austin,TX,78750-2214,US,Unemploy,O,6/8/2003,N,0,0,0,0,0,,,0,EMAIL,,1,Property Website,Z000000012,0
+137829054,H,M,,Oklahoma City,OK,73104-1831,US,Unemploy,R,1/5/1999,,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000005,2
+137828472,H,M,,Vancouver,WA,98664-5144,US,,N,7/15/1955,F,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,1
+137828428,H,H,W,Houston,TX,77025-2352,US,Retired,R,8/4/1942,M,0,0,0,0,0,,,0,EMAIL,,1,In-House Transfer,Z000000001,0
+137828155,H,M,,Seattle,WA,98121-1040,US,Unemploy,R,3/2/1986,F,0,0,0,0,0,,,0,,,1,Zillow Rental Network,Z000000001,0
+137828139,H,M,,Spokane Valley,WA,99206-3888,,,R,6/14/1999,M,,0,0,0,0,,,0,,,1,Property Website,Z000000005,1
+137827426,H,H,,Avondale,AZ,85392-3843,,T0000020,R,5/12/2002,M,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137827328,H,,,Charlotte,NC,28278-7388,,T0000004,R,7/8/1991,M,,0,0,0,0,,,0,,,1,Non-Paid Referral,Z000000001,1
+137827327,H,M,H,Washington,DC,20018-1772,US,emp,R,5/21/1987,N,0,0,0,0,0,,,0,PHONE,,1,Property Website,Z000000001,0
+137827291,H,,,Atlanta,GA,30339,US,,R,1/1/2009,,0,0,0,0,0,,,0,,,1,Greystar.com,Z000000005,3
+137827228,H,H,M,Powder Springs,GA,30127-6017,,emp,R,2/26/1996,,,0,0,0,0,,,0,,,1,Apartment List,Z000000005,0
+137827187,H,H,,Galveston,TX,77550-3026,US,,R,9/3/1976,F,0,0,0,0,0,,,0,,,1,Property Website,Z000000006,1
+137826918,H,,,Austin,TX,78704-1270,US,,R,1/1/1999,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137826746,H,M,,Catonsville,MD,21228-4359,,T0000004,R,4/5/1999,F,,0,0,0,0,,,0,,,1,Preferred Employer,Z000000001,1
+137826642,H,M,,North Hollywood,CA,91601-2132,,,R,5/2/1992,,,0,0,0,0,,,0,,,1,Property Website,Z000000012,1
+137826631,H,H,W,Hawthorne,NJ,7506,US,,N,1/1/1990,M,0,0,0,0,0,,,0,,,1,Non-Source,Z000000005,2
+137826588,H,M,,Charlotte,NC,28203,,emp,R,7/27/1990,F,,0,0,0,0,,,0,,,1,Property Website,Z000000066,0
+137826480,H,M,,Spokane Valley,WA,99212,,,R,8/25/2002,M,,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137826395,H,,,Los Angeles,CA,90015-1392,,,R,2/12/1975,F,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,2
+137826337,H,H,,Fort Worth,TX,76132,,,R,6/6/1982,M,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,3
+137826261,H,,,Lutz,FL,33548-4600,US,,R,1/1/1990,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,1
+137826242,H,M,H,Washington,DC,20002-7898,,,R,5/15/1979,N,,0,0,0,0,,,0,,,1,In-House Transfer,Z000000001,1
+137826169,H,H,,Wichita,KS,67214,US,,R,1/1/1999,,0,0,0,0,0,,,0,,,1,Non-Source,Z000000001,1
+137826049,H,M,,Williston,ND,58801,,,R,10/6/1993,,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137825959,H,H,,Pasadena,CA,91105-3414,US,,N,5/30/2003,F,0,0,0,0,0,,,0,,,1,Apartment List,Z000000095,1
+137825949,H,M,,Spokane,WA,99218-1953,US,Rstrnt,R,10/26/1999,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137825943,H,H,,Dickinson,TX,77539-1962,US,,R,12/10/2000,F,0,0,0,0,0,,,0,,,1,Online Business Listing,Z000000005,2
+137825763,H,M,,Murrells Inlet,SC,29576-6919,US,,R,6/11/1991,F,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000044,0
+137825622,H,M,,Dallas,TX,75215-5465,US,emp,R,7/11/1981,M,0,0,0,0,0,,,0,TEXT,,1,Apartment List,Z000000001,0
+137825617,H,,,Cranberry Township,PA,16066,US,,R,2/6/1987,,0,0,0,0,0,,,0,,,1,In-House Transfer,Z000000005,2
+137825596,H,H,,Carmichael,CA,95608-4100,,,R,12/30/1990,F,,0,0,0,0,,,0,,,1,Employee Referral,Z000000001,1
+137825403,H,W,W,Houston,TX,77081-1400,,T0000013,R,5/7/1997,F,,0,0,0,0,,,0,,,1,Property Website,Z000000005,0
+137825402,H,,,Medford,NY,11763,US,,R,1/27/1996,,0,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000001,1
+137825138,H,M,,San Diego,CA,92106,US,emp,R,10/10/1983,F,0,0,0,0,0,,,0,TEXT,,1,Property Website,Z000000005,0
+137825075,H,,,Ronkonkoma,NY,11779-1418,US,,R,1/14/1978,,0,0,0,0,0,,,0,,,1,Affordable Housing Agency,Z000000001,1
+137824969,H,M,,Albuquerque,NM,87123-3116,US,,R,7/26/1949,F,0,0,0,0,0,,,0,,,1,Resident Referral,Z000000004,1
+137824908,H,M,,Vail,AZ,85641-2308,,SlfEmpyd,R,2/6/1983,,0,0,0,0,0,,,0,,,1,ApartmentSearch.com by CORT,Z000000001,2
+137824785,H,M,,Indianapolis,IN,46222-4061,,SlfEmpyd,R,1/19/2001,,,0,0,0,0,,,0,,,1,Property Website,Z000000031,2
+137824427,H,M,,Jacksonville,FL,32244-7538,US,,R,10/21/1989,M,0,0,0,0,0,,,0,,,1,Property Website,Z000000001,0
+137824387,H,,,Fort Lauderdale,FL,33304-2699,US,,R,1/1/1900,,0,0,0,0,0,,,0,,,1,Employee Referral,Z000000001,1
+137875114,H,M,,Jefferson,GA,30549-2804,US,emp,R,10/7/1984,,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000005,0
+137872551,H,M,,Albuquerque,NM,87112-5123,US,,N,5/20/1959,,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000096,2
+137871602,H,M,,Lombard,IL,60148,US,emp,R,5/18/1992,N,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137866772,H,M,,Westminster,CO,80031,US,T0000015,R,12/28/1964,M,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,1
+137861470,H,H,W,Clermont,FL,34714-4482,,T0000016,R,5/11/1983,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137858407,H,,,Albuquerque,NM,87106-5188,US,,R,7/25/2001,,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000001,1
+137856664,H,M,,Spokane Valley,WA,99016-5449,US,,R,11/16/2000,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137855849,H,M,,Orlando,FL,32839,US,emp,R,12/14/1978,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000007,0
+137855554,H,M,,Spokane Valley,WA,99206-5144,,emp,R,10/7/1991,M,,0,0,0,0,,,0,,,0,Property Website,Z000000012,0
+137854844,H,H,,Brockton,MA,02302-4358,US,,R,4/14/1965,F,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000005,2
+137854372,H,H,,Fort Mill,SC,29708-7616,US,,R,1/1/1988,,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137851133,H,M,,Denver,CO,80237-3314,,emp,R,3/11/1991,M,,0,0,0,0,,,0,,,0,Property Website,Z000000002,1
+137849376,H,,,Cambridge,MA,02139-4916,US,,R,2/14/1995,M,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,2
+137849121,H,M,,Katy,TX,77449-4460,US,,N,10/18/1978,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137848799,H,M,,Phoenix,AZ,85022-2424,US,,R,3/7/1983,,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,2
+137847747,H,M,,Conroe,TX,77303-3459,US,,R,1/29/1982,F,0,0,0,0,0,,,0,,,0,Apartment List,Z000000007,1
+137845537,H,,,Washington,DC,20011-7342,US,,R,7/6/1991,,0,0,0,0,0,,,0,,,0,Apartment Locator,Z000000001,1
+137843887,H,H,M,Sebring,FL,33876-5003,,emp,R,6/3/1969,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137843755,H,M,,San Antonio,TX,78213-5200,US,,R,3/11/1997,F,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,3
+137843662,H,M,,Atlanta,GA,30314-2943,US,emp,R,2/24/1981,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137841872,H,,,Paramount,CA,90723-2631,US,,R,1/1/2001,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000096,1
+137841783,H,M,,Kansas City,MO,64106-2211,US,T0000013,R,7/26/1995,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137838726,H,M,,Kansas City,MO,64106-2211,,T0000013,R,7/26/1995,F,,0,0,0,0,,,0,,,0,Apartment List,Z000000005,2
+137837869,H,M,,Port Bolivar,TX,77650,US,emp,R,12/31/1976,,0,0,0,0,0,,,0,TEXT,,0,Non-Paid Referral,Z000000005,0
+137837675,H,M,,Phoenix,AZ,85032-2500,US,emp,R,4/26/2004,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000003,0
+137833897,H,H,,Little Elm,TX,75068-5212,US,,R,9/3/1993,F,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137830500,H,H,M,Fairburn,GA,30213-3294,,,R,3/19/2000,M,,0,0,0,0,,,0,,,0,Apartment Locator,Z000000001,1
+137828000,H,M,,Jefferson,GA,30549-6923,US,emp,R,1/6/1998,,0,0,0,0,0,,,0,PHONE,,0,Live/Work in Area,Z000000005,0
+137826798,H,H,,galveston,TX,77550,,,R,1/6/1978,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137826513,H,M,,Spokane Valley,WA,99206-3846,US,,R,3/28/1998,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137826102,H,M,,Powder Springs,GA,30127-1863,US,emp,R,6/19/1986,,0,0,0,0,0,,,0,EMAIL,,0,Local Internet Source,Z000000001,0
+137825988,H,M,,Hearne,TX,77859-3272,US,emp,R,8/3/1993,,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000005,1
+137823985,H,H,M,Bryan,TX,77801-1832,US,,R,4/20/1960,F,0,0,0,0,0,,,0,,,0,Apartment List,Z000000005,3
+137823745,H,M,,Elgin,SC,29045-8281,,emp,R,7/3/1986,F,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137819818,H,,,Albuquerque,NM,87108-3973,US,,R,8/8/1972,,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000005,3
+137819696,H,H,,Tolleson,AZ,85353-8720,,,R,6/3/1999,M,0,0,0,0,0,,,0,,,0,Non-Source,Z000000005,2
+137819678,H,M,,Thornton,CO,80229-7620,,,R,11/20/1994,M,,0,0,0,0,,,0,,,0,Apartments.com,NULL,0
+137817992,H,M,,Galveston,TX,77550-4318,US,Unemploy,R,5/13/1976,,0,0,0,0,0,,,0,,,0,Apartment Locator,Z000000001,0
+137816763,H,H,W,Santa FE,NM,87507,US,Rstrnt,R,2/23/1984,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137816309,H,,,Mount Rainier,MD,20712-1822,US,,R,11/4/1993,,0,0,0,0,0,,,0,,,0,Rent.com,Z000000001,1
+137814091,H,H,,Fort Worth,TX,76102-6649,US,,R,2/15/1964,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137811755,H,H,M,Dunwoody,GA,30346-2476,,,R,8/11/1994,M,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000005,2
+137811340,H,H,,Galveston,TX,77550-6666,US,,R,7/13/1960,F,0,0,0,0,0,,,0,,,0,Local Publication,Z000000001,1
+137810850,H,,,Houston,TX,77019-2499,US,T0000006,R,5/15/1995,F,0,0,0,0,0,,,0,,,0,Apartment List,Z000000005,1
+137809497,H,M,,Kansas City,MO,64110-2853,US,T0000015,R,11/15/1997,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000003,1
+137809459,H,H,,Clearwater,FL,33755-1285,US,,R,9/17/1983,F,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000006,1
+137809109,H,,,Boston,MA,02136-3593,US,,R,1/31/2003,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,1
+137809070,H,H,W,Fort Worth,TX,76137-1866,US,T0000001,R,10/8/1969,M,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000005,3
+137808912,H,,,Hobbs,NM,88240-8215,,,O,4/22/1981,,,0,0,0,0,,,0,,,0,Property Website,Z000000003,1
+137807438,H,M,,Manor,TX,78653-1260,US,,R,7/7/1984,M,0,0,0,0,0,,,0,,,0,Apartment List,Z000000001,1
+137807092,H,M,,Thornton,TX,76687-2684,US,SlfEmpyd,O,4/14/1991,N,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,1
+137806447,H,H,,Phoenix,AZ,85032-3174,US,Mdcl,R,2/20/1984,F,0,0,0,0,0,,,0,,,0,Non-Paid Referral,Z000000001,1
+137806064,H,M,M,Hendersonville,TN,37075,US,emp,R,1/19/1975,F,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000005,0
+137802575,H,M,,Charlotte,NC,28216-1982,US,T0000006,R,3/31/1998,M,0,0,0,0,0,,,0,TEXT,,0,Live/Work in Area,Z000000063,0
+137802532,H,M,,Colton,OR,97017-9473,US,SlfEmpyd,R,6/27/1992,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,1
+137801427,H,W,W,Atlanta,GA,31106-0808,,,R,12/11/1970,F,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137801226,H,M,,Spokane Valley,WA,99216-5159,US,Rstrnt,R,1/28/2004,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137800837,H,M,,Meridian,ID,83646-8254,US,emp,R,4/28/1978,,0,0,0,0,0,,,0,FAX,,0,Apartment Locator,Z000000003,0
+137800545,H,M,,Houston,TX,77051-1507,US,,R,5/5/1974,F,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000001,0
+137799125,H,M,,Spokane Valley,WA,99206,,T0000006,R,9/7/1996,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137796566,H,M,,Meridian,ID,83646-8254,US,emp,R,4/28/1978,F,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000005,0
+137796402,H,H,,San Antonio,TX,78249-4864,US,,R,7/23/1977,F,0,0,0,0,0,,,0,,,0,Apartment Locator,Z000000007,3
+137794584,H,M,,Blackville,SC,29817-3131,US,T0000020,R,4/26/1991,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137793970,H,M,,Quincy,MA,02169-6233,US,T0000016,R,6/14/1986,M,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000001,0
+137793034,H,M,,Suitland,MD,20746-1608,US,emp,R,4/24/1992,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137790141,H,M,,Arvada,CO,80007-7860,US,,R,2/21/1987,F,0,0,0,0,0,,,0,,,0,Apartment Locator,Z000000005,1
+137790110,H,M,,Bay St Louis,MS,39521-2380,,,R,5/5/1960,F,,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137789374,H,H,,Mesa,AZ,85208-1404,US,,R,5/31/1996,M,0,0,0,0,0,,,0,EMAIL,,0,Non-Source,Z000000001,1
+137788366,H,M,,Fayetteville,NC,28314-2785,,,R,7/24/1983,F,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000005,0
+137787252,H,M,,Alvin,TX,77511-3616,US,emp,R,10/9/1986,,0,0,0,0,0,,,0,EMAIL,,0,Greystar.com,Z000000007,0
+137786958,H,M,,Mt Prospect,IL,60056-6703,US,emp,O,2/8/2002,N,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000001,0
+137786935,H,M,,Corpus Christi,TX,78414-3450,US,emp,R,6/15/1994,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137785838,H,M,,Puyallup,WA,98371-4307,US,Unemploy,R,8/25/1969,,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000001,1
+137784410,H,M,M,Sublimity,OR,97385-9802,US,T0000020,R,12/18/1970,,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000003,2
+137784081,H,H,M,Conroe,TX,77302-4364,US,T0000017,O,1/31/1978,F,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000001,1
+137782866,H,M,,Sarasota,FL,34243-2042,US,emp,R,11/12/1984,,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000005,0
+137782570,H,,,Albuquerque,NM,87105-6416,US,,R,1/7/1986,,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000012,1
+137782268,H,,,Fort Worth,TX,76133-6216,US,,R,5/30/2004,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137779050,H,M,,Charlotte,NC,28211-3667,,,R,12/8/1982,,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137778468,H,M,,Newman Lake,WA,99025-9505,US,,O,12/30/1990,M,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000007,0
+137778024,H,H,M,Houston,TX,77084-6974,,emp,R,9/29/1997,,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000012,2
+137777397,H,M,,Beaverton,OR,97003-2918,US,emp,R,11/19/1984,,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137776322,H,M,,Arvada,CO,80002-2854,US,,R,11/25/1990,F,0,0,0,0,0,,,0,,,0,Non-Source,Z000000005,3
+137776109,H,,,Houston,TX,77022-4649,US,,R,10/10/1995,F,0,0,0,0,0,,,0,,,0,Non-Source,Z000000063,2
+137774911,H,M,,Austin,TX,78724-3675,US,emp,R,12/31/1987,N,0,0,0,0,0,,,0,TEXT,,0,Affordable Housing Agency,Z000000005,0
+137774047,H,,,Albuquerque,NM,87123-3068,US,,R,9/8/1998,F,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,2
+137773987,H,M,,Redlands,CA,92374-5073,US,,R,8/11/1971,M,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000001,0
+137773506,H,M,,Arlington,TX,76010-2386,US,emp,R,8/30/1971,F,0,0,0,0,0,,,0,TEXT,,0,Apartment List,Z000000001,0
+137773292,H,M,,Denver,CO,80219-5100,US,emp,R,10/3/1969,,0,0,0,0,0,,,0,TEXT,,0,Property Website,Z000000005,2
+137772253,H,M,,Houston,TX,77089-6261,US,emp,R,9/2/1960,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,0
+137771641,H,,,Albuquerque,NM,87112-6111,US,,R,6/25/1984,M,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137770767,H,M,,Brownfield,TX,79316-3809,US,emp,R,6/4/1997,,0,0,0,0,0,,,0,TEXT,,0,Property Website,Z000000001,0
+137769711,H,H,,San Antonio,TX,78249-1623,US,,R,2/16/1998,M,0,0,0,0,0,,,0,,,0,Non-Paid Social,Z000000005,2
+137769419,H,M,,Sandusky,OH,44870-3512,US,,R,1/16/1979,F,0,0,0,0,0,,,0,PHONE,,0,Live/Work in Area,Z000000001,0
+137769321,H,M,,Mesa,AZ,85208-1529,US,,R,4/29/1965,,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000003,1
+137768092,H,M,,Phoenix,AZ,85018-1942,US,emp,R,5/13/1987,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000004,2
+137767958,H,M,,Davenport,IA,52806-1018,US,Unemploy,R,1/1/1967,,0,0,0,0,0,,,0,PHONE,,0,Apartments.com,Z000000007,0
+137767724,H,M,,Phoenix,AZ,85022,US,,R,1/31/1996,,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000001,1
+137767510,H,M,,Indianapolis,IN,46220-1342,US,,R,6/15/1995,,0,0,0,0,0,,,0,,,0,Property Website,Z000000003,0
+137766146,H,M,,Orlando,FL,32820-2238,US,emp,R,1/3/1995,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137764555,H,M,,Pasco,WA,99301-9914,,,R,9/9/1999,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000005,2
+137764129,H,M,,Warren,OH,44484-4614,US,emp,R,3/25/1966,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,0
+137764113,H,H,M,Lynn,MA,01902-3077,,U0000008,R,3/23/1965,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137761856,H,M,,Matthews,NC,28105-2113,US,T0000015,R,3/4/1979,F,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000001,0
+137761850,H,M,,College Station,TX,77845-3458,US,,R,2/26/1981,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,3
+137759816,H,M,,Albuquerque,NM,87114-3906,US,SlfEmpyd,R,5/25/1997,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,1
+137759401,H,M,,Seattle,WA,98118-5411,US,T0000009,R,9/2/1997,F,0,0,0,0,0,,,0,PHONE,,0,Local Internet Source,Z000000005,2
+137759032,H,H,,Clearfield,UT,84015-1700,US,,R,10/3/1986,F,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000001,1
+137758863,H,H,,Acworth,GA,30101-9528,US,,R,2/9/1996,,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000008,3
+137757437,H,M,,Columbia,MD,21045-3580,US,Unemploy,R,9/27/1957,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,1
+137757057,H,M,,Richmond,TX,77469-4683,US,,R,8/16/1993,M,0,0,0,0,0,,,0,PHONE,,0,Apartment Locator,Z000000001,1
+137756484,H,M,,Austell,GA,30106-1169,US,emp,R,1/30/1998,,0,0,0,0,0,,,0,PHONE,,0,Preferred Employer,Z000000001,0
+137754855,H,M,,Albuquerque,NM,87112-6280,US,,R,3/26/1979,F,0,0,0,0,0,,,0,,,0,Non-Paid Social,Z000000005,3
+137754729,H,M,,Puyallup,WA,98374-3824,US,emp,R,5/25/2004,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000005,0
+137754494,H,M,,Mount Holly,NC,28120-3016,US,Student,R,2/13/1995,,0,0,0,0,0,,,0,TEXT,,0,Property Website,Z000000001,1
+137753872,H,M,,Kingwood,TX,77339-1370,US,,R,1/7/1992,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137753174,H,M,,Albuquerque,NM,87108-1791,US,Unemploy,R,2/6/1964,,0,0,0,0,0,,,0,,,0,Local Internet Source,Z000000001,1
+137752597,H,M,,Las Vegas,NM,87701-4613,US,,R,11/8/1994,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137751560,H,M,,Fort Lee,NJ,07024-3701,US,,N,4/18/1994,M,0,0,0,0,0,,,1,,,0,Property Website,Z000000005,0
+137751098,H,,,Albuquerque,NM,87109-0930,,,R,7/6/1976,,,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000012,1
+137750662,H,,,Richmond,TX,77407-1466,US,U0000008,R,11/18/1961,F,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000005,3
+137750160,H,H,M,Federal Way,WA,98003-3302,US,U0000008,R,4/26/1981,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000045,4
+137749567,H,M,,Los Angeles,CA,90015-3934,US,T0000021,R,2/22/1981,F,0,0,0,0,0,,,0,EMAIL,,0,Non-Source,Z000000001,1
+137748801,H,M,,Haltom City,TX,76117-3353,US,emp,R,10/6/1997,,0,0,0,0,0,,,0,TEXT,,0,Apartment Locator,Z000000001,0
+137748372,H,M,,Cambria Heights,NY,11411-1007,US,T0000015,R,7/13/1969,F,0,0,0,0,0,,,0,EMAIL,,0,Apartments.com,Z000000012,1
+137746338,H,H,,Albuquerque,NM,87123,US,,R,12/6/1961,,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137746189,H,M,,Marshville,NC,28103-8002,US,emp,R,1/8/1995,,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000005,0
+137745929,H,M,,Lake City,GA,30260-3809,US,emp,R,10/8/1991,,0,0,0,0,0,,,0,PHONE,,0,Off-Site Signage,Z000000005,4
+137745237,H,H,W,Aurora,CO,80014-5422,,Mdcl,R,8/16/1971,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137744495,H,M,,Spokane Valley,WA,99037-9812,,T0000013,R,1/22/1983,F,,0,0,0,0,,,0,,,0,Property Website,Z000000012,1
+137744473,H,M,,West Valley City,UT,84119-2632,US,,N,9/28/1996,,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000001,0
+137744112,H,W,W,Houston,TX,77014,US,,N,1/20/1986,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,1
+137743652,H,M,,Houston,TX,77063-4413,US,Hsptlty,R,8/29/2001,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,3
+137740912,H,M,,SHERRILL,AR,72152,,emp,O,5/19/1989,F,,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137739781,H,M,,Katy,TX,77494-5169,,,R,6/8/1968,F,,0,0,0,0,,,0,,,0,Apartments.com,Z000000001,1
+137738735,H,H,W,Clanton,AL,35045-2670,,emp,R,12/31/1983,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,3
+137736725,H,M,,Denton,TX,76208-6153,US,Mdcl,R,9/29/1995,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000003,2
+137736345,H,M,,Springtown,TX,76082-7337,,emp,R,4/29/1996,,,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,4
+137735240,H,M,,Columbia,MD,21044-1645,US,emp,R,6/27/1979,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000007,0
+137733093,H,,,Houston,TX,77054-2573,US,,R,1/30/1994,F,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000005,2
+137732122,H,M,,Melbourne,FL,32905,,,R,1/24/1991,F,,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,0
+137731919,H,M,,Canton,GA,30114-2061,US,,R,7/30/1970,F,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000001,0
+137730764,H,,,Seattle,WA,98133-9412,,,R,3/6/1965,F,,0,0,0,0,,,0,,,0,Greystar.com,Z000000001,1
+137730682,H,H,M,South Jordan,UT,84095-3264,US,Mdcl,R,1/3/1984,F,0,0,0,0,0,,,0,EMAIL,,0,Property Signage,Z000000005,4
+137730340,H,M,,Austin,TX,78702-3828,US,emp,R,9/21/1998,M,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000005,1
+137730143,H,M,,Spokane Valley,WA,99037-8057,US,Mdcl,R,3/7/1974,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137729703,H,M,,Fresno,TX,77545-8107,US,emp,R,1/3/2003,,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000001,1
+137729619,H,M,,Westminster,CO,80234-1499,US,,R,10/5/1979,M,0,0,0,0,0,,,0,,,0,Non-Source,Z000000003,1
+137729400,H,M,,Houston,TX,77007-6308,,T0000003,R,10/7/1991,F,,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,1
+137729322,H,,,Statesboro,GA,30461-6878,US,,R,5/16/1986,M,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000007,2
+137729079,H,M,,Albuquerque,NM,87111-4769,,,R,10/6/1992,M,,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,2
+137726674,H,H,W,Glendale,AZ,85306-4312,,,R,4/11/1994,M,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000003,4
+137726088,H,M,,Hempstead,NY,11550-7224,US,,R,11/16/1975,F,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000007,0
+137725580,H,H,M,Providence,RI,02909-3827,,T0000017,R,1/1/1985,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000096,0
+137724456,H,,,Albuquerque,NM,87109,,,R,2/9/1995,,,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000012,1
+137724037,H,M,,marietta,GA,30064,US,Retired,R,4/27/1967,,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000012,0
+137723356,H,M,,Houston,TX,77048-4625,US,,O,4/24/1999,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137723132,H,H,W,Los Angeles,CA,90047-4256,US,SlfEmpyd,R,8/17/1981,,0,0,0,0,0,,,0,VISIT,,0,Local Publication,Z000000001,0
+137720504,H,H,W,Brockton,MA,02301-4180,,Mdcl,R,4/2/1992,,,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000096,4
+137720478,H,M,,Phoenix,AZ,85029-5504,US,,R,8/12/1999,,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,2
+137720323,H,H,,Phoenix,AZ,85022-2600,US,,R,7/10/1954,F,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000001,1
+137719797,H,M,,Key Largo,FL,33037-5008,,emp,R,3/13/1998,M,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137719785,H,M,,Indianapolis,IN,46240-3206,US,emp,R,6/11/2002,,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000001,0
+137718997,H,M,,Eugene,OR,97402,US,Rstrnt,R,5/13/1988,F,0,0,0,0,0,,,0,PHONE,,0,Craigslist.org,Z000000001,2
+137718743,H,M,,Minneapolis,MN,55401,US,,R,4/30/1999,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137718697,H,,,Albuquerque,NM,87110-8112,US,,R,1/1/1987,,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137718365,H,M,,Waltham,MA,02453-3445,US,Gvrnmnt,R,4/30/1986,F,0,0,0,0,0,,,0,EMAIL,,0,Affordable Housing Agency,Z000000095,2
+137718169,H,M,,Phoenix,AZ,85021-8668,US,SlfEmpyd,R,7/3/1982,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,2
+137717709,H,H,W,San Antonio,TX,78209-3101,,emp,R,6/19/1968,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,0
+137717166,H,M,,Wooster,OH,44691-3912,US,T0000014,R,1/1/1960,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137717072,H,M,,Anderson,SC,29625-6164,US,T0000003,R,4/23/1994,F,0,0,0,0,0,,,0,,,0,Apartment List,Z000000001,0
+137716992,H,M,,Jenks,OK,74037-2935,,,R,12/13/1988,M,,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137716162,H,M,,Taylors,SC,29687-2013,US,,N,5/1/1982,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137714237,H,M,,Spokane Valley,WA,99216-1983,US,,R,3/22/2003,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137712678,H,M,,Hinesville,GA,31313-5144,US,emp,R,1/11/1991,,0,0,0,0,0,,,0,PHONE,,0,Resident Referral,Z000000005,0
+137712581,H,M,,Jefferson,GA,30549-0107,US,emp,R,6/6/1987,,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000001,0
+137712458,H,H,,Raleigh,NC,27609-6636,US,,R,1/1/1988,,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137711822,H,M,,Spokane Valley,WA,99037-8947,,T0000013,R,5/29/1989,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000012,1
+137711165,H,H,,Bryan,TX,77807-9736,US,,R,11/27/1974,M,0,0,0,0,0,,,0,,,0,Direct Mail,Z000000005,1
+137711015,H,M,,Hopkins,SC,29061-8389,,T0000002,R,9/22/1974,M,0,0,0,0,0,,,0,PHONE,,0,Resident Referral,Z000000001,1
+137710929,H,H,,Fort Worth,TX,76102-6735,US,U0000008,N,9/14/1987,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137710822,H,M,,Plano,TX,75023-7720,US,emp,R,7/22/2002,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,2
+137710750,H,M,,Arlington Heights,IL,60005-3831,,U0000035,O,10/27/1953,M,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137710714,H,M,,Pendergrass,GA,30567-3834,US,emp,R,10/6/1990,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137710330,H,M,,Lowell,MA,01850-2132,US,,R,2/5/1963,M,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000095,1
+137708843,H,M,,Houston,TX,77056-4573,US,emp,R,3/23/1958,M,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137708194,H,M,,Houston,TX,77098-5445,US,emp,R,4/23/1992,,0,0,0,0,0,,,0,PHONE,,0,Apartment Locator,Z000000001,0
+137707189,H,M,,San Antonio,TX,78251,US,SlfEmpyd,R,5/4/1997,,0,0,0,0,0,,,0,PHONE,,0,Live/Work in Area,Z000000001,0
+137707010,H,M,,Oakland,CA,94605-2353,US,emp,R,2/8/1996,,0,0,0,0,0,,,0,TEXT,,0,Craigslist.org,Z000000001,0
+137705825,H,M,,Glendora,CA,91740-5331,,emp,R,11/20/1989,,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137704239,H,M,,Overland Park,KS,66210-1463,US,SlfEmpyd,R,7/25/1989,M,0,0,0,0,0,,,0,EMAIL,,0,Zillow Rental Network,Z000000005,0
+137704111,H,H,W,Nine Mile Falls,WA,99026-9613,US,Mdcl,R,5/25/1973,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137703788,H,,,Albuquerque,NM,87109-1528,US,,R,1/7/1997,,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,1
+137703755,H,H,M,Atlanta,GA,30337-3871,,emp,R,7/23/1993,M,0,0,0,0,0,,,0,,,0,Employee Referral,Z000000001,1
+137703538,H,H,,Albuquerque,NM,87109-5541,US,,N,9/18/1984,F,0,0,0,0,0,,,0,,,0,ApartmentRatings.com,Z000000095,2
+137703124,H,M,,Austin,TX,78702,US,emp,R,12/13/1980,N,0,0,0,0,0,,,0,EMAIL,,0,Apartment Locator,Z000000005,0
+137702773,H,M,,Kansas City,MO,64138-5431,US,T0000017,R,7/24/1978,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000007,0
+137702496,H,M,,Jackson,MS,39211-5511,US,emp,R,3/7/1995,,0,0,0,0,0,,,0,PHONE,,0,ApartmentGuide.com,Z000000005,1
+137702083,H,,,State College,PA,16803-1655,US,,R,11/18/2000,M,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000001,1
+137702076,H,M,,Charlotte,NC,28273-5854,US,emp,R,1/24/1976,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137701405,H,M,W,Houston,TX,77064-1419,US,emp,O,7/5/1964,N,0,0,0,0,0,,,0,PHONE,,0,Live/Work in Area,Z000000005,1
+137700745,H,M,,Austin,TX,78702-3652,US,Rstrnt,R,11/22/1996,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000095,0
+137699953,H,M,,Greer,SC,29651-2603,US,emp,R,11/27/1985,,0,0,0,0,0,,,0,TEXT,,0,Live/Work in Area,Z000000005,0
+137699433,H,M,,denver,CO,80231,US,,R,2/4/1993,,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,0
+137697321,H,H,,Houston,TX,77055-3140,,,R,11/18/1995,M,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,1
+137695412,H,H,,Phoenix,AZ,85024-2404,US,,R,3/29/1986,F,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000001,1
+137695144,H,M,,Sandy Springs,GA,30350-1935,US,T0000002,N,7/8/1971,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000006,0
+137695114,H,H,W,Phoenix,AZ,85051-4027,US,Hsptlty,R,4/27/1997,F,0,0,0,0,0,,,0,,,0,Non-Paid Referral,Z000000001,2
+137694910,H,,,Round Rock,TX,78665-2306,,,R,11/14/1985,,,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137694741,H,H,M,Fort Worth,TX,76102-3234,US,,R,2/9/1987,F,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000096,4
+137693895,H,M,,Spokane Valley,WA,99037-9810,,,R,6/1/1984,M,,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,4
+137693787,H,H,,Salt Lake City,UT,84123-2819,US,,R,1/15/1990,M,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000005,2
+137693622,H,M,W,Kansas City,MO,64106-1932,US,,R,2/9/1978,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,2
+137692276,H,M,,Williston,ND,58801-5623,,,R,8/1/1983,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137692141,H,M,,Revere,MA,02151-5416,,,R,4/23/2002,M,,0,0,0,0,,,0,,,0,Apartments.com,Z000000001,0
+137692117,H,M,,Las Vegas,NV,89123-1064,US,emp,R,6/8/1965,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137691815,H,M,,Williston,ND,58801-3563,,,R,8/17/1995,F,,0,0,0,0,,,0,,,0,Property Website,Z000000072,1
+137691554,H,M,,Coral Springs,FL,33067-3240,US,,R,1/13/1995,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,3
+137689964,H,H,,Acworth,GA,30102-8401,US,,R,2/6/1999,,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000001,1
+137687388,H,M,,Spokane,WA,99208-6844,,,R,4/14/1992,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,3
+137685354,H,H,,Eugene,OR,97405-3316,,,R,9/4/1979,M,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000001,1
+137685008,H,H,M,Houston,TX,77004-5187,,U0000035,R,12/26/1956,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137684923,H,M,,Palm Bay,FL,32908-7537,US,emp,N,3/23/1994,,0,0,0,0,0,,,0,TEXT,,0,Property Website,Z000000004,0
+137684430,H,M,,Los Angeles,CA,90028-4429,US,Student,R,7/21/2000,,0,0,0,0,0,,,1,EMAIL,,0,Resident Referral,Z000000005,2
+137673768,H,M,,Houston,TX,77079-7514,,T0000001,R,9/1/1969,F,,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000001,1
+137673722,H,M,,Phoenix,AZ,85022-7602,,emp,R,4/5/1995,,,0,0,0,0,,,0,,,0,Property Website,Z000000003,0
+137673669,H,M,,RUSKIN,FL,33573,US,emp,R,6/16/1989,,0,0,0,0,0,,,0,EMAIL,,0,Zillow Rental Network,Z000000012,0
+137673661,H,M,,Spokane Valley,WA,99206-3322,US,Mdcl,R,10/19/1955,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137672348,H,M,,Acworth,GA,30101-9528,,,R,2/9/1996,,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137672206,H,M,,Melbourne,FL,32940-8540,US,,R,6/6/1993,M,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000004,2
+137670908,H,H,M,Dedham,MA,02026-2429,,,R,1/1/1985,F,,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000029,0
+137670055,H,M,,Mesa,AZ,85201-2313,US,T0000009,R,12/30/1982,F,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000037,0
+137669688,H,H,,Eugene,OR,97404-2564,,,R,8/12/1963,F,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000001,1
+137668299,H,M,,Charlotte,NC,28202-3319,US,SlfEmpyd,R,5/13/1984,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137668295,H,M,,Cypress,TX,77433-1018,US,T0000002,R,11/16/1986,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137668031,H,M,,College Station,TX,77845-5364,US,T0000003,R,1/2/1976,F,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000005,0
+137667607,H,,,Albuquerque,NM,87112,US,,R,10/30/1976,,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137666819,H,M,,Garner,NC,27529-8385,US,emp,R,6/13/1956,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137666285,H,M,,N Providence,RI,02908-3002,US,,R,1/1/1990,,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,0
+137644946,H,M,,Marietta,GA,30068-6064,US,emp,R,11/5/1978,,0,0,0,0,0,,,0,EMAIL,,0,Preferred Employer,Z000000005,3
+137643691,H,M,,Spokane,WA,99201-4423,US,,R,12/6/1985,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137640971,H,H,,Albuquerque,NM,87109-1034,US,,R,1/18/1972,,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000005,1
+137640377,H,H,,Williston,ND,58801-8938,,,R,6/8/1993,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137640231,H,M,,Jersey City,NJ,7305,US,emp,R,10/25/1987,,0,0,0,0,0,,,0,PHONE,,0,Direct Mail,Z000000005,1
+137639114,H,M,,Pensacola,FL,32514-6469,US,emp,R,10/11/1996,,0,0,0,0,0,,,0,EMAIL,,0,Preferred Employer,Z000000005,0
+137638892,H,H,M,Los Angeles,CA,90011-1614,US,T0000003,R,3/27/1979,M,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000012,1
+137637700,H,M,,Moab,UT,84532-3214,US,Unemploy,R,4/4/2003,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137637432,H,,,Oklahoma City,OK,73120-6335,,,R,1/19/2002,,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,2
+137635668,H,M,,Apple Valley,CA,92307-3445,US,SlfEmpyd,R,5/11/1994,,0,0,0,0,0,,,0,PHONE,,0,Zillow Rental Network,Z000000001,0
+137635040,H,M,,Las Vegas,NV,89121-5002,US,,N,7/24/1980,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,3
+137634436,H,H,,Lakeland,FL,33809-4056,US,SlfEmpyd,R,3/11/1940,M,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137634335,H,H,W,North Richland Hills,TX,76182-7045,,T0000014,N,7/25/2001,F,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,0
+137634151,H,M,,Braselton,GA,30517-2060,US,emp,R,10/15/1998,,0,0,0,0,0,,,0,PHONE,,0,Apartments.com,Z000000005,0
+137634143,H,H,,Phoenix,AZ,85033-3440,,,R,2/6/1992,,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,3
+137633142,H,M,,Eatontown,NJ,07724-1342,US,,N,7/11/1981,,0,0,0,0,0,,,0,,,0,Property Website,Z000000096,2
+137632809,H,M,,Bacliff,TX,77518-2176,US,,R,11/18/2001,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137631161,H,M,,Colorado Springs,CO,80918-8577,US,emp,R,4/4/1990,,0,0,0,0,0,,,0,EMAIL,,0,Apartments.com,Z000000001,0
+137630323,H,M,,Springfield,OR,97478-7513,US,,R,2/8/1988,F,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000001,2
+137630312,H,,,Cambridge,MA,02141-1421,,T0000015,R,8/29/1978,F,,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000012,1
+137630155,H,,,Wenatchee,WA,98801,US,,R,6/25/1995,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000001,1
+137629880,H,M,,Mission,TX,78574,US,SlfEmpyd,O,9/23/1993,N,0,0,0,0,0,,,0,EMAIL,,0,Zillow Rental Network,Z000000001,1
+137629584,H,M,,Williston,ND,58801-3115,,,R,10/3/1981,,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137629364,H,,,Brooksville,FL,34601-5419,US,,R,11/8/1977,M,0,0,0,0,0,,,0,,,0,Non-Paid Social,Z000000001,1
+137629103,H,M,,Kemah,TX,77565-3002,US,emp,R,7/10/1987,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,2
+137628901,H,H,,Springfield,OR,97478,US,,R,1/10/1952,M,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000001,1
+137627633,H,M,,Houston,TX,77002-5433,US,emp,R,5/5/1999,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,1
+137627074,H,M,,Houston,TX,77088-1488,,emp,N,6/10/1983,F,,0,0,0,0,,,0,,,0,Apartment Locator,Z000000001,1
+137626460,H,H,,Fort Worth,TX,76102-6735,US,,R,4/12/1999,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137626297,H,M,,West Chicago,IL,60185-2107,US,,O,8/4/1958,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,2
+137626192,H,M,,Atlanta,GA,30349-2252,US,emp,R,1/6/2000,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,2
+137625576,H,M,,Millbury,MA,01527-4310,US,,O,6/6/1974,,0,0,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000005,0
+137622410,H,M,,Cibolo,TX,78108-3261,US,Unemploy,R,4/24/2002,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,3
+137621002,H,H,,Rio Rancho,NM,87124-3707,US,,R,12/9/2001,M,0,0,0,0,0,,,0,PHONE,,0,Pilot - Referral,Z000000095,1
+137620867,H,M,,Atlantic Beach,FL,32233-4140,,Retired,R,12/10/1953,F,,0,0,0,0,,,0,,,0,Apartments.com,Z000000001,1
+137620159,H,M,,Oakland,CA,94605-1878,US,emp,R,5/19/1995,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,2
+137619926,H,M,,Highlands Ranch,CO,80129-6246,,emp,R,3/14/1968,N,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000001,0
+137618506,H,M,,Athens,GA,30605-5342,US,Unemploy,R,7/7/1995,M,0,0,0,0,0,,,0,PHONE,,0,Zillow Rental Network,Z000000001,0
+137618123,H,M,,Paramount,CA,90723-4772,,,R,6/21/1970,F,,0,0,0,0,,,0,,,0,Apartment List,Z000000005,0
+137617709,H,H,,Kaysville,UT,84037-1731,US,,R,12/8/1976,M,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000005,2
+137616455,H,H,,Plano,TX,75093-6191,,T0000015,R,8/3/1965,F,,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137616300,H,H,M,Lawrenceville,GA,30043-2601,US,emp,R,7/10/1986,M,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000001,1
+137615961,H,M,,Winder,GA,30680-2014,US,emp,R,2/12/1991,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137615862,H,M,,Petaluma,CA,94954-4631,US,emp,R,4/20/2000,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,3
+137615571,H,M,,Spokane,WA,99204-4031,US,,R,1/5/1985,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137615518,H,M,,Palm Bay,FL,32909-7606,,Mdcl,R,12/5/2000,F,,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,1
+137615207,H,H,M,Haltom City,TX,76117-5032,US,T0000020,N,2/17/1979,F,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,2
+137614872,H,W,W,Roselle,NJ,07203-1037,US,T0000012,R,2/11/1989,F,0,0,0,0,0,,,0,PHONE,,0,Affordable Housing Agency,Z000000031,3
+137614868,H,M,,North Charleston,SC,29418-5012,US,emp,R,5/25/2002,,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000001,0
+137614181,H,M,,Coconut Creek,FL,33073-2811,US,emp,R,9/15/1967,M,0,0,0,0,0,,,0,,,0,Airbnb,Z000000001,0
+137613995,H,M,,Melbourne,FL,32951-2523,US,,N,6/26/1965,F,0,0,0,0,0,,,0,EMAIL,,0,Apartments.com,Z000000001,2
+137613637,H,M,,Butte,MT,59701-1559,US,,R,7/17/1979,,0,0,0,0,0,,,0,TEXT,,0,Zillow Rental Network,Z000000005,0
+137613449,H,H,,Phoenix,AZ,85023-5957,US,T0000009,N,10/17/1984,M,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000003,3
+137613306,H,M,,Renton,WA,98055-8454,US,emp,R,7/4/1997,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137612401,H,M,,Duluth,GA,30096-3509,US,emp,R,8/15/2003,M,0,0,0,0,0,,,0,PHONE,,0,ApartmentGuide.com,Z000000005,3
+137612380,H,M,,BUCKEYE,AZ,85326,US,emp,R,2/10/1999,,0,0,0,0,0,,,0,PHONE,,0,Zillow Rental Network,Z000000001,1
+137612043,H,M,,Miami,FL,33177,,U0000035,R,9/2/1953,F,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137611556,H,H,M,Phoenix,AZ,85027-6065,,emp,N,5/24/1981,F,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,2
+137608817,H,H,,Chicago,IL,60653-4821,US,T0000014,R,10/16/1987,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,3
+137607611,H,H,,Albuquerque,NM,87113-1989,,HtelInd,R,4/23/1962,F,,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000095,1
+137607544,H,H,M,Washington,DC,20011,US,,R,6/7/1990,F,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000007,3
+137607295,H,M,,Fort Worth,TX,76137-2870,US,,R,10/17/1967,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137605948,H,H,,Denver,CO,80216-1401,US,,R,1/13/1989,,0,0,0,0,0,,,0,,,0,Local Internet Source,Z000000005,2
+137605562,H,M,,Westminster,CO,80031-3172,US,emp,R,5/3/1998,,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000003,0
+137605044,H,M,,Garnerville,NY,10923-1603,US,emp,R,1/12/1974,F,0,0,0,0,0,,,0,TEXT,,0,Zillow Rental Network,Z000000005,0
+137604853,H,H,H,Tucson,AZ,85711-1260,,emp,R,12/16/1980,N,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137604337,H,M,,Vancouver,WA,98660-2090,,,R,7/15/1997,F,,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137603719,H,H,,Aurora,CO,80017,,,R,7/6/2002,M,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000001,2
+137603649,H,M,,Tulsa,OK,74133-3966,US,emp,R,7/15/1980,,0,0,0,0,0,,,0,EMAIL,,0,Greystar.com,Z000000001,2
+137603646,H,W,W,Orlando,FL,32837-4354,,emp,R,12/26/1992,M,,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137603393,H,,,Washington,DC,20009-2379,US,,R,11/30/1998,M,0,0,0,0,0,,,0,,,0,Local Internet Source,Z000000001,1
+137602829,H,H,W,San Diego,CA,92173-3123,,emp,R,2/23/1980,,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,2
+137602351,H,M,,Spokane,WA,99202-5383,US,,R,12/27/2000,F,0,0,0,0,0,,,0,PHONE,,0,Apartments.com,Z000000005,2
+137602226,H,M,,Killdeer,ND,58640-4010,US,emp,R,12/30/2000,F,0,0,0,0,0,,,0,PHONE,,0,Apartments.com,Z000000009,2
+137602180,H,H,M,Oxon Hill,MD,20745-1070,US,emp,R,2/28/1996,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137601929,H,M,,Durham,NC,27704-2244,US,emp,R,10/12/1979,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,2
+137601386,H,M,,Carrollton,GA,30116-8053,US,emp,R,1/28/1992,,0,0,0,0,0,,,0,PHONE,,0,Apartments.com,Z000000001,0
+137600723,H,M,,Buford,GA,30519-6593,,emp,R,8/11/1984,F,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137600359,H,M,,Saint Cloud,FL,34769-5524,,SlfEmpyd,R,8/27/2001,,,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137599838,H,M,,Denver,CO,80218,US,emp,R,11/8/2000,,0,0,0,0,0,,,0,TEXT,,0,Live/Work in Area,Z000000001,0
+137599220,H,M,,Spokane Valley,WA,99016,,Mdcl,R,12/18/1993,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137598907,H,M,,Conyers,GA,30013-2268,US,emp,R,7/3/1996,,0,0,0,0,0,,,0,TEXT,,0,Property Website,Z000000005,0
+137598281,H,M,,East Point,GA,30344-3508,US,emp,R,7/13/2000,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137598117,H,M,,Charleston,SC,29407-5372,US,Techno,R,8/17/1984,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,0
+137597367,H,M,,Spokane Valley,WA,99216-2743,US,,R,8/2/1970,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,1
+137596245,H,H,W,San Antonio,TX,78266-1716,US,SlfEmpyd,R,1/13/1974,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137594495,H,M,,Denver,CO,80210-5504,US,T0000011,R,8/14/1962,F,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,0
+137594100,H,M,,Federal Heights,CO,80200,US,U0000008,R,5/21/1981,F,0,0,0,0,0,,,0,,,0,Previous Resident,Z000000003,4
+137594002,H,M,,Goodyear,AZ,85395-8259,US,emp,R,7/24/1994,,0,0,0,0,0,,,0,EMAIL,,0,Zillow Rental Network,Z000000005,2
+137593350,H,H,W,Cape Coral,FL,33904-4148,US,emp,R,1/25/1988,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,2
+137593287,H,M,,Laurel,MD,20708-2911,,emp,R,3/16/1993,F,,0,0,0,0,,,0,,,0,Property Website,Z000000048,2
+137592366,H,M,,Eugene,OR,97405-2035,US,Mdcl,R,11/7/1994,F,0,0,0,0,0,,,0,PHONE,,0,Craigslist.org,Z000000001,2
+137590871,H,M,,Los Angeles,CA,90015-3681,,emp,R,6/1/1998,,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137590554,H,M,,Commerce City,CO,80022-3276,US,,R,4/11/1959,F,0,0,0,0,0,,,0,PHONE,,0,Affordable Housing Agency,Z000000001,1
+137590472,H,M,,Fairburn,GA,30213-3011,US,T0000017,R,1/9/2001,,0,0,0,0,0,,,0,EMAIL,,0,Preferred Employer,Z000000001,1
+137588427,H,H,,Mesa,AZ,85204-2936,US,,N,11/13/1994,M,0,0,0,0,0,,,0,,,0,Non-Paid Referral,Z000000005,3
+137588389,H,H,M,Fort Worth,TX,76110-4075,US,Student,R,9/4/1994,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000096,3
+137587319,H,M,,Coshocton,OH,43812-2240,US,U0000008,R,8/7/1952,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137586269,H,M,,Gainesville,GA,30501-3628,,Student,R,12/6/1999,M,,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000012,0
+137586224,H,M,,Spokane Valley,WA,99206-3342,US,,R,6/29/1999,,0,0,0,0,0,,,0,,,0,Non-Paid Social,Z000000008,2
+137584352,H,M,,Henderson,NV,89014-2540,,emp,N,11/30/2002,M,,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137583453,H,M,,Waco,TX,76707,US,emp,R,10/4/1997,N,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137582002,H,M,,Hampton,GA,30228,US,emp,R,4/3/1988,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137581988,H,H,M,Margate,FL,33063-5542,,T0000015,R,7/30/1990,M,0,0,0,0,0,,,0,,,0,Apartment Locator,Z000000001,2
+137581885,H,M,,Dallas,NC,28034-3501,,emp,R,5/20/2000,F,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137580717,H,M,,Spokane Valley,WA,99212-2604,,,R,12/17/1988,F,,0,0,0,0,,,0,,,0,Property Website,Z000000007,2
+137580693,H,H,,Phoenix,AZ,85037-1091,US,Mdcl,R,7/12/1997,F,0,0,0,0,0,,,0,,,0,Non-Paid Referral,Z000000001,2
+137580185,H,M,,Melbourne,FL,32951-2524,US,,R,5/20/1980,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137578922,H,M,,Stone Mountain,GA,30087-4508,,emp,R,4/3/1991,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137578511,H,M,,Albuquerque,NM,87109,US,,N,5/25/2001,,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000095,2
+137578467,H,M,,hoschton,GA,30548,US,emp,R,1/17/1996,N,0,0,0,0,0,,,0,PHONE,,0,Craigslist.org,Z000000001,0
+137578393,H,,,Dallas,TX,75201,US,,R,6/28/1969,,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137576635,H,M,,INDPLS,IN,46226,US,emp,R,9/26/1964,N,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000003,0
+137573721,H,H,,El Mirage,AZ,85335,,T0000020,R,3/20/2001,F,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000005,3
+137573169,H,M,,Columbia,MD,21045-2358,,Techno,R,12/12/1958,M,,0,0,0,0,,,0,,,0,Apartments.com,Z000000005,0
+137571929,H,M,,Cleveland,TX,77327-5335,US,,R,5/17/1990,M,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,1
+137571928,H,H,,Simpsonville,RI,29680-7096,US,T0000006,O,3/25/1988,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000008,2
+137571671,H,M,,Fort Worth,TX,76103-2123,US,Unemploy,R,11/25/1980,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137570854,H,M,,Santa Rosa Beach,FL,32459-7070,US,SlfEmpyd,R,12/28/1977,,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000008,0
+137568513,H,M,,Spokane Valley,WA,99206-4975,US,,R,3/19/2000,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,2
+137568427,H,M,,Thornton,CO,80229-4678,US,,R,3/15/1980,F,0,0,0,0,0,,,0,,,0,Property Signage,Z000000005,2
+137568346,H,M,,Miami Gardens,FL,33055-4325,US,SlfEmpyd,R,8/16/1988,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137566375,H,H,,Charlotte,NC,28215-8636,,,R,8/13/1991,M,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000005,2
+137566274,H,M,,Houston,TX,77036-3003,,SlfEmpyd,R,1/8/1988,M,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137565823,H,M,,Katy,TX,77449-7451,US,emp,R,12/17/1985,F,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,0
+137564061,H,H,,Wdm,IA,50266-4926,US,,R,2/19/1993,F,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000005,1
+137563802,H,M,,Frisco,TX,75034-5446,,emp,R,11/17/1991,N,,0,0,0,0,,,0,,,0,Apartment List,Z000000005,0
+137563234,H,M,,Maricopa,AZ,85138-8640,US,emp,O,9/3/1979,N,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000012,0
+137562843,H,M,,Corvallis,OR,97333-1464,US,,R,2/13/1973,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000003,1
+137561999,H,M,,tulsa,OK,74146,,T0000015,R,2/12/1964,M,,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137560704,H,M,,Columbia,SC,29203-9281,US,Mdcl,R,2/12/1989,M,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000005,1
+137559007,H,M,,Denver,CO,80221-3316,US,emp,R,4/17/1973,,0,0,0,0,0,,,0,TEXT,,0,Apartment List,Z000000001,0
+137558477,H,M,,Selma,TX,78154-1881,US,Military,R,4/18/1989,M,0,0,0,0,0,,,0,,,0,Apartment Locator,Z000000001,1
+137556648,H,M,,Waltham,MA,02451-2194,US,,R,2/27/1988,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000096,0
+137556640,H,M,,Raleigh,NC,27610-4971,US,emp,R,8/19/1996,,0,0,0,0,0,,,0,EMAIL,,0,Apartments.com,Z000000001,0
+137555044,H,M,,Conyers,GA,30013-5409,US,emp,R,5/14/1975,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137554171,H,M,,Geneva,IL,60134-2625,US,emp,R,1/24/1981,F,0,0,0,0,0,,,0,TEXT,,0,Property Website,Z000000001,0
+137553075,H,M,,Williston,ND,58801-5389,,,R,6/21/2000,,,0,0,0,0,,,0,,,0,Property Website,Z000000007,2
+137551573,H,H,,Moreno Valley,CA,92553-5413,US,,R,12/29/1970,F,0,0,0,0,0,,,0,,,0,Apartment List,Z000000005,1
+137551516,H,,,Albuquerque,NM,87109-1422,US,,R,12/4/1946,,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000001,1
+137550539,H,M,,Lakeland,FL,33809-4217,US,,R,10/24/1979,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000007,4
+137550199,H,M,,San Antonio,TX,78218-2525,,T0000013,N,6/7/1979,M,,0,0,0,0,,,0,,,0,ApartmentGuide.com,Z000000005,0
+137549424,H,M,,Spokane,WA,99224-1828,US,,R,3/22/2000,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137547817,H,M,,Waco,TX,76711,US,emp,O,4/3/1994,N,0,0,0,0,0,,,0,EMAIL,,0,Zumper,Z000000005,0
+137547670,H,M,,Coral Gables,FL,33146-1031,US,emp,O,10/30/1986,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,NULL,1
+137547443,H,M,,Houston,TX,77077-5257,US,emp,R,1/24/1998,,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000001,0
+137547387,H,M,,Ravenna,OH,44266,US,emp,R,6/26/1993,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137546480,H,M,,Aurora,CO,80012-1124,US,SlfEmpyd,R,8/13/2002,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137545228,H,M,,Columbia,SC,29223-4426,,T0000020,R,5/2/2000,F,,0,0,0,0,,,0,,,0,Apartment List,Z000000001,0
+137544624,H,M,,Pendergrass,GA,30567-3403,US,emp,R,12/26/1997,,0,0,0,0,0,,,0,TEXT,,0,Live/Work in Area,Z000000005,3
+137544209,H,M,,Airway Heights,WA,99001-5939,US,T0000007,R,3/9/1979,M,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000005,0
+137543846,H,H,M,Houston,TX,77090-6749,,T0000015,R,2/28/1972,M,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137542643,H,M,,Washington,DC,20002-1512,US,emp,R,5/21/1996,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000096,0
+137542619,H,,,Denver,CO,80232,US,,R,4/7/1985,F,0,0,0,0,0,,,0,,,0,Property Signage,Z000000003,1
+137542471,H,,,Denver,CO,80260-7463,US,,R,5/18/1979,M,0,0,0,0,0,,,0,,,0,Property Signage,Z000000003,1
+137539410,H,M,,Mead,CO,80504-9313,US,,O,1/1/1960,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137539046,H,M,,Philadelphia,PA,19126-2707,US,SlfEmpyd,R,11/7/1973,,0,0,0,0,0,,,0,EMAIL,,0,Paid Zillow Boost,Z000000001,0
+137537872,H,W,,Columbia,MD,21046-2105,US,,R,1/1/2001,,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137537832,H,W,,Columbia,MD,21046-2105,US,,N,1/1/2001,,0,0,0,0,0,,,0,,,0,Property Website,Z000000012,1
+137537169,H,M,,Pasadena,CA,91101-2081,US,,R,3/22/1954,F,0,0,0,0,0,,,0,PHONE,,0,Greystar.com,Z000000001,1
+137537089,H,M,,Allen,TX,75002-1908,,SlfEmpyd,R,9/6/1983,M,,0,0,0,0,,,0,,,0,Apartment Locator,Z000000005,0
+137536667,H,M,,Albuquerque,NM,87109-3350,US,,R,1/12/1990,M,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137535131,H,M,,Round Rock,TX,78665-3216,US,SlfEmpyd,R,2/11/1976,,0,0,0,0,0,,,0,EMAIL,,0,Apartment Locator,Z000000048,0
+137533385,H,H,M,Pearland,TX,77584-8434,US,emp,R,4/6/2000,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,1
+137533251,H,M,,Daytona Beach,FL,32118-3052,US,,R,1/1/1990,,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000012,1
+137533088,H,M,,Lawrenceville,GA,30046-4811,US,SlfEmpyd,R,4/30/1998,N,0,0,0,0,0,,,0,,,0,Employee Referral,Z000000005,1
+137532776,H,H,M,Lahaina,HI,96761-9388,US,T0000015,R,10/2/1959,M,0,0,0,0,0,,,0,,,0,In-House Transfer,Z000000001,1
+137532374,H,M,,Kissimmee,FL,34743-3556,,emp,R,6/15/1995,,,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137532045,H,M,,Marysville,WA,98271-6625,US,Rstrnt,N,4/27/1986,M,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000005,0
+137530863,H,M,,Gilbert,AZ,85233-8721,,,R,12/2/1992,,,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000001,0
+137530069,H,M,,Katy,TX,77493-3589,US,emp,R,9/17/1997,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137530031,H,M,,Elkridge,MD,21075-7367,US,emp,R,1/30/1966,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137529259,H,M,,Charleston,SC,29412-8858,,emp,R,8/19/1991,M,,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,2
+137528925,H,M,,Hilton Head Island,SC,29926-1599,US,emp,O,8/15/1998,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137528623,H,M,,Houston,TX,77055-1143,US,,R,4/26/1967,F,0,0,0,0,0,,,0,,,0,Paid Search,Z000000001,0
+137528088,H,H,M,Lancaster,TX,75146-2913,,Student,R,11/7/1994,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000012,1
+137527865,H,H,,Knoxville,TN,37923-6112,US,,O,10/5/1993,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137527000,H,M,,Chandler,AZ,85224-2351,US,emp,R,11/19/1970,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137525813,H,M,,Phoenix,AZ,85027-3939,,,R,9/16/1993,,,0,0,0,0,,,0,,,0,Apartment List,Z000000001,1
+137525184,H,M,,Salt Lake City,UT,84105-2540,US,emp,R,6/5/1972,,0,0,0,0,0,,,0,PHONE,,0,Apartment List,Z000000007,0
+137523840,H,M,,Scottsdale,AZ,85260,US,,R,8/16/2000,F,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000005,2
+137523796,H,,,Fort Meade,MD,20755-2211,US,,R,4/15/1989,,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000012,1
+137522600,H,M,,Northborough,MA,01532-2093,US,emp,R,9/21/2001,F,0,0,0,0,0,,,0,PHONE,,0,Resident Referral,Z000000001,0
+137521093,H,H,,Albuquerque,NM,87105-2748,,U0000035,R,10/24/1933,F,,0,0,0,0,,,0,,,0,Greystar.com,Z000000005,1
+137520993,H,M,,Tualatin,OR,97062-9731,US,emp,R,6/10/1991,N,0,0,0,0,0,,,0,NULL,,0,Zillow Rental Network,Z000000005,0
+137520967,H,M,,Frisco,TX,75034-5608,US,emp,R,1/7/1989,,0,0,0,0,0,,,0,EMAIL,,0,Apartment Locator,Z000000001,0
+137520499,H,M,,Coeur D Alene,ID,83814-1512,US,,R,12/20/1996,,0,0,0,0,0,,,0,,,0,Property Website,Z000000007,0
+137520227,H,M,,South Bend,IN,46517,US,,O,12/15/2022,,0,0,0,0,0,,,0,PHONE,,0,Greystar.com,Z000000005,2
+137517995,H,M,,Katy,TX,77449-3491,US,emp,R,1/18/1997,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000007,2
+137517589,H,M,,Spokane Valley,WA,99216-3506,US,,R,1/27/1986,F,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137517084,H,H,,Denver,CO,80260-4749,US,,R,3/14/1955,,0,0,0,0,0,,,0,,,0,Greystar.com,Z000000005,1
+137516247,H,M,,Moscow,ID,83843-9361,US,emp,R,8/10/1991,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000003,0
+137515956,H,M,,Greenville,SC,29605-4750,US,T0000014,O,6/13/1963,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000044,0
+137515780,H,H,,Lubbock,TX,79424-1955,US,,R,9/6/1968,,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137514774,H,M,,Lubbock,TX,79412,US,T0000016,R,3/31/1994,M,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,4
+137513277,H,H,,Dunwoody,GA,30338-6469,US,,R,7/20/1974,M,0,0,0,0,0,,,0,,,0,Apartments.com,Z000000001,1
+137512941,H,H,,Glendale,AZ,85301-5559,US,U0000008,R,12/4/1978,F,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000001,2
+137512807,H,M,,Germantown,MD,20874-3300,US,,N,9/14/1988,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,2
+137512759,H,M,,Centennial,CO,80016,US,emp,R,2/28/1970,M,0,0,0,0,0,,,0,PHONE,,0,Live/Work in Area,Z000000005,0
+137512722,H,M,,Hyattsville,MD,20782-2968,US,emp,R,5/12/1985,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137512389,H,M,,Houston,TX,77044-5001,US,T0000001,R,6/2/1980,F,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000001,3
+137511722,H,M,,Fort Myers,FL,33908-3448,US,emp,R,11/16/1976,,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,3
+137510613,H,M,,Riverdale,MD,20737-1351,US,emp,R,8/11/1978,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000001,0
+137510192,H,,,Albuquerque,NM,87105-3820,,,R,1/19/1998,,,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,3
+137508704,H,M,,League City,TX,77573-4309,US,emp,R,8/31/1959,F,0,0,0,0,0,,,0,PHONE,,0,Live/Work in Area,Z000000001,2
+137508663,H,M,,Spokane,WA,99208-6882,US,T0000020,N,8/2/1991,M,0,0,0,0,0,,,0,,,0,Non-Paid Referral,Z000000005,0
+137508543,H,M,,Land O Lakes,FL,34638-7880,,Rstrnt,R,5/29/1992,M,,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,3
+137507829,H,H,M,Cypress,TX,77429-4997,,T0000015,R,2/23/2000,M,0,0,0,0,0,,,0,,,0,Apartment List,Z000000001,0
+137506411,H,M,,Williston,ND,58801-3824,,,R,5/27/1972,,,0,0,0,0,,,0,,,0,Property Website,Z000000007,1
+137504531,H,M,,Falls Church,VA,22041-2984,US,,R,2/7/1980,,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137493650,H,M,,Houston,TX,77055-4322,US,,R,10/22/1987,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,3
+137493569,H,H,M,Stayton,OR,97383-1551,US,U0000008,R,9/1/1967,F,0,0,0,0,0,,,0,,,0,Craigslist.org,Z000000003,0
+137491925,H,,,Anaheim,CA,92805-3996,,,R,1/13/1996,,,0,0,0,0,,,0,,,0,In-House Transfer,Z000000005,2
+137491511,H,M,,Mc Bain,MI,49657-9798,US,,N,7/3/2001,F,0,0,0,0,0,,,0,,,0,Resident Referral,Z000000001,0
+137491188,H,M,,Palm Bay,FL,32908-7439,US,T0000018,R,9/28/1969,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000004,0
+137490398,H,M,,Deer Park,WA,99006-9134,US,T0000014,N,7/7/1998,M,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000005,1
+137488982,H,M,,Reseda,CA,91335-8403,US,SlfEmpyd,R,11/23/1991,,0,0,0,0,0,,,0,TEXT,,0,Online Business Listing,Z000000001,2
+137488397,H,M,,Virginia Beach,VA,23454-3978,US,emp,R,1/29/1982,F,0,0,0,0,0,,,0,TEXT,,0,Apartments.com,Z000000005,0
+137488380,H,M,,Acworth,GA,30101-5827,US,,R,3/6/1978,,0,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000005,0
+137487811,H,M,,Temple,TX,76501-4632,US,T0000017,O,2/28/2001,F,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137487610,H,M,,Laveen,AZ,85339-1935,US,emp,R,4/15/1994,,0,0,0,0,0,,,0,EMAIL,,0,Greystar.com,Z000000001,0
+137487363,H,W,,Oakland,CA,94605-2549,US,,R,1/1/1960,M,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000036,1
+137487342,H,H,,San Antonio,TX,78233-2444,,,R,3/7/1998,M,0,0,0,0,0,,,0,,,0,Apartment List,Z000000001,0
+137487289,H,M,,Glendale,AZ,85310-5565,US,,R,12/28/1974,F,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,1
+137487180,H,,,Rio Rancho,NM,87144-4140,US,,R,5/6/1974,,0,0,0,0,0,,,0,,,0,Off-Site Signage,Z000000005,2
+137487084,H,H,M,Houston,TX,77011,US,T0000015,R,9/22/1963,M,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000003,1
+137486690,H,M,,Northglenn,CO,80234-3230,US,,R,8/3/1991,F,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000003,2
+137484691,H,M,,Centreville,VA,20120-5418,US,Hsptlty,R,4/10/1965,M,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000008,0
+137484078,H,W,W,Greenville,SC,29609-7306,,,R,3/7/1996,F,0,0,0,0,0,,,0,,,0,Apartment List,Z000000044,3
+137483958,H,M,,El Mirage,AZ,85335-6210,US,emp,R,8/8/1991,,0,0,0,0,0,,,0,PHONE,,0,Zillow Rental Network,Z000000007,0
+137483892,H,M,,Spokane Valley,WA,99206-5236,US,T0000006,R,4/7/1974,,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000005,0
+137482892,H,M,,Hillsboro,OR,97124-9034,,T0000019,R,4/1/1994,M,,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137482620,H,M,,Chicago,IL,60610,,emp,R,6/16/1988,,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000001,0
+137481450,H,M,,Colbert,GA,30628-2320,US,emp,R,4/20/1975,M,0,0,0,0,0,,,0,PHONE,,0,Property Website,Z000000005,0
+137481005,H,H,,Austin,TX,78753-5706,,,R,4/11/1997,M,,0,0,0,0,,,0,,,0,Zillow Rental Network,Z000000001,0
+137478685,H,M,,Dallas,TX,75287-7716,US,T0000006,R,8/5/1953,F,0,0,0,0,0,,,0,EMAIL,,0,Property Website,Z000000005,0
+137478327,H,,,Minneapolis,MN,55408-4893,US,,R,1/1/1980,,0,0,0,0,0,,,0,,,0,Property Website,Z000000012,1
+137477611,H,M,,Uvalde,TX,78801-5103,US,emp,R,7/20/1993,,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,0
+137477560,H,M,M,Englewood,CO,80110-6642,,emp,R,11/24/1994,F,,0,0,0,0,,,0,,,0,Property Website,Z000000001,2
+137477296,H,,,Albuquerque,NM,87110-3517,US,,R,6/18/1957,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000001,1
+137477249,H,M,,North Bay Village,FL,33141-4395,US,emp,R,9/26/1987,,0,0,0,0,0,,,0,EMAIL,,0,Apartments.com,Z000000005,0
+137477145,H,H,,Perris,CA,92571-3785,,,R,5/17/1964,F,,0,0,0,0,,,0,,,0,Apartment List,Z000000005,1
+137475498,H,M,,Spokane,WA,99223-6078,US,T0000002,R,6/25/1984,M,0,0,0,0,0,,,0,PHONE,,0,Affordable Housing Agency,Z000000001,0
+137473499,H,M,,Tulsa,OK,74135-7824,US,emp,R,5/25/1974,,0,0,0,0,0,,,0,VISIT,,0,Property Website,Z000000001,0
+137472579,H,M,,Roy,UT,84067-2168,US,emp,R,6/29/1982,,0,0,0,0,0,,,0,TEXT,,0,Apartment List,Z000000007,0
+137472348,H,M,,Antioch,TN,37013-2734,US,emp,R,10/3/1974,,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000005,1
+137471625,H,M,,Eunice,LA,70535-8203,US,emp,R,2/26/1993,,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,1
+137470530,H,M,,Washington,DC,20002-7905,US,emp,R,12/24/1992,,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000001,0
+137470131,H,,,Los Angeles,CA,90045-4015,US,T0000003,R,12/18/1992,M,0,0,0,0,0,,,0,,,0,Live/Work in Area,Z000000005,0
+137469435,H,,,Roanoke,TX,76262-6576,US,,R,4/27/1990,F,0,0,0,0,0,,,0,EMAIL,,0,Apartment List,Z000000001,1
+137468875,H,H,W,Casselberry,FL,32707-7047,,T0000015,R,12/1/1972,,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137468655,H,H,M,Houston,TX,77003-3339,US,,N,3/16/1982,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000003,0
+137468558,H,H,H,Corpus Christi,TX,78413-2958,US,T0000006,R,12/10/1990,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000005,0
+137468050,H,H,,Layton,UT,84041-1897,,emp,R,9/16/1979,,0,0,0,0,0,,,0,,,0,ApartmentRatings.com,Z000000008,0
+137467071,H,M,,Austin,TX,78754,US,emp,R,1/13/1993,N,0,0,0,0,0,,,0,EMAIL,,0,Live/Work in Area,Z000000012,0
+137466178,H,M,,Douglasville,GA,30135-4451,US,emp,N,2/19/2003,,0,0,0,0,0,,,0,PHONE,,0,Paid Search,Z000000001,0
+137465719,H,,,Mount Rainier,MD,20712-1531,US,,R,8/13/1998,M,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,1
+137465690,H,M,,South Holland,IL,60473-1316,,emp,R,7/12/2001,,0,0,0,0,0,,,0,,,0,Property Website,Z000000001,0
+137465317,H,,,Albuquerque,NM,87104,US,,R,9/7/1978,,0,0,0,0,0,,,0,,,0,Apartment List,Z000000012,1
+137464944,H,H,,Seattle,WA,98118-3892,US,,R,9/12/1973,M,0,0,0,0,0,,,0,,,0,Non-Source,Z000000001,1
+137464135,H,M,,Austin,TX,78701-3322,US,,R,11/11/1967,F,0,0,0,0,0,,,0,,,0,Affordable Housing Agency,Z000000097,0

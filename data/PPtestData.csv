@@ -1,0 +1,2 @@
+gcardId,relCode,phoneType1,phoneType2,city,state,zip,countryCode,jobTypeID,rentOwnFlag,DOB,Gender,CriminalQuestion,BrokenLease,Evicted,SuedForDamage,SuedForRent,MaritalStatus,ResidentDesignation,IsInternationalApplicant,PrefCommunicationType,County,status,trfsrcName,gcardPreferedFloorplanGroupId,gcardOccupantCount
+27,H,M,J,Seabrook,TX,77586-3247,CA,T0000016,R,10/21/1996,M,1,1,1,1,1,,,,,CA,0,Property Website,Z000000001,2

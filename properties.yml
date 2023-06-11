@@ -1,0 +1,13 @@
+settings:
+  data_path: ./data/
+  data_file: PPtrainData.csv
+  test_file: PPtestData.csv
+  streaming_file: streamingdata.txt
+  logs_path: ./logs/
+  project_name: ProspectLeasePredictor
+  log_level: DEBUG
+  kafka_host: localhost
+
+model: 
+  model_path: ./models/
+  model_file: ProspectLeasePredictor.sav
