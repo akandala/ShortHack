@@ -1,6 +1,6 @@
 version: '3.8'
 
-
+services:
   prospectpredictor:
     image: prospectpredictor
     build:
@@ -13,3 +13,7 @@ version: '3.8'
     build: nginx
     ports:
       - "80:80"
+
+
+
+
