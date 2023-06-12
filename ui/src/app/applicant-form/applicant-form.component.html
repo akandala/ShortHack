@@ -1,0 +1,150 @@
+<div class="container">
+    <h4>Applicant's Data</h4>
+    <form [formGroup]="form" (ngSubmit)="saveDetails(form)" class="example-form">
+        <mat-form-field class="example-full-width">
+          <mat-label>First Name</mat-label>
+          <input matInput placeholder="First Name"  formControlName="firstName" #firstName>
+        </mat-form-field>      
+        <mat-form-field class="example-full-width">
+          <mat-label>Last Name</mat-label>
+          <input matInput placeholder="Last Name" formControlName="lastName" #lastName>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Date of birth</mat-label>
+            <input matInput [matDatepicker]="picker" formControlName="dob">
+            <mat-hint>MM/DD/YYYY</mat-hint>
+            <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+            <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >Broken Lease</label>
+          </div>          
+          <div class="radio-contents">
+            <mat-radio-group aria-label="Select an option" formControlName="brokenLease">
+              <mat-radio-button value="1">Yes</mat-radio-button>
+              <mat-radio-button value="2">No</mat-radio-button>
+            </mat-radio-group>
+          </div>          
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+              <label style="margin-right: 20px;" >Criminal Question</label>
+          </div>          
+          <div class="radio-contents">
+            <mat-radio-group aria-label="Select an option" formControlName="CriminalQuestion">
+              <mat-radio-button value="1">Yes</mat-radio-button>
+              <mat-radio-button value="2">No</mat-radio-button>
+            </mat-radio-group>
+          </div>          
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >Evicted</label>
+          </div>
+          <div class="radio-contents">
+              <mat-radio-group aria-label="Select an option" formControlName="Evicted">
+              <mat-radio-button value="1">Yes</mat-radio-button>
+              <mat-radio-button value="2">No</mat-radio-button>
+            </mat-radio-group>
+          </div>
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >International Apllicant</label>
+          </div>
+          <div class="radio-contents">
+              <mat-radio-group aria-label="Select an option" formControlName="IsInternationalApplicant">
+              <mat-radio-button value="1">Yes</mat-radio-button>
+              <mat-radio-button value="2">No</mat-radio-button>
+            </mat-radio-group>
+          </div>
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >Sued for Damage</label>
+          </div>
+          <div class="radio-contents">
+              <mat-radio-group aria-label="Select an option" formControlName="SuedForDamage">
+              <mat-radio-button value="1">Yes</mat-radio-button>
+              <mat-radio-button value="2">No</mat-radio-button>
+            </mat-radio-group>
+          </div>
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >Sued for Rent</label>
+          </div>
+          <div class="radio-contents">
+              <mat-radio-group aria-label="Select an option" formControlName="SuedForRent">
+              <mat-radio-button value="1">Yes</mat-radio-button>
+              <mat-radio-button value="2">No</mat-radio-button>
+            </mat-radio-group>
+          </div>
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >Gender</label>
+          </div>
+          <div class="radio-contents">
+              <mat-radio-group aria-label="Select an option" formControlName="Gender">
+              <mat-radio-button value="M">Male</mat-radio-button>
+              <mat-radio-button value="F">Female</mat-radio-button>
+            </mat-radio-group>
+          </div>
+        </div>
+        <div class="radio-container">
+          <div class="radio-contents">
+            <label style="margin-right: 20px;" >rentOwnFlag</label></div>
+          <div class="radio-contents">
+            <mat-radio-group aria-label="Select an option" formControlName="rentOwnFlag">
+            <mat-radio-button value="R">Resident</mat-radio-button>
+            <mat-radio-button value="O">Owner</mat-radio-button>
+          </mat-radio-group></div>
+        </div>
+        <mat-form-field class="example-full-width">
+          <mat-label>city</mat-label>
+          <input matInput placeholder="city"  formControlName="city" #city>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>countryCode</mat-label>
+          <input matInput placeholder="countryCode"  formControlName="countryCode" #countryCode>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>state</mat-label>
+          <input matInput placeholder="state"  formControlName="state" #state>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>County</mat-label>
+          <input matInput placeholder="County"  formControlName="County" #County>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>zip code</mat-label>
+          <input matInput placeholder="zip"  formControlName="zip" #zip>
+        </mat-form-field> 
+       
+        <mat-form-field class="example-full-width">
+          <mat-label>phoneType1</mat-label>
+          <input matInput placeholder="phoneType1"  formControlName="phoneType1" #phoneType1>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>phoneType2</mat-label>
+          <input matInput placeholder="phoneType2"  formControlName="phoneType2" #phoneType2>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>Transfer Source</mat-label>
+          <input matInput placeholder="Transfer Source"  formControlName="trfsrcName" #trfsrcName>
+        </mat-form-field> 
+        <mat-form-field class="example-full-width">
+          <mat-label>Occupant count</mat-label>
+          <input matInput placeholder="Occupant Count"  formControlName="gcardOccupantCount" #gcardOccupantCount>
+        </mat-form-field> 
+        <div mat-dialog-actions>
+          <button mat-raised-button color="primary" type="submit" >Submit</button>
+      </div> 
+      </form>
+      <div>{{ form.value | json }}</div>
+</div>
+
+
+  

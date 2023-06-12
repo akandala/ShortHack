@@ -10,7 +10,7 @@ We are planning to implement a model that predicts prospect converted to Leased 
 
   ### Non-functional:
         1) Docorizing the application
-        2) Continous Integration using GitHub actions
+        2) Continuous Integration using GitHub actions
 
 ## Tech: 
 
@@ -34,7 +34,7 @@ We are planning to implement a model that predicts prospect converted to Leased 
  ### Frontend:  
    Angular: UI/UX actions / events on HTML documents, DOM transformation and accessing resources.  
 
-   Bootstrap: UI experience look and feel.  
+   Bootstrap: Great UI experience look and feel.  
 
 ## Installation: 
     1) git clone https://tfs.realpage.com/tfs/Realpage/ShortHack/_git/BeABeginner
