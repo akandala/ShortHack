@@ -34,7 +34,7 @@ We are planning to implement a model that predicts prospect converted to Leased 
  ### Frontend:  
    Angular: UI/UX actions / events on HTML documents, DOM transformation and accessing resources.  
 
-   Bootstrap: Great UI experience look and feel.  
+   Bootstrap: UI experience look and feel.  
 
 ## Installation: 
     1) git clone https://tfs.realpage.com/tfs/Realpage/ShortHack/_git/BeABeginner

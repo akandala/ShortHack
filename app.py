@@ -9,11 +9,14 @@ from sklearn.pipeline import Pipeline
 from Prospect import Prospect
 from Config import Config
 import pandas as pd
+from flask_cors import CORS
+from Predict import Predict
 
 confObj = Config()
+predictObj = Predict(0)
 load_model = pickle.load(open(confObj.modelPath(),'rb'))
 app = Flask(__name__)
-
+CORS(app)
 
 @app.route('/healthcheck')
 def HealthCheck():
@@ -23,9 +26,6 @@ def HealthCheck():
 def prospectPredict():
 
     request_data = request.get_json()
-    # language = request_data['language']
-    # Details = {'id':2,'year':2019,'model':''}
-    # prospectObj.status = load_model.predict
     prospectObj = Prospect(request_data['gcardId'],
                             request_data['relCode'],
                             request_data['phoneType1'],request_data['phoneType2'],
@@ -65,9 +65,8 @@ def prospectPredict():
     X_test = preprocessor.fit_transform(df)
 
     predict_Lease_Status = load_model.predict(X_test)
-
-    # return prospectObj.__dict__
-    return  Response(json.dumps('{"Predict": '+ str(predict_Lease_Status[0]) + '}') , status=200, mimetype='application/json') 
+    json_object = json.loads('{"Predict": '+ str(predict_Lease_Status[0]) + '}')
+    return jsonify(json_object)
 
 if __name__=='__main__':
     app.run(debug=True, host='0.0.0.0')
